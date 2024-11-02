@@ -2,11 +2,11 @@
   "config": [
     {
       "lyricPageMode": "CHORDS-FIRST",
-      "chordPaneSize": 4,
+      "chordPaneSize": 3,
       "lyricMinFontSize": 20,
       "lyricMaxFontSize": "100",
       "portrait": false,
-      "chordFontSize": "5xl"
+      "chordFontSize": "text-5xl"
     }
   ],
   "gigs": [
@@ -80,6 +80,7 @@
       "scale": "G",
       "tempo": 131,
       "timeSignature": "4/4",
+      "configChordPaneSize": 3,
       "pages": [
         {
           "section": "Verse 1",
