@@ -63,7 +63,7 @@
       "venue": "strahlwerk",
       "town": "Stralsund",
       "dateTime": "2024-09-21T14:00:00+02:00",
-      "setlist": [[1, 2, 3, 11, 18, 7, 31, 12, 6, 9], [29, 4, 5, 8, 14, 32, 41, 10, 15], [19]]
+      "setlist": [[1, 2, 3, 11, 18, 7, 17, 31, 12, 6, 9], [29, 4, 5, 43, 8, 14, 32, 41, 10, 15], [19]]
     }
   ],
   "songs": [
@@ -1642,28 +1642,6 @@
       ]
     },
     {
-      "id": 16,
-      "title": "The Sky Is Crying",
-      "writtenBy": ["Elmore James"],
-      "gemaWerknummer": "9718711-001",
-      "duration": {
-        "minutes": 2,
-        "seconds": 45
-      },
-      "lineup": "Band",
-      "scale": "D",
-      "tempo": 178,
-      "timeSignature": "4/4",
-      "pages": [
-        {
-          "section": "",
-          "chords": [],
-          "lyrics": [],
-          "duration": 12
-        }
-      ]
-    },
-    {
       "id": 17,
       "title": "Salvation Hymn",
       "writtenBy": ["Mark Keeble"],
@@ -1983,22 +1961,12 @@
         {
           "section": "Verse 3",
           "chords": [],
-          "lyrics": [
-            "Alright",
-            "Shoot her one more time again, baby",
-            "Yeah",
-            "Oh, dig it",
-            "Ah, alright"
-          ]
+          "lyrics": ["Alright", "Shoot her one more time again, baby", "Yeah", "Oh, dig it", "Ah, alright"]
         },
         {
           "section": "Verse 3",
           "chords": [],
-          "lyrics": [
-            "Hey, Joe",
-            "Where you gonna run to now? Where you gonna run to?",
-            "(x2)"
-          ]
+          "lyrics": ["Hey, Joe", "Where you gonna run to now? Where you gonna run to?", "(x2)"]
         },
         {
           "section": "Verse 4",
@@ -4158,6 +4126,73 @@
             ["Em", "G", "Em", "G"]
           ],
           "lyrics": ["Reach out and touch faith", "Your own personal Jesus", "Someone to hear your prayers", "Someone"]
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Tennessee Whiskey",
+      "writtenBy": ["Dean Dillon", "Linda Hargrove"],
+      "gemaWerknummer": "1259926-001",
+      "key": "A",
+      "lineup": "Band",
+      "pages": [
+        {
+          "section": "Intro + Verse 1",
+          "chords": [["A", "Bm", "Bm", "A"]],
+          "lyrics": [
+            "Used to spend my nights out in a barroom",
+            "Liquor was the only love I've known",
+            "But you rescued me from reachin' for the bottom",
+            "And brought me back from being too far gone"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [["A", "Bm", "Bm", "A"]],
+          "lyrics": [
+            "You're as smooth as Tennessee whiskey",
+            "You're as sweet as strawberry wine",
+            "You're as warm as a glass of brandy",
+            "And honey, I stay stoned on your love all the time"
+          ]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [["A", "Bm", "Bm", "A"]],
+          "lyrics": [
+            "I've looked for love in all the same old places",
+            "Found the bottom of a bottle always dry",
+            "But when you poured out your heart I didn't waste it",
+            "Cause there's nothing like your love to get me high"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [["A", "Bm", "Bm", "A"]],
+          "lyrics": [
+            "You're as smooth as Tennessee whiskey",
+            "You're as sweet as strawberry wine",
+            "You're as warm as a glass of brandy",
+            "And honey, I stay stoned on your love all the time"
+          ]
+        },
+        {
+          "section": "{SOLO x2}",
+          "chords": [["A", "Bm", "Bm", "A"]],
+          "lyrics": []
+        },
+        {
+          "section": "Chorus",
+          "chords": [["A", "Bm", "Bm", "A"]],
+          "lyrics": [
+            "You're as smooth as Tennessee whiskey",
+            "You're as sweet as strawberry wine",
+            "You're as warm as a glass of brandy",
+            "And honey, I stay stoned on your love all the time",
+            "",
+            "[repeat, close on 2nd chorus]"
+          ]
         }
       ]
     }
