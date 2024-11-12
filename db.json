@@ -641,6 +641,7 @@
       "scale": "A",
       "tempo": 75,
       "timeSignature": "4/4",
+      "configChordPaneSize": 4,
       "pages": [
         {
           "section": " Intro + Verse 1",
@@ -728,6 +729,7 @@
       "scale": "Bm",
       "tempo": 95,
       "timeSignature": "4/4",
+      "configChordPaneSize": 4,
       "pages": [
         {
           "section": "Intro + Verse 1",
@@ -990,6 +992,7 @@
       "tempo": 120,
       "timeSignature": "4/4",
       "lineup": "Band",
+      "configChordPaneSize": 4,
       "pages": [
         {
           "section": "Verse 1",
@@ -3940,6 +3943,7 @@
       "writtenBy": ["Toy Caldwell"],
       "gemaWerknummer": "",
       "lineup": "Band",
+      "configChordPaneSize": 2,
       "pages": [
         {
           "section": "Verse 1",
