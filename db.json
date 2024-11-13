@@ -4003,7 +4003,7 @@
       "gemaWerknummer": "GEMA",
       "setup": "Capo 2rd fret",
       "timeSignature": "4/4",
-      "key": "F#m",
+      "scale": "F#m",
       "lineup": "Band",
       "pages": [
         {
@@ -4138,7 +4138,7 @@
       "title": "Tennessee Whiskey",
       "writtenBy": ["Dean Dillon", "Linda Hargrove"],
       "gemaWerknummer": "1259926-001",
-      "key": "A",
+      "scale": "A",
       "lineup": "Band",
       "pages": [
         {
@@ -4207,7 +4207,7 @@
       "gemaWerknummer": "",
       "lineup": "Band",
       "tempo": 110,
-      "key": "C",
+      "scale": "C",
       "configChordPaneSize": 2,
       "timeSignature": "4/4",
       "pages": [
