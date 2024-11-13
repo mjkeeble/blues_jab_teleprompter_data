@@ -4199,6 +4199,123 @@
           ]
         }
       ]
+    },
+    {
+      "id": 44,
+      "title": "Midnight Special",
+      "writtenBy": ["Lead Belly"],
+      "gemaWerknummer": "",
+      "lineup": "Band",
+      "tempo": 110,
+      "key": "C",
+      "configChordPaneSize": 3,
+      "timeSignature": "4/4",
+      "pages": [
+        {
+          "section": "Intro + Chorus",
+          "chords": [["F", "F", "C", "C"], ["G", "F", "C", "C"], [], ["F", "F", "C", "C"], ["G", "F", "C", "C"]],
+          "lyrics": [
+            "Let the midnight special shine a light on me",
+            "Let the midnight special shine its ever-loving light on me"
+          ]
+        },
+        {
+          "section": "Verse 1",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Well, you wake up in the morning, hear the working bell ring",
+            "And they march you to the table, you see the same old thing",
+            "Ain't no food upon the table, and no pork in the pan",
+            "But you better not complain, boy",
+            "You get in trouble with the man"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Let the midnight special shine a light on me",
+            "Let the midnight special shine a light on me",
+            "Let the midnight special shine a light on me",
+            "Let the midnight special shine its ever-loving light on me"
+          ]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Yonder come Miss Rosie, how in the world do you know?",
+            "Well, I know her by her apron and the dress she wore",
+            "Umbrella on her shoulder, piece of paper in her hand",
+            "She come to see the gov\\'nor",
+            "She wants to free her man"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Let the midnight special shine a light on me",
+            "Let the midnight special shine a light on me",
+            "Let the midnight special shine a light on me",
+            "Let the midnight special shine its ever-loving light on me"
+          ]
+        },
+        {
+          "section": "Verse 3",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "If you go down to Mar-A-Lago, check out the boxes in the John",
+            "They're full of secrests and launch codes",
+            "World War Three, bring it on!",
+            "Oh, I met Miss Rosie down there, things didn't go as she had planned",
+            "She felt something lifting up her skirt",
+            "Lord, it was the Presiden\\'ts hand"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Let the midnight special shine a light on me",
+            "Let the midnight special shine a light on me",
+            "Let the midnight special shine a light on me",
+            "Let the midnight special shine its ever-loving light on me"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Let the midnight special shine a light on me",
+            "Let the midnight special...",
+            "[BREAK]",
+            "...shine a light",
+            "on me"
+          ]
+        }
+      ]
     }
   ]
 }
