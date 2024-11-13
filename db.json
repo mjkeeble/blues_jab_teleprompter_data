@@ -1066,7 +1066,7 @@
             ["G7", "G7 (F#7)", "F7!", "/"],
             ["C", "-", "-", "-"]
           ],
-          "lyrics": ["[ SOLO x2]"],
+          "lyrics": ["[ SOLO x1]"],
           "duration": 48
         },
         {
@@ -1503,8 +1503,8 @@
             "I keep thinking something like Olivia",
             "Is what I need to find",
             "",
-            "[ x 2 ]",
-            "[STOP on 1/13 of 2nd bridge]"
+            "[ SOLO ]",
+            "[STOP on 1/13]"
           ]
         }
       ]
