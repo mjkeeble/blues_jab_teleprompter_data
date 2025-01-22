@@ -18,7 +18,7 @@
       "setlist": [[1, 2, 3, 11, 18 ,7 ,31, 12, 6, 9]]
     },
     {
-      "id": "f441088b-4d15-4926-b835-e7916e359cbe",
+      "id": 2,
       "venue": "<<Practice set 2>>",
       "town": "Babelsberg",
       "dateTime": "2024-04-04T19:00:01+02:00",
@@ -32,7 +32,7 @@
       "setlist": [[43, 41, 44, 38, 39, 28]]
     },
     {
-      "id": "5c510197-549b-4a07-a3fb-d7ff09d26739",
+      "id": 3,
       "venue": "Die Alte Garage",
       "town": "Babelsberg",
 
@@ -45,32 +45,36 @@
       ]
     },
     {
-      "id": "6b5d6a01-ea30-4b01-8a52-13e354ee9e12",
+      "id": 4,
       "venue": "Regenbogen Camp",
       "town": "Göhren",
       "dateTime": "2024-06-15T19:00:00+02:00",
       "setlist": [[32, 14, 15]]
     },
     {
-      "id": "fc30db85-b66b-4e48-bd04-a01e38d07f59",
+      "id": 5,
       "venue": "Regenbogen Camp (Jans Kurs)",
       "town": "Göhren",
       "dateTime": "2024-06-14T19:00:00+02:00",
       "setlist": [[38, 35, 33, 34, 37]]
     },
     {
-      "id": "9360032f-81f3-4f8f-ae6a-cbb0fbc3ecf7",
+      "id": 6,
       "venue": "Kulturscheune",
       "town": "Rangsdorf",
       "dateTime": "2024-09-28T19:30:00+02:00",
       "setlist": [[1, 11, 12, 32, 4, 31, 41, 9], [8]]
     },
     {
-      "id": "39b287a1-eda4-4a2b-943f-435a856fe678",
+      "id": 7,
       "venue": "strahlwerk",
       "town": "Stralsund",
       "dateTime": "2024-09-21T14:00:00+02:00",
-      "setlist": [[1, 2, 3, 11, 18, 7, 17, 31, 12, 6, 9], [29, 4, 5, 43, 8, 14, 32, 41, 10, 15], [19]]
+      "setlist": [
+        [1, 2, 3, 11, 18, 7, 17, 31, 12, 6, 9],
+        [29, 4, 5, 43, 8, 14, 32, 41, 10, 15],
+        [19]
+      ]
     }
   ],
   "songs": [
@@ -79,10 +83,8 @@
       "title": "All That I Can Do Is Sing The Blues",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "31889321-001",
-      "duration": {
-        "minutes": 2,
-        "seconds": 0
-      },
+      "durationMinutes": 2,
+      "durationSeconds": 0,
       "lineup": "Band",
       "scale": "G",
       "tempo": 131,
@@ -176,10 +178,8 @@
       "title": "I Remember You",
       "writtenBy": ["Keb’ Mo’"],
       "gemaWerknummer": "22718367-001",
-      "duration": {
-        "minutes": 4,
-        "seconds": 45
-      },
+      "durationMinutes": 4,
+      "durationSeconds": 45,
       "lineup": "Band",
       "scale": "D",
       "tempo": 105,
@@ -323,10 +323,8 @@
       "title": "Crosscut Saw",
       "writtenBy": ["Trad."],
       "gemaWerknummer": "",
-      "duration": {
-        "minutes": 3,
-        "seconds": 0
-      },
+      "durationMinutes": 3,
+      "durationSeconds": 0,
       "lineup": "Band",
       "scale": "A",
       "tempo": 129,
@@ -422,10 +420,8 @@
       "title": "One Step Forward",
       "writtenBy": ["Dave Bronze"],
       "gemaWerknummer": "3248336-001",
-      "duration": {
-        "minutes": 5,
-        "seconds": 15
-      },
+      "durationMinutes": 5,
+      "durationSeconds": 15,
       "lineup": "Band",
       "scale": "Am",
       "tempo": 73,
@@ -497,10 +493,8 @@
       "title": "Help The Poor",
       "writtenBy": ["Charles Singleton"],
       "gemaWerknummer": "814675-001",
-      "duration": {
-        "minutes": 4,
-        "seconds": 15
-      },
+      "durationMinutes": 4,
+      "durationSeconds": 15,
       "lineup": "Band",
       "scale": "Dm",
       "tempo": 110,
@@ -640,10 +634,8 @@
       "title": "Sho’ Nuff I Do",
       "writtenBy": ["Elmore James"],
       "gemaWerknummer": "2129357-001",
-      "duration": {
-        "minutes": 2,
-        "seconds": 40
-      },
+      "durationMinutes": 2,
+      "durationSeconds": 40,
       "lineup": "Band",
       "scale": "A",
       "tempo": 75,
@@ -728,10 +720,8 @@
       "title": "The Thrill Is Gone",
       "writtenBy": ["Rick Darnell", "Roy Hawkins"],
       "gemaWerknummer": "532048-001",
-      "duration": {
-        "minutes": 3,
-        "seconds": 50
-      },
+      "durationMinutes": 3,
+      "durationSeconds": 50,
       "lineup": "Band",
       "scale": "Bm",
       "tempo": 95,
@@ -820,10 +810,8 @@
       "title": "Thinkin’ ’Bout You",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "31889317-001",
-      "duration": {
-        "minutes": 3,
-        "seconds": 30
-      },
+      "durationMinutes": 3,
+      "durationSeconds": 30,
       "lineup": "Band",
       "scale": "E",
       "tempo": 130,
@@ -912,10 +900,8 @@
       "title": "Rollin’ Man",
       "writtenBy": ["Patrick Adams", "Peter Green"],
       "gemaWerknummer": "510859-001",
-      "duration": {
-        "minutes": 3,
-        "seconds": 30
-      },
+      "durationMinutes": 3,
+      "durationSeconds": 30,
       "lineup": "Band",
       "scale": "A",
       "tempo": 140,
@@ -991,10 +977,8 @@
       "title": "Mustang Sally",
       "writtenBy": ["Mack Rice"],
       "gemaWerknummer": "749289-001",
-      "duration": {
-        "minutes": 6,
-        "seconds": 0
-      },
+      "durationMinutes": 6,
+      "durationSeconds": 0,
       "scale": "C",
       "tempo": 120,
       "timeSignature": "4/4",
@@ -1103,10 +1087,8 @@
       "title": "Can I Lean On You",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "32939344-001",
-      "duration": {
-        "minutes": 5,
-        "seconds": 10
-      },
+      "durationMinutes": 5,
+      "durationSeconds": 10,
       "lineup": "Band",
       "scale": "Ab",
       "tempo": 55,
@@ -1114,7 +1096,12 @@
       "pages": [
         {
           "section": "Intro + Verse 1 - 2",
-          "chords": [["Ab", "C", "Db", "Bbm"], [], ["Ab", "C", "Db", "Bbm"], ["Ab", "C", "Db", "Bbm"]],
+          "chords": [
+            ["Ab", "C", "Db", "Bbm"],
+            [],
+            ["Ab", "C", "Db", "Bbm"],
+            ["Ab", "C", "Db", "Bbm"]
+          ],
           "lyrics": [
             "When I’m cold and shaking",
             "Like a cat in the rain",
@@ -1229,10 +1216,8 @@
       "title": "Lie To Me",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "33774111-001",
-      "duration": {
-        "minutes": 3,
-        "seconds": 30
-      },
+      "durationMinutes": 3,
+      "durationSeconds": 30,
       "lineup": "Band",
       "scale": "A",
       "tempo": 145,
@@ -1348,10 +1333,8 @@
       "version": "Second bridge at end",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "31889331-001",
-      "duration": {
-        "minutes": 5,
-        "seconds": 0
-      },
+      "durationMinutes": 5,
+      "durationSeconds": 0,
       "lineup": "Band",
       "scale": "A",
       "tempo": 115,
@@ -1414,7 +1397,10 @@
             ["D7", "-", "A7", "-"],
             ["E7", "D7", "A7", "E7"]
           ],
-          "lyrics": ["Oh Mama, when you gonna take me home?", "My luck is fading, I don’t want to be alone"],
+          "lyrics": [
+            "Oh Mama, when you gonna take me home?",
+            "My luck is fading, I don’t want to be alone"
+          ],
           "duration": 12
         },
         {
@@ -1440,10 +1426,8 @@
       "title": "Something Like Olivia",
       "writtenBy": ["John Mayer"],
       "gemaWerknummer": "12696097-001",
-      "duration": {
-        "minutes": 3,
-        "seconds": 0
-      },
+      "durationMinutes": 3,
+      "durationSeconds": 0,
       "lineup": "Band",
       "scale": "G",
       "tempo": 99,
@@ -1451,7 +1435,13 @@
       "pages": [
         {
           "section": "Intro + Verse 1",
-          "chords": [["G", "-", "-", "-"], [], ["G", "-", "-", "-"], ["C", "-", "G", "-"], ["D", "C", "G", "-"]],
+          "chords": [
+            ["G", "-", "-", "-"],
+            [],
+            ["G", "-", "-", "-"],
+            ["C", "-", "G", "-"],
+            ["D", "C", "G", "-"]
+          ],
           "lyrics": [
             "Well, Olivia is taken",
             "But a look like hers can be found from time to time (x2))",
@@ -1521,10 +1511,8 @@
       "title": "Talk To Me Baby",
       "writtenBy": ["Elmore James"],
       "gemaWerknummer": "564260-001",
-      "duration": {
-        "minutes": 4,
-        "seconds": 15
-      },
+      "durationMinutes": 4,
+      "durationSeconds": 15,
       "lineup": "Band",
       "scale": "C",
       "tempo": 128,
@@ -1656,10 +1644,8 @@
       "title": "Salvation Hymn",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "28368152-004",
-      "duration": {
-        "minutes": 3,
-        "seconds": 30
-      },
+      "durationMinutes": 3,
+      "durationSeconds": 30,
       "lineup": "Band",
       "scale": "G",
       "tempo": 56,
@@ -1792,10 +1778,8 @@
       "title": "Kissing In The Dark",
       "writtenBy": ["Ernest Lawlers"],
       "gemaWerknummer": "2676917-001",
-      "duration": {
-        "minutes": 3,
-        "seconds": 15
-      },
+      "durationMinutes": 3,
+      "durationSeconds": 15,
       "lineup": "Band",
       "scale": "A",
       "tempo": 140,
@@ -1921,10 +1905,8 @@
       "title": "Hey Joe",
       "writtenBy": ["Billy Roberts"],
       "gemaWerknummer": "754810-001",
-      "duration": {
-        "minutes": 3,
-        "seconds": 30
-      },
+      "durationMinutes": 3,
+      "durationSeconds": 30,
       "lineup": "Band",
       "scale": "A",
       "tempo": 85,
@@ -1971,7 +1953,13 @@
         {
           "section": "Verse 3",
           "chords": [],
-          "lyrics": ["Alright", "Shoot her one more time again, baby", "Yeah", "Oh, dig it", "Ah, alright"]
+          "lyrics": [
+            "Alright",
+            "Shoot her one more time again, baby",
+            "Yeah",
+            "Oh, dig it",
+            "Ah, alright"
+          ]
         },
         {
           "section": "Verse 3",
@@ -1993,7 +1981,12 @@
         {
           "section": "Outro",
           "chords": [],
-          "lyrics": ["Hey, Joe", "You better run on down", "Goodbye, everybody, ow", "Hey, hey, Joe"]
+          "lyrics": [
+            "Hey, Joe",
+            "You better run on down",
+            "Goodbye, everybody, ow",
+            "Hey, hey, Joe"
+          ]
         }
       ]
     },
@@ -2002,10 +1995,8 @@
       "title": "Black Coffee",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "33774118-001",
-      "duration": {
-        "minutes": 2,
-        "seconds": 25
-      },
+      "durationMinutes": 2,
+      "durationSeconds": 25,
       "lineup": "Mark (acoustic)",
       "scale": "G",
       "tempo": 130,
@@ -2128,10 +2119,8 @@
       "title": "Freedom Train",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "35984804-001",
-      "duration": {
-        "minutes": 5,
-        "seconds": 0
-      },
+      "durationMinutes": 5,
+      "durationSeconds": 0,
       "lineup": "Mark (acoustic)",
       "scale": "C",
       "tempo": 65,
@@ -2236,10 +2225,8 @@
       "title": "I Only Get The Blues With You",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "28368011-001",
-      "duration": {
-        "minutes": 3,
-        "seconds": 0
-      },
+      "durationMinutes": 3,
+      "durationSeconds": 0,
       "lineup": "Mark (acoustic)",
       "scale": "Dm",
       "tempo": 136,
@@ -2311,7 +2298,12 @@
         },
         {
           "section": "Bridge",
-          "chords": [["C", "Em", "C", "Em"], ["C", "Em", "C", "E7"], ["-"], ["Am  C", "Am  C", "Am  C", "Am  C"]],
+          "chords": [
+            ["C", "Em", "C", "Em"],
+            ["C", "Em", "C", "E7"],
+            ["-"],
+            ["Am  C", "Am  C", "Am  C", "Am  C"]
+          ],
           "lyrics": [
             "You’re my yin and my yang",
             "My pleasure, my pain",
@@ -2352,10 +2344,8 @@
       "title": "On Poverty Road",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "35984800-001",
-      "duration": {
-        "minutes": 3,
-        "seconds": 0
-      },
+      "durationMinutes": 3,
+      "durationSeconds": 0,
       "lineup": "Mark (acoustic)",
       "scale": "A",
       "tempo": 155,
@@ -2480,10 +2470,8 @@
       "title": "Treat You Right",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "28368018-001",
-      "duration": {
-        "minutes": 2,
-        "seconds": 30
-      },
+      "durationMinutes": 2,
+      "durationSeconds": 30,
       "lineup": "Mark (acoustic)",
       "scale": "E",
       "tempo": 140,
@@ -2576,10 +2564,8 @@
       "title": "What Have I Done",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "28368009-001",
-      "duration": {
-        "minutes": 3,
-        "seconds": 0
-      },
+      "durationMinutes": 3,
+      "durationSeconds": 0,
       "lineup": "Mark (acoustic)",
       "scale": "E",
       "tempo": 128,
@@ -2706,10 +2692,8 @@
       "title": "Highway Kind",
       "writtenBy": ["Townes Van Zandt"],
       "gemaWerknummer": "   ",
-      "duration": {
-        "minutes": 2,
-        "seconds": 50
-      },
+      "durationMinutes": 2,
+      "durationSeconds": 50,
       "lineup": "Mark (electric)",
       "scale": "Em",
       "tempo": 52,
@@ -2807,10 +2791,8 @@
       "title": "When Are We Gonna Learn",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "31889319-001",
-      "duration": {
-        "minutes": 2,
-        "seconds": 30
-      },
+      "durationMinutes": 2,
+      "durationSeconds": 30,
       "lineup": "Mark (acoustic)",
       "scale": "Cm",
       "tempo": 120,
@@ -2901,10 +2883,8 @@
       "title": "Look, Don’t Touch",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "31889323-001",
-      "duration": {
-        "minutes": 2,
-        "seconds": 45
-      },
+      "durationMinutes": 2,
+      "durationSeconds": 45,
       "lineup": "Mark (electric)",
       "scale": "E",
       "tempo": 80,
@@ -2912,7 +2892,13 @@
       "pages": [
         {
           "section": "Verse 1",
-          "chords": [["E", "-", "-", "-"], [], ["E", "-", "-", "-"], ["A", "-", "E", "-"], ["B", "-", "E", "-"]],
+          "chords": [
+            ["E", "-", "-", "-"],
+            [],
+            ["E", "-", "-", "-"],
+            ["A", "-", "E", "-"],
+            ["B", "-", "E", "-"]
+          ],
           "lyrics": [
             "I met a girl, she was so fine",
             "I decided to make her mine",
@@ -2927,7 +2913,13 @@
         },
         {
           "section": "Verse 2",
-          "chords": [["E", "-", "-", "-"], [], ["E", "-", "-", "-"], ["A", "-", "E", "-"], ["B", "-", "E", "-"]],
+          "chords": [
+            ["E", "-", "-", "-"],
+            [],
+            ["E", "-", "-", "-"],
+            ["A", "-", "E", "-"],
+            ["B", "-", "E", "-"]
+          ],
           "lyrics": [
             "We went to the movies to see some romance",
             "Then on to a nightclub ’cause she wanted to dance",
@@ -2959,7 +2951,13 @@
         },
         {
           "section": "Solo + verse 3",
-          "chords": [["E", "-", "-", "-"], [], ["E", "-", "-", "-"], ["A", "-", "E", "-"], ["B", "-", "E", "-"]],
+          "chords": [
+            ["E", "-", "-", "-"],
+            [],
+            ["E", "-", "-", "-"],
+            ["A", "-", "E", "-"],
+            ["B", "-", "E", "-"]
+          ],
           "lyrics": [
             "I went out and bought a ring",
             "With a big diamond and plenty of bling",
@@ -2978,10 +2976,8 @@
       "title": "Baby What You Want Me To Do",
       "writtenBy": ["Jimmy Reed"],
       "gemaWerknummer": "912087-001",
-      "duration": {
-        "minutes": 2,
-        "seconds": 45
-      },
+      "durationMinutes": 2,
+      "durationSeconds": 45,
       "lineup": "Band + guest",
       "scale": "E",
       "tempo": 133,
@@ -3012,10 +3008,8 @@
       "title": "Blue Jeans Blues",
       "writtenBy": ["Billy Gibbons", "Dusty Hill", "Frank Beard"],
       "gemaWerknummer": "1060733-001",
-      "duration": {
-        "minutes": 2,
-        "seconds": 25
-      },
+      "durationMinutes": 2,
+      "durationSeconds": 25,
       "lineup": "Band",
       "scale": "Bm",
       "tempo": 131,
@@ -3052,10 +3046,8 @@
       "title": "Sly Dog Blues",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "",
-      "duration": {
-        "minutes": 2,
-        "seconds": 25
-      },
+      "durationMinutes": 2,
+      "durationSeconds": 25,
       "lineup": "Band",
       "scale": "A",
       "tempo": 95,
@@ -3183,10 +3175,8 @@
       "version": "No bridge at end",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "31889331-001",
-      "duration": {
-        "minutes": 5,
-        "seconds": 0
-      },
+      "durationMinutes": 5,
+      "durationSeconds": 0,
       "lineup": "Band",
       "scale": "A",
       "tempo": 115,
@@ -3774,7 +3764,13 @@
             ["D", "D", "A", "A"],
             ["E", "E", "A", "A"]
           ],
-          "lyrics": ["Full moon, half crazy", "Crawlin’ in my skin", "", "Evil spirits", "Pullin’ me in"],
+          "lyrics": [
+            "Full moon, half crazy",
+            "Crawlin’ in my skin",
+            "",
+            "Evil spirits",
+            "Pullin’ me in"
+          ],
           "duration": 12
         },
         {
@@ -3842,7 +3838,13 @@
             ["D", "D", "A", "A"],
             ["E", "E", "A", "A"]
           ],
-          "lyrics": ["Full moon, half crazy", "Crawlin’ in my skin", "", "Evil spirits", "Pullin’ me in"],
+          "lyrics": [
+            "Full moon, half crazy",
+            "Crawlin’ in my skin",
+            "",
+            "Evil spirits",
+            "Pullin’ me in"
+          ],
           "duration": 12
         },
         {
@@ -3874,7 +3876,12 @@
         },
         {
           "section": "Verse 1",
-          "chords": [["A", "A", "A", "A7"], ["D7", "D7", "A", "A"], ["E7", "E7", "A!  D7!", "E7! A"], ["A"]],
+          "chords": [
+            ["A", "A", "A", "A7"],
+            ["D7", "D7", "A", "A"],
+            ["E7", "E7", "A!  D7!", "E7! A"],
+            ["A"]
+          ],
           "lyrics": [
             "Trying to love this woman",
             "It’s going to break my back",
@@ -4136,7 +4143,12 @@
             ["Em", "G", "Em", "G"],
             ["Em", "G", "Em", "G"]
           ],
-          "lyrics": ["Reach out and touch faith", "Your own personal Jesus", "Someone to hear your prayers", "Someone"]
+          "lyrics": [
+            "Reach out and touch faith",
+            "Your own personal Jesus",
+            "Someone to hear your prayers",
+            "Someone"
+          ]
         }
       ]
     },
@@ -4220,7 +4232,13 @@
       "pages": [
         {
           "section": "Intro + Chorus",
-          "chords": [["F", "F", "C", "C"], ["G", "F", "C", "C"], [], ["F", "F", "C", "C"], ["G", "F", "C", "C"]],
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"],
+            [],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
           "lyrics": [
             "Let the midnight special",
             "Shine a light on me",
