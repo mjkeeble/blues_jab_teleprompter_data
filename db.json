@@ -12,17 +12,24 @@
   "gigs": [
     {
       "id": "ac544263-95c2-4163-b147-caeafc96ac47",
-      "venue": "Practice set 1",
+      "venue": "<<Practice set 1>>",
       "town": "Babelsberg",
-      "dateTime": "2020-01-01T19:00:00+02:00",
-      "setlist": [[1, 2, 3, 11, 18, 7, 12, 6, 9]]
+      "dateTime": "2024-04-04T19:00:00+02:00",
+      "setlist": [[1, 2, 3, 11, 18 ,7 ,31, 12, 6, 9]]
     },
     {
       "id": "f441088b-4d15-4926-b835-e7916e359cbe",
-      "venue": "Practice set 2",
+      "venue": "<<Practice set 2>>",
       "town": "Babelsberg",
-      "dateTime": "2021-01-01T19:00:00+02:00",
-      "setlist": [[29, 4, 5, 17, 8, 14, 13, 10, 15, 19]]
+      "dateTime": "2024-04-04T19:00:01+02:00",
+      "setlist": [[29, 4, 5, 17, 8, 14, 32, 10, 15, 19]]
+    },
+    {
+      "id": "d010ea2f-ea89-450d-aad0-61188149e64f",
+      "venue": "<<Practice set 3>>",
+      "town": "Babelsberg",
+      "dateTime": "2024-04-04T19:00:02+02:00",
+      "setlist": [[43, 41, 44, 38, 39, 28]]
     },
     {
       "id": "5c510197-549b-4a07-a3fb-d7ff09d26739",
