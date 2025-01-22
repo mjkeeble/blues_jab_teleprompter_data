@@ -11,28 +11,28 @@
   ],
   "gigs": [
     {
-      "id": "ac544263-95c2-4163-b147-caeafc96ac47",
+      "id": "1",
       "venue": "<<Practice set 1>>",
       "town": "Babelsberg",
-      "dateTime": "2024-04-04T19:00:00+02:00",
+      "dateTime": "2025-04-04T19:00:00+02:00",
       "setlist": [[1, 2, 3, 11, 18 ,7 ,31, 12, 6, 9]]
     },
     {
-      "id": 2,
+      "id": "2",
       "venue": "<<Practice set 2>>",
       "town": "Babelsberg",
-      "dateTime": "2024-04-04T19:00:01+02:00",
+      "dateTime": "2025-04-04T19:00:01+02:00",
       "setlist": [[29, 4, 5, 17, 8, 14, 32, 10, 15, 19]]
     },
     {
-      "id": "d010ea2f-ea89-450d-aad0-61188149e64f",
+      "id": "3",
       "venue": "<<Practice set 3>>",
       "town": "Babelsberg",
-      "dateTime": "2024-04-04T19:00:02+02:00",
+      "dateTime": "2025-04-04T19:00:02+02:00",
       "setlist": [[43, 41, 44, 38, 39, 28]]
     },
     {
-      "id": 3,
+      "id": "4",
       "venue": "Die Alte Garage",
       "town": "Babelsberg",
 
@@ -45,28 +45,28 @@
       ]
     },
     {
-      "id": 4,
+      "id": "5",
       "venue": "Regenbogen Camp",
       "town": "Göhren",
       "dateTime": "2024-06-15T19:00:00+02:00",
       "setlist": [[32, 14, 15]]
     },
     {
-      "id": 5,
+      "id": "6",
       "venue": "Regenbogen Camp (Jans Kurs)",
       "town": "Göhren",
       "dateTime": "2024-06-14T19:00:00+02:00",
       "setlist": [[38, 35, 33, 34, 37]]
     },
     {
-      "id": 6,
+      "id": "7",
       "venue": "Kulturscheune",
       "town": "Rangsdorf",
       "dateTime": "2024-09-28T19:30:00+02:00",
       "setlist": [[1, 11, 12, 32, 4, 31, 41, 9], [8]]
     },
     {
-      "id": 7,
+      "id": "8",
       "venue": "strahlwerk",
       "town": "Stralsund",
       "dateTime": "2024-09-21T14:00:00+02:00",
@@ -79,7 +79,7 @@
   ],
   "songs": [
     {
-      "id": 1,
+      "id": "1",
       "title": "All That I Can Do Is Sing The Blues",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "31889321-001",
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "I Remember You",
       "writtenBy": ["Keb’ Mo’"],
       "gemaWerknummer": "22718367-001",
@@ -319,7 +319,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Crosscut Saw",
       "writtenBy": ["Trad."],
       "gemaWerknummer": "",
@@ -416,7 +416,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "One Step Forward",
       "writtenBy": ["Dave Bronze"],
       "gemaWerknummer": "3248336-001",
@@ -489,7 +489,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "Help The Poor",
       "writtenBy": ["Charles Singleton"],
       "gemaWerknummer": "814675-001",
@@ -630,7 +630,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": "6",
       "title": "Sho’ Nuff I Do",
       "writtenBy": ["Elmore James"],
       "gemaWerknummer": "2129357-001",
@@ -716,7 +716,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": "7",
       "title": "The Thrill Is Gone",
       "writtenBy": ["Rick Darnell", "Roy Hawkins"],
       "gemaWerknummer": "532048-001",
@@ -806,7 +806,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": "8",
       "title": "Thinkin’ ’Bout You",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "31889317-001",
@@ -896,7 +896,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": "9",
       "title": "Rollin’ Man",
       "writtenBy": ["Patrick Adams", "Peter Green"],
       "gemaWerknummer": "510859-001",
@@ -973,7 +973,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": "10",
       "title": "Mustang Sally",
       "writtenBy": ["Mack Rice"],
       "gemaWerknummer": "749289-001",
@@ -1083,7 +1083,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": "11",
       "title": "Can I Lean On You",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "32939344-001",
@@ -1212,7 +1212,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": "12",
       "title": "Lie To Me",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "33774111-001",
@@ -1328,7 +1328,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": "13",
       "title": "Mama (Kindergarten Blues)",
       "version": "Second bridge at end",
       "writtenBy": ["Mark Keeble"],
@@ -1422,7 +1422,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": "14",
       "title": "Something Like Olivia",
       "writtenBy": ["John Mayer"],
       "gemaWerknummer": "12696097-001",
@@ -1507,7 +1507,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": "15",
       "title": "Talk To Me Baby",
       "writtenBy": ["Elmore James"],
       "gemaWerknummer": "564260-001",
@@ -1640,7 +1640,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": "17",
       "title": "Salvation Hymn",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "28368152-004",
@@ -1774,7 +1774,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": "18",
       "title": "Kissing In The Dark",
       "writtenBy": ["Ernest Lawlers"],
       "gemaWerknummer": "2676917-001",
@@ -1901,7 +1901,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": "19",
       "title": "Hey Joe",
       "writtenBy": ["Billy Roberts"],
       "gemaWerknummer": "754810-001",
@@ -1991,7 +1991,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": "20",
       "title": "Black Coffee",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "33774118-001",
@@ -2115,7 +2115,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": "21",
       "title": "Freedom Train",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "35984804-001",
@@ -2340,7 +2340,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": "23",
       "title": "On Poverty Road",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "35984800-001",
@@ -2466,7 +2466,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": "24",
       "title": "Treat You Right",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "28368018-001",
@@ -2560,7 +2560,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": "25",
       "title": "What Have I Done",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "28368009-001",
@@ -2688,7 +2688,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": "26",
       "title": "Highway Kind",
       "writtenBy": ["Townes Van Zandt"],
       "gemaWerknummer": "   ",
@@ -2787,7 +2787,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": "27",
       "title": "When Are We Gonna Learn",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "31889319-001",
@@ -2879,7 +2879,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": "28",
       "title": "Look, Don’t Touch",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "31889323-001",
@@ -2972,7 +2972,7 @@
       ]
     },
     {
-      "id": 29,
+      "id": "29",
       "title": "Baby What You Want Me To Do",
       "writtenBy": ["Jimmy Reed"],
       "gemaWerknummer": "912087-001",
@@ -3004,7 +3004,7 @@
       ]
     },
     {
-      "id": 30,
+      "id": "30",
       "title": "Blue Jeans Blues",
       "writtenBy": ["Billy Gibbons", "Dusty Hill", "Frank Beard"],
       "gemaWerknummer": "1060733-001",
@@ -3042,7 +3042,7 @@
       ]
     },
     {
-      "id": 31,
+      "id": "31",
       "title": "Sly Dog Blues",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "",
@@ -3170,7 +3170,7 @@
       ]
     },
     {
-      "id": 32,
+      "id": "32",
       "title": "Mama (Kindergarten Blues)",
       "version": "No bridge at end",
       "writtenBy": ["Mark Keeble"],
@@ -3249,7 +3249,7 @@
       ]
     },
     {
-      "id": 33,
+      "id": "33",
       "title": "Tin Pan Alley",
       "writtenBy": ["Bob Geddins"],
       "gemaWerknummer": "",
@@ -3319,7 +3319,7 @@
       ]
     },
     {
-      "id": 34,
+      "id": "34",
       "title": "The Music’s Hot",
       "writtenBy": ["J. Moore", "R. Hayes"],
       "gemaWerknummer": "",
@@ -3413,7 +3413,7 @@
       ]
     },
     {
-      "id": 35,
+      "id": "35",
       "title": "Going Up The Country",
       "writtenBy": [],
       "gemaWerknummer": "Band + guest",
@@ -3540,7 +3540,7 @@
       ]
     },
     {
-      "id": 36,
+      "id": "36",
       "title": "Fortunate Son",
       "writtenBy": [],
       "gemaWerknummer": "",
@@ -3625,7 +3625,7 @@
       ]
     },
     {
-      "id": 37,
+      "id": "37",
       "title": "Tush",
       "writtenBy": [],
       "gemaWerknummer": "",
@@ -3671,7 +3671,7 @@
       ]
     },
     {
-      "id": 38,
+      "id": "38",
       "title": "Loan Me A Dime",
       "writtenBy": ["Fenton Robinson"],
       "gemaWerknummer": "770987-001",
@@ -3745,7 +3745,7 @@
       ]
     },
     {
-      "id": 39,
+      "id": "39",
       "title": "Full Moon, Half Crazy",
       "writtenBy": ["Jeffrey Schroedl"],
       "lineup": "Band",
@@ -3755,7 +3755,8 @@
       "pages": [
         {
           "section": "Intro",
-          "chords": ["A", "A", "A", "A"]
+          "chords": ["A", "A", "A", "A"],
+          "lyrics": []
         },
         {
           "section": "Verse 1",
@@ -3805,7 +3806,6 @@
           ],
           "duration": 8
         },
-
         {
           "section": "Solo",
           "chords": [
@@ -3859,7 +3859,7 @@
       ]
     },
     {
-      "id": 40,
+      "id": "40",
       "title": "Get It While You Can",
       "writtenBy": ["Dan Auerbach", "John Prine", "Pat McLaughlin"],
       "gemaWerknummer": "",
@@ -3952,7 +3952,7 @@
       ]
     },
     {
-      "id": 41,
+      "id": "41",
       "title": "Can’t You See",
       "writtenBy": ["Toy Caldwell"],
       "gemaWerknummer": "",
@@ -4011,7 +4011,7 @@
       ]
     },
     {
-      "id": 42,
+      "id": "42",
       "title": "Personal Jesus (unfinished)",
       "writtenBy": ["Martin L. Gore"],
       "gemaWerknummer": "GEMA",
@@ -4153,7 +4153,7 @@
       ]
     },
     {
-      "id": 43,
+      "id": "43",
       "title": "Tennessee Whiskey",
       "writtenBy": ["Dean Dillon", "Linda Hargrove"],
       "gemaWerknummer": "1259926-001",
@@ -4220,7 +4220,7 @@
       ]
     },
     {
-      "id": 44,
+      "id": "44",
       "title": "Midnight Special",
       "writtenBy": ["Lead Belly"],
       "gemaWerknummer": "",
