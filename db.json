@@ -15,7 +15,7 @@
       "venue": "<<Practice set 1>>",
       "town": "Babelsberg",
       "dateTime": "2025-04-04T19:00:00+02:00",
-      "setlist": [[1, 2, 3, 11, 18 ,7 ,31, 12, 6, 9]]
+      "setlist": [[1, 2, 3, 11, 18, 7, 31, 12, 6, 9]]
     },
     {
       "id": "2",
@@ -70,11 +70,7 @@
       "venue": "strahlwerk",
       "town": "Stralsund",
       "dateTime": "2024-09-21T14:00:00+02:00",
-      "setlist": [
-        [1, 2, 3, 11, 18, 7, 17, 31, 12, 6, 9],
-        [29, 4, 5, 43, 8, 14, 32, 41, 10, 15],
-        [19]
-      ]
+      "setlist": [[1, 2, 3, 11, 18, 7, 17, 31, 12, 6, 9], [29, 4, 5, 43, 8, 14, 32, 41, 10, 15], [19]]
     }
   ],
   "songs": [
@@ -1096,12 +1092,7 @@
       "pages": [
         {
           "section": "Intro + Verse 1 - 2",
-          "chords": [
-            ["Ab", "C", "Db", "Bbm"],
-            [],
-            ["Ab", "C", "Db", "Bbm"],
-            ["Ab", "C", "Db", "Bbm"]
-          ],
+          "chords": [["Ab", "C", "Db", "Bbm"], [], ["Ab", "C", "Db", "Bbm"], ["Ab", "C", "Db", "Bbm"]],
           "lyrics": [
             "When I’m cold and shaking",
             "Like a cat in the rain",
@@ -1397,10 +1388,7 @@
             ["D7", "-", "A7", "-"],
             ["E7", "D7", "A7", "E7"]
           ],
-          "lyrics": [
-            "Oh Mama, when you gonna take me home?",
-            "My luck is fading, I don’t want to be alone"
-          ],
+          "lyrics": ["Oh Mama, when you gonna take me home?", "My luck is fading, I don’t want to be alone"],
           "duration": 12
         },
         {
@@ -1435,13 +1423,7 @@
       "pages": [
         {
           "section": "Intro + Verse 1",
-          "chords": [
-            ["G", "-", "-", "-"],
-            [],
-            ["G", "-", "-", "-"],
-            ["C", "-", "G", "-"],
-            ["D", "C", "G", "-"]
-          ],
+          "chords": [["G", "-", "-", "-"], [], ["G", "-", "-", "-"], ["C", "-", "G", "-"], ["D", "C", "G", "-"]],
           "lyrics": [
             "Well, Olivia is taken",
             "But a look like hers can be found from time to time (x2))",
@@ -1953,13 +1935,7 @@
         {
           "section": "Verse 3",
           "chords": [],
-          "lyrics": [
-            "Alright",
-            "Shoot her one more time again, baby",
-            "Yeah",
-            "Oh, dig it",
-            "Ah, alright"
-          ]
+          "lyrics": ["Alright", "Shoot her one more time again, baby", "Yeah", "Oh, dig it", "Ah, alright"]
         },
         {
           "section": "Verse 3",
@@ -1981,12 +1957,7 @@
         {
           "section": "Outro",
           "chords": [],
-          "lyrics": [
-            "Hey, Joe",
-            "You better run on down",
-            "Goodbye, everybody, ow",
-            "Hey, hey, Joe"
-          ]
+          "lyrics": ["Hey, Joe", "You better run on down", "Goodbye, everybody, ow", "Hey, hey, Joe"]
         }
       ]
     },
@@ -2298,12 +2269,7 @@
         },
         {
           "section": "Bridge",
-          "chords": [
-            ["C", "Em", "C", "Em"],
-            ["C", "Em", "C", "E7"],
-            ["-"],
-            ["Am  C", "Am  C", "Am  C", "Am  C"]
-          ],
+          "chords": [["C", "Em", "C", "Em"], ["C", "Em", "C", "E7"], ["-"], ["Am  C", "Am  C", "Am  C", "Am  C"]],
           "lyrics": [
             "You’re my yin and my yang",
             "My pleasure, my pain",
@@ -2892,13 +2858,7 @@
       "pages": [
         {
           "section": "Verse 1",
-          "chords": [
-            ["E", "-", "-", "-"],
-            [],
-            ["E", "-", "-", "-"],
-            ["A", "-", "E", "-"],
-            ["B", "-", "E", "-"]
-          ],
+          "chords": [["E", "-", "-", "-"], [], ["E", "-", "-", "-"], ["A", "-", "E", "-"], ["B", "-", "E", "-"]],
           "lyrics": [
             "I met a girl, she was so fine",
             "I decided to make her mine",
@@ -2913,13 +2873,7 @@
         },
         {
           "section": "Verse 2",
-          "chords": [
-            ["E", "-", "-", "-"],
-            [],
-            ["E", "-", "-", "-"],
-            ["A", "-", "E", "-"],
-            ["B", "-", "E", "-"]
-          ],
+          "chords": [["E", "-", "-", "-"], [], ["E", "-", "-", "-"], ["A", "-", "E", "-"], ["B", "-", "E", "-"]],
           "lyrics": [
             "We went to the movies to see some romance",
             "Then on to a nightclub ’cause she wanted to dance",
@@ -2951,13 +2905,7 @@
         },
         {
           "section": "Solo + verse 3",
-          "chords": [
-            ["E", "-", "-", "-"],
-            [],
-            ["E", "-", "-", "-"],
-            ["A", "-", "E", "-"],
-            ["B", "-", "E", "-"]
-          ],
+          "chords": [["E", "-", "-", "-"], [], ["E", "-", "-", "-"], ["A", "-", "E", "-"], ["B", "-", "E", "-"]],
           "lyrics": [
             "I went out and bought a ring",
             "With a big diamond and plenty of bling",
@@ -3765,13 +3713,7 @@
             ["D", "D", "A", "A"],
             ["E", "E", "A", "A"]
           ],
-          "lyrics": [
-            "Full moon, half crazy",
-            "Crawlin’ in my skin",
-            "",
-            "Evil spirits",
-            "Pullin’ me in"
-          ],
+          "lyrics": ["Full moon, half crazy", "Crawlin’ in my skin", "", "Evil spirits", "Pullin’ me in"],
           "duration": 12
         },
         {
@@ -3838,13 +3780,7 @@
             ["D", "D", "A", "A"],
             ["E", "E", "A", "A"]
           ],
-          "lyrics": [
-            "Full moon, half crazy",
-            "Crawlin’ in my skin",
-            "",
-            "Evil spirits",
-            "Pullin’ me in"
-          ],
+          "lyrics": ["Full moon, half crazy", "Crawlin’ in my skin", "", "Evil spirits", "Pullin’ me in"],
           "duration": 12
         },
         {
@@ -3876,12 +3812,7 @@
         },
         {
           "section": "Verse 1",
-          "chords": [
-            ["A", "A", "A", "A7"],
-            ["D7", "D7", "A", "A"],
-            ["E7", "E7", "A!  D7!", "E7! A"],
-            ["A"]
-          ],
+          "chords": [["A", "A", "A", "A7"], ["D7", "D7", "A", "A"], ["E7", "E7", "A!  D7!", "E7! A"], ["A"]],
           "lyrics": [
             "Trying to love this woman",
             "It’s going to break my back",
@@ -4143,12 +4074,7 @@
             ["Em", "G", "Em", "G"],
             ["Em", "G", "Em", "G"]
           ],
-          "lyrics": [
-            "Reach out and touch faith",
-            "Your own personal Jesus",
-            "Someone to hear your prayers",
-            "Someone"
-          ]
+          "lyrics": ["Reach out and touch faith", "Your own personal Jesus", "Someone to hear your prayers", "Someone"]
         }
       ]
     },
@@ -4233,6 +4159,7 @@
         {
           "section": "Intro + Chorus",
           "chords": [
+            ["G", "F", "C", "C"],
             ["F", "F", "C", "C"],
             ["G", "F", "C", "C"],
             [],
@@ -4250,7 +4177,9 @@
           "section": "Verse 1",
           "chords": [
             ["F", "F", "C", "C"],
-            ["G", "F", "C", "C"]
+            ["G", "F", "C", "C"],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C!"]
           ],
           "lyrics": [
             "Well, you wake up in the morning, hear the working bell ring",
@@ -4268,7 +4197,7 @@
           ],
           "lyrics": [
             "Let the midnight special",
-            "Shine a light on me",
+            "Shine a light on me (x3)",
             "...",
             "Let the midnight special",
             "Shine its ever-loving light on me"
@@ -4278,7 +4207,49 @@
           "section": "Verse 2",
           "chords": [
             ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C!"]
+          ],
+          "lyrics": [
+            "If you're ever in Houston, well, you better do right",
+            "You better not gamble, and you better not fight",
+            "Or the sheriff will grab you, and the boys will bring you down",
+            "The next thing you know, boy",
+            "You’ll be prison bound"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["F", "F", "C", "C"],
             ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Let the midnight special",
+            "Shine a light on me (x3)",
+            "...",
+            "Let the midnight special",
+            "Shine its ever-loving light on me"
+          ]
+        },
+        {
+          "section": "Solo",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": ["[SOLO]"]
+        },
+        {
+          "section": "Verse 3",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C!"]
           ],
           "lyrics": [
             "Yonder come Miss Rosie, how in the world do you know?",
@@ -4297,17 +4268,19 @@
           ],
           "lyrics": [
             "Let the midnight special",
-            "Shine a light on me",
+            "Shine a light on me (x3)",
             "...",
             "Let the midnight special",
             "Shine its ever-loving light on me"
           ]
         },
         {
-          "section": "Verse 3",
+          "section": "Verse 4",
           "chords": [
             ["F", "F", "C", "C"],
-            ["G", "F", "C", "C"]
+            ["G", "F", "C", "C"],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C!"]
           ],
           "lyrics": [
             "If you go down to Mar-A-Lago, check out the boxes in the John",
@@ -4326,7 +4299,7 @@
           ],
           "lyrics": [
             "Let the midnight special",
-            "Shine a light on me",
+            "Shine a light on me (x3)",
             "...",
             "Let the midnight special",
             "Shine its ever-loving light on me"
@@ -4344,6 +4317,74 @@
             "[BREAK]",
             "...shine a light",
             "on me"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "title": "It's Not My Cross to Bear",
+      "writtenBy": ["Gregg Allman"],
+      "gemaWerknummer": "",
+      "lineup": "Band",
+      "pages": [
+        {
+          "section": "Verse 1",
+          "chords": [],
+          "lyrics": [
+            "I have not come",
+            "To testify",
+            "About our bad, bad misfortune",
+            "And I ain’t here a-wonderin' why",
+            "But I'll live on and I'll be strong",
+            "’Cause it’s not my cross to bear"
+          ]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [],
+          "lyrics": [
+            "I sat down and wrote you a long letter",
+            "It was just the other day",
+            "Said, 'Sure as the sunrise, baby'",
+            "Tomorrow I’ll be up and on my way",
+            "But I’ll live on and I’ll be strong",
+            "’Cause it’s not my cross to bear"
+          ]
+        },
+        {
+          "section": "Solo",
+          "chords": [],
+          "lyrics": ["[SOLO]"]
+        },
+        {
+          "section": "Chorus",
+          "chords": [],
+          "lyrics": ["But I’ll live on and I’ll be strong", "’Cause it’s not my cross to bear"]
+        },
+        {
+          "section": "Verse 3",
+          "chords": [],
+          "lyrics": [
+            "But in the end, baby",
+            "Long towards the end of your road",
+            "Don’t reach out for me, baby",
+            "’Cause I’m not gonna carry your load",
+            "But I’ll live on and I’ll be strong",
+            "’Cause it’s not my cross to bear"
+          ]
+        },
+        {
+          "section": "Outro",
+          "chords": [],
+          "lyrics": [
+            "I found someone else, baby",
+            "Yeah, yeah ...",
+            "Yeah, go on by",
+            "My baby, uh-huh",
+            "Yeah, yeah, yeah",
+            "Yeah, babe",
+            "Yeah, yeah"
           ]
         }
       ]
