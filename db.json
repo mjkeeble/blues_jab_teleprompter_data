@@ -2930,6 +2930,7 @@
       "scale": "E",
       "tempo": 133,
       "timeSignature": "4/4",
+      "notes": "Discuss ending. Bass solo seems to drop of the energy to early",
       "pages": [
         {
           "section": "",
@@ -4212,7 +4213,7 @@
             ["G", "F", "C", "C!"]
           ],
           "lyrics": [
-            "If you're ever in Houston, well, you better do right",
+            "If you’re ever in Houston, well, you better do right",
             "You better not gamble, and you better not fight",
             "Or the sheriff will grab you, and the boys will bring you down",
             "The next thing you know, boy",
@@ -4323,20 +4324,23 @@
     },
     {
       "id": "45",
-      "title": "It's Not My Cross to Bear",
+      "title": "It’s Not My Cross to Bear",
       "writtenBy": ["Gregg Allman"],
       "gemaWerknummer": "",
       "lineup": "Band",
+      "key": "B",
+      "tempo": 128,
+      "timeSignature": "6/8",
       "pages": [
         {
-          "section": "Verse 1",
+          "section": "Intro + Verse 1",
           "chords": [],
           "lyrics": [
             "I have not come",
             "To testify",
             "About our bad, bad misfortune",
-            "And I ain’t here a-wonderin' why",
-            "But I'll live on and I'll be strong",
+            "And I ain’t here a-wonderin’ why",
+            "But I’ll live on and I’ll be strong",
             "’Cause it’s not my cross to bear"
           ]
         },
@@ -4358,7 +4362,7 @@
           "lyrics": ["[SOLO]"]
         },
         {
-          "section": "Chorus",
+          "section": "Bridge",
           "chords": [],
           "lyrics": ["But I’ll live on and I’ll be strong", "’Cause it’s not my cross to bear"]
         },
@@ -4385,6 +4389,138 @@
             "Yeah, yeah, yeah",
             "Yeah, babe",
             "Yeah, yeah"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "title": "Still A Man",
+      "writtenBy": ["Frank Neubauer"],
+      "gemaWerknummer": "",
+      "lineup": "Band",
+      "pages": [
+        {
+          "section": "Verse 1",
+          "chords": [],
+          "lyrics": [
+            "Tell me girl, what have we done?",
+            "Where have all the good times gone?",
+            "Great days of passion, fulfilling our needs",
+            "And horny nights in sweaty sheets"
+          ]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [],
+          "lyrics": [
+            "It had to be once for eternity",
+            "But everything’s changed into monotony",
+            "Is this really what I’m meant to be?",
+            "I refuse to believe in this destiny"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [],
+          "lyrics": [
+            "I’m still a man, I do what I can",
+            "To keep the wheels turning and keep my soul burning",
+            "I’m still a man, just kickin’ the can",
+            "Sometimes I rock, never give up",
+            "I do what I can, like you give a damn!",
+            "I’m still a man"
+          ]
+        },
+        {
+          "section": "Verse 3",
+          "chords": [],
+          "lyrics": [
+            "This boring job kills me every day",
+            "A circus of fools just stands in my way",
+            "They lost their convictions a long time ago",
+            "Corporate messiahs and their embarrassing shows"
+          ]
+        },
+        {
+          "section": "Verse 4",
+          "chords": [],
+          "lyrics": [
+            "Now look at them losers fanning the flames",
+            "I don’t wanna play those hustlers’ games",
+            "I still wanna look myself straight in the eye",
+            "Feel some pride in my heart and hold my head high"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [],
+          "lyrics": [
+            "’Cause I’m still a man, I do what I can",
+            "To keep the wheels turning and keep my soul burning",
+            "I’m still a man, just kickin’ the can",
+            "sometimes I rock, never give up",
+            "I do what I can, like you give a damn!",
+            "I’m still a man"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "title": "Hey Bartender",
+      "writtenBy": ["Frank Neubauer"],
+      "gemaWerknummer": "",
+      "lineup": "Band",
+      "pages": [
+        {
+          "section": "Verse 1",
+          "chords": [],
+          "lyrics": [
+            "Hey bartender, give me a beer",
+            "Oases drying in the desert sun",
+            "My bed is empty and cold, cause my baby’s gone",
+            "I try to warm up here, before the night is done"
+          ]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [],
+          "lyrics": [
+            "Hey bartender, give me one more drink",
+            "The clearer I’ll see, my worries will shrink",
+            "Was it the garbage man, whom she took on the run",
+            "No matter at all, when the night is done"
+          ]
+        },
+        {
+          "section": "Verse 3",
+          "chords": [],
+          "lyrics": [
+            "Hey bartender, give me another glass",
+            "By the end of the day, I hope the blues will pass",
+            "Do you know where have my old friends been gone",
+            "Wanna meet Johnny and Jim, before the night is done"
+          ]
+        },
+        {
+          "section": "Verse 4",
+          "chords": [],
+          "lyrics": [
+            "Hey bartender, leave me the bottle here",
+            "With my friends by my side, I’m getting no fear",
+            "They always take care and listen to me",
+            "They never judge me, trick me or want a fee"
+          ]
+        },
+        {
+          "section": "Verse 5",
+          "chords": [],
+          "lyrics": [
+            "Hey bartender, we’ll see us again",
+            "I’m done with this chick, I’m done with the shame",
+            "Now I’m free, free as a man can be",
+            "So Lord I beg you, don’t bring her back to me"
           ]
         }
       ]
