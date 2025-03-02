@@ -4401,8 +4401,15 @@
       "lineup": "Band",
       "pages": [
         {
-          "section": "Verse 1",
-          "chords": [],
+          "section": "Intro + Verse 1",
+          "chords": [
+            ["A", "A", "A", "A"],
+            [],
+            ["A", "A", "A", "A"],
+            ["E", "D!", "A", "A"],
+            ["A", "A", "A", "A"],
+            ["E", "D!", "A", "A"]
+          ],
           "lyrics": [
             "Tell me girl, what have we done?",
             "Where have all the good times gone?",
@@ -4412,7 +4419,12 @@
         },
         {
           "section": "Verse 2",
-          "chords": [],
+          "chords": [
+            ["A", "A", "A", "A"],
+            ["E", "D!", "A", "A"],
+            ["A", "A", "A", "A"],
+            ["E", "D!", "A", "A"]
+          ],
           "lyrics": [
             "It had to be once for eternity",
             "But everything’s changed into monotony",
@@ -4422,7 +4434,11 @@
         },
         {
           "section": "Chorus",
-          "chords": [],
+          "chords": [
+            ["A", "A", "A", "A"],
+            ["A", "A", "A", "A"],
+            ["E", "D!", "A  D", "A"]
+          ],
           "lyrics": [
             "I’m still a man, I do what I can",
             "To keep the wheels turning and keep my soul burning",
@@ -4521,6 +4537,135 @@
             "I’m done with this chick, I’m done with the shame",
             "Now I’m free, free as a man can be",
             "So Lord I beg you, don’t bring her back to me"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "title": "Falling Down Like Rain",
+      "writtenBy": ["Mark Keeble"],
+      "gemaWerknummer": "",
+      "lineup": "Mark - acoustic",
+      "key": "E",
+      "timeSignature": "4/4",
+      "pages": [
+        {
+          "section": "Verse 1",
+          "chords": [["E", "G#"], ["A", "E  G#"], ["A", "E  G#"], ["A", "E  G#"], ["A..."]],
+          "lyrics": [
+            "I tried to show you that I love you",
+            "But I never got it right",
+            "Now the door is closed behind you",
+            "And my chest is feeling tight ",
+            "",
+            "You chose to never ask the questions",
+            "So I didn't have to say",
+            "The truth that hid inside the silence",
+            "Couldn't save us anyway"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["...A", "G#", "C#m", "A"],
+            ["E", "G#", "C#m", "A"],
+            ["E", "G#", "C#m", "A"],
+            ["E", "G#", "C#m", "A"]
+          ],
+          "lyrics": [
+            "Gone is the pleasure",
+            "All that's left is the pain",
+            "Everything lost and nothing to gain",
+            "I stare out through the window pane",
+            "My tears are falling down like rain",
+            "Falling down like rain"
+          ]
+        },
+        {
+          "section": "Verse 2",
+
+          "chords": [["E", "G#"], ["A", "E  G#"], ["A", "E  G#"], ["A", "E  G#"], ["A..."]],
+          "lyrics": [
+            "I was blinded by the wonder",
+            "Of who I thought you'd be",
+            "And revelled in the romance",
+            "Of all your mystery",
+            "",
+            "As we walked along the sunset",
+            "We didn't see the signs",
+            "That as we traced the growing shadows",
+            "We also drew the lines"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["...A", "G#", "C#m", "A"],
+            ["E", "G#", "C#m", "A"],
+            ["E", "G#", "C#m", "A"],
+            ["E", "G#", "C#m", "A"]
+          ],
+          "lyrics": [
+            "Gone is the pleasure",
+            "All that's left is the pain",
+            "Everything lost and nothing to gain",
+            "I stare out through the window pane",
+            "My tears are falling down like rain",
+            "Falling down like rain"
+          ]
+        },
+        {
+          "section": "Bridge",
+          "chords": [
+            ["A", "C#m", "G#", "A"],
+            ["A", "C#m", "G#", "A"],
+            ["A", "C#m", "G#", "A"],
+            ["A", "C#m", "G#", "A"]
+          ],
+          "lyrics": [
+            "I felt the blessing, let it",
+            "Turn right into a curse",
+            "I found the treasure without",
+            "Seeing it's worth",
+            "I took the sunlight and I",
+            "Drowned it out in the rain",
+            "And given the chance I know I'll",
+            "Do it over again"
+          ]
+        },
+        {
+          "section": "Verse 3",
+          "chords": [["E", "G#"], ["A", "E  G#"], ["A", "E  G#"], ["A", "E  G#"], ["A..."]],
+          "lyrics": [
+            "I don't recall a moment ",
+            "When our love began to pale",
+            "The days were cold, the nights stretched on ",
+            "Before we drove the final nail",
+            "",
+            "I light a flame to chase the silence",
+            "Then I watch it burning down",
+            "And hope that somewhere in the darkness",
+            "I will find something profound"
+          ]
+        },
+        {
+          "section": "Chorus + Outro",
+          "chords": [
+            ["...A", "G#", "C#m", "A"],
+            ["E", "G#", "C#m", "A"],
+            ["E", "G#", "C#m", "A"],
+            ["E", "G#", "C#m", "A"],
+            ["..."]
+          ],
+          "lyrics": [
+            "Gone is the pleasure",
+            "All that's left is the pain",
+            "Everything lost and nothing to gain",
+            "I stare out through the window pane",
+            "My tears are falling down like rain",
+            "Falling down like rain",
+            "Falling down like rain"
           ]
         }
       ]
