@@ -1597,13 +1597,7 @@
             ["F", "-", "C", "-"],
             ["G", "F", "C", "C"]
           ],
-          "lyrics": [
-            "[SOLO x 2]",
-            "[Abschied, danke schön]",
-            "[MK signal end]",
-            "I get a real good feeling",
-            "Talking to you in the phone"
-          ]
+          "lyrics": ["[SOLO x 2]", "[MK signal end]", "I get a real good feeling", "Talking to you in the phone"]
         }
       ]
     },
@@ -1940,7 +1934,7 @@
         {
           "section": "Outro",
           "chords": [],
-          "lyrics": ["Hey, Joe", "You better run on down", "Goodbye, everybody, ow", "Hey, hey, Joe"]
+          "lyrics": ["Hey, Joe", "You better run on down", "Hey, hey, Joe"]
         }
       ]
     },
@@ -1952,14 +1946,15 @@
       "songDuration": 150,
       "lineup": "Mark (acoustic)",
       "scale": "G",
+      "notes": "Capo 3rd fret (play in E)",
       "tempo": 130,
       "timeSignature": "4/4",
       "pages": [
         {
           "section": "Intro + Verse 1",
           "chords": [
-            ["G", "-", "C", "-"],
-            ["D", "C", "G", "D"]
+            ["E", "-", "A", "-"],
+            ["B", "A", "E", "B"]
           ],
           "lyrics": [
             "She’s like black coffee, black as my soul",
@@ -1974,10 +1969,8 @@
         {
           "section": "Verse 2",
           "chords": [
-            ["G", "-", "C", "-"],
-            ["D", "C", "G", "D"],
-            ["C", "-", "G", "G"],
-            ["C", "C", "D!", "C!"]
+            ["E", "-", "A", "-"],
+            ["B", "A", "E", "B"]
           ],
           "lyrics": [
             "Drink it hot so it won’t never grow cold",
@@ -1992,8 +1985,8 @@
         {
           "section": "Bridge",
           "chords": [
-            ["C", "-", "G", "G"],
-            ["C", "C", "D!", "C!"]
+            ["A", "-", "E", "-"],
+            ["A", "-", "B!", "A!"]
           ],
           "lyrics": [
             "I don’t need whiskey and I don’t need tea",
@@ -2009,8 +2002,8 @@
         {
           "section": "Verse 4",
           "chords": [
-            ["G", "-", "C", "-"],
-            ["D", "C", "G", "D"]
+            ["E", "-", "A", "-"],
+            ["B", "A", "E", "B"]
           ],
           "lyrics": [
             "In the morning she’s as fresh as can be",
@@ -2025,8 +2018,8 @@
         {
           "section": "Bridge",
           "chords": [
-            ["C", "-", "G", "G"],
-            ["C", "C", "D!", "C!"]
+            ["A", "-", "E", "-"],
+            ["A", "A", "B!", "A!"]
           ],
           "lyrics": [
             "Black coffee, can’t you smell the aroma",
@@ -2040,10 +2033,11 @@
         {
           "section": "Solo + bridge",
           "chords": [
-            ["G", "-", "C", "-"],
-            ["D", "C", "G", "D"],
-            ["C", "-", "G", "G"],
-            ["C", "C", "D!", "C!"]
+            ["E", "-", "A", "-"],
+            ["B", "A", "E", "B"],
+            ["A", "-", "E", "-"],
+            ["A", "-", "B!", "A!"]
+
           ],
           "lyrics": [
             "[SOLO]",
@@ -2060,8 +2054,8 @@
         {
           "section": "Outro",
           "chords": [
-            ["G", "-", "C", "-"],
-            ["D", "C", "G!", "/"]
+            ["E", "-", "A", "-"],
+            ["B", "A", "E!", "/"]
           ],
           "lyrics": ["Black coffee", "Black coffee", "Hey, stay back with that milk!"]
         }
@@ -4037,6 +4031,7 @@
       "gemaWerknummer": "1259926-001",
       "scale": "A",
       "lineup": "Band",
+      "configChordPaneSize": 2,
       "pages": [
         {
           "section": "Intro + Verse 1",
