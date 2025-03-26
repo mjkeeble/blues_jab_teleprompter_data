@@ -69,8 +69,8 @@
       "dateTime": "2025-04-05T19:00:00+02:00",
       "setlist": [
         [1, 2, 3, 11, 7, 17, 31, 12, 6, 9],
-        [29, 4, 18, 5, 8, 14, 32, 41, 15, 19],
-        [43, 10, 44]
+        [29, 4, 18, 5, 8, 43, 14, 32, 41, 15, 19],
+        [10, 44]
       ]
     }
   ],
@@ -83,6 +83,7 @@
       "songDuration": 120,
       "lineup": "Band",
       "scale": "G",
+      "notes": "Close: turnarounds",
       "tempo": 131,
       "timeSignature": "4/4",
       "configChordPaneSize": 3,
@@ -177,6 +178,7 @@
       "songDuration": 285,
       "lineup": "Band",
       "scale": "D",
+      "notes": "Intro on D string \u21D2 Close: Signal end",
       "tempo": 105,
       "timeSignature": "4/4",
       "pages": [
@@ -308,7 +310,7 @@
         },
         {
           "section": "Outro",
-          "chords": [[" Vamp on Dm7"]],
+          "chords": [["Vamp on Dm7"]],
           "lyrics": ["[Ad lib over vamp]", "", "[MK signal end]"]
         }
       ]
@@ -321,6 +323,7 @@
       "songDuration": 180,
       "lineup": "Band",
       "scale": "A",
+      "notes": "Close: 2 soli",
       "tempo": 129,
       "timeSignature": "4/4",
       "pages": [
@@ -417,6 +420,7 @@
       "songDuration": 315,
       "lineup": "Band",
       "scale": "Am",
+      "notes": "Bass starts",
       "tempo": 73,
       "timeSignature": "4-4",
       "pages": [
@@ -489,6 +493,7 @@
       "songDuration": 315,
       "lineup": "Band",
       "scale": "Dm",
+      "notes": "Close: 1 solo",
       "tempo": 110,
       "timeSignature": "4/4",
       "pages": [
@@ -714,6 +719,7 @@
       "songDuration": 230,
       "lineup": "Band",
       "scale": "Bm",
+      "notes": "Close: 1 solo",
       "tempo": 95,
       "timeSignature": "4/4",
       "configChordPaneSize": 4,
@@ -791,7 +797,7 @@
             ["Em", "-", "Bm", "-"],
             ["G 7/9", "F# 7/9", "Bm", "-"]
           ],
-          "lyrics": ["[SOLO x 2]", "[Stop 1/13]"]
+          "lyrics": ["[1 SOLO]", "[Stop 1/13]"]
         }
       ]
     },
@@ -803,6 +809,7 @@
       "songDuration": 210,
       "lineup": "Band",
       "scale": "E",
+      "notes": "2 Soli, bass outro without stop",
       "tempo": 130,
       "timeSignature": "4/4",
       "pages": [
@@ -850,7 +857,7 @@
             "You been talking ’bout me, baby",
             "Sayin’ I did not treat you right (x2)",
             "",
-            "Now everyone turns their back on me",
+            "Now folks avoid me on the street",
             "And my bed don’t shake at night"
           ],
           "duration": 36
@@ -880,7 +887,7 @@
             ["A7", "-", "E7", "-"],
             ["B7", "A7", "E7", "B7"]
           ],
-          "lyrics": ["[SOLO x2]", "[BASS OUTRO on 2nd SOLO]"]
+          "lyrics": ["[SOLO x2]", "[BASS OUTRO on 2nd SOLO (no stop)]"]
         }
       ]
     },
@@ -1077,6 +1084,7 @@
       "songDuration": 310,
       "lineup": "Band",
       "scale": "Ab",
+      "notes": "Close: signal from Mark",
       "tempo": 55,
       "timeSignature": "12/8",
       "pages": [
@@ -1200,6 +1208,7 @@
       "songDuration": 210,
       "lineup": "Band",
       "scale": "A",
+      "notes": "Close: 2 soli + turnarounds",
       "tempo": 145,
       "timeSignature": "4/4",
       "pages": [
@@ -1316,6 +1325,7 @@
       "songDuration": 300,
       "lineup": "Band",
       "scale": "A",
+      "notes": "Close: Break on 10 in last verse + bass outro",
       "tempo": 115,
       "timeSignature": "4/4",
       "pages": [
@@ -1345,10 +1355,9 @@
           ],
           "lyrics": [
             "Oh Mama, what can I do?",
-
             "First she said she loved me and then she said we’re through",
             "",
-            "Mama! Mama! Mama! Mama!Mama! Mama! ...",
+            "Mama! Mama! Mama! Mama! Mama! Mama! ...",
             "",
             "[SOLO]"
           ]
@@ -1406,6 +1415,7 @@
       "lineup": "Band",
       "scale": "G",
       "tempo": 99,
+      "notes": "Close: 1 Solo",
       "timeSignature": "4/4",
       "pages": [
         {
@@ -1413,7 +1423,7 @@
           "chords": [["G", "-", "-", "-"], [], ["G", "-", "-", "-"], ["C", "-", "G", "-"], ["D", "C", "G", "-"]],
           "lyrics": [
             "Well, Olivia is taken",
-            "But a look like hers can be found from time to time (x2))",
+            "But a look like hers can be found from time to time (x2)",
             "",
             "I’m thinking something like Olivia is",
             "What I need to find"
@@ -1429,7 +1439,7 @@
           ],
           "lyrics": [
             "There’s only one man in this world",
-            "Who gets to sleep with her by his side (x2))",
+            "Who gets to sleep with her by his side (x2)",
 
             "",
             "I’m thinking something like Olivia",
@@ -1448,7 +1458,7 @@
             "[SOLO x 2]",
             "",
             "Now I’m not trying to steal",
-            "No love away from no one man (x2))",
+            "No love away from no one man (x2)",
 
             "",
             "But if Olivia herself were at my door",
@@ -1469,7 +1479,7 @@
             "I keep thinking something like Olivia",
             "Is what I need to find",
             "",
-            "[ SOLO ]",
+            "[1 SOLO]",
             "[STOP on 1/13]"
           ]
         }
@@ -1483,6 +1493,7 @@
       "songDuration": 255,
       "lineup": "Band",
       "scale": "C",
+      "notes": "Close: 1 solo,break and sing",
       "tempo": 128,
       "timeSignature": "4/4",
       "pages": [
@@ -1597,7 +1608,7 @@
             ["F", "-", "C", "-"],
             ["G", "F", "C", "C"]
           ],
-          "lyrics": ["[SOLO x 2]", "[MK signal end]", "I get a real good feeling", "Talking to you in the phone"]
+          "lyrics": ["[SOLO 1]", "[MK signal end]", "I get a real good feeling", "Talking to you in the phone"]
         }
       ]
     },
@@ -1609,6 +1620,7 @@
       "songDuration": 210,
       "lineup": "Band",
       "scale": "G",
+      "notes": "Soli - Wolfgang signals end",
       "tempo": 56,
       "timeSignature": "12/8",
       "pages": [
@@ -1742,6 +1754,7 @@
       "songDuration": 195,
       "lineup": "Band",
       "scale": "A",
+      "notes": "Close: Break and bass outro in last verse",
       "tempo": 140,
       "timeSignature": "4/4",
       "pages": [
@@ -2037,7 +2050,6 @@
             ["B", "A", "E", "B"],
             ["A", "-", "E", "-"],
             ["A", "-", "B!", "A!"]
-
           ],
           "lyrics": [
             "[SOLO]",
@@ -2964,6 +2976,7 @@
       "songDuration": 145,
       "lineup": "Band",
       "scale": "A",
+      "notes": "Close: 2 soli, stop on 11",
       "tempo": 95,
       "timeSignature": "4/4",
       "pages": [
@@ -3060,7 +3073,7 @@
             ["D", "-", "A", "-"],
             ["E", "D", "A", "E"]
           ],
-          "lyrics": []
+          "lyrics": ["[2 SOLI, stop on 11"]
         }
       ]
     },
@@ -3073,6 +3086,7 @@
       "songDuration": 300,
       "lineup": "Band",
       "scale": "A",
+      "notes": "Close: Break on 10 in last verse + bass outro",
       "tempo": 115,
       "timeSignature": "4/4",
       "pages": [
@@ -3834,6 +3848,7 @@
       "writtenBy": ["Toy Caldwell"],
       "gemaWerknummer": "",
       "lineup": "Band",
+      "notes": "Close: chorus vamp, break on signal",
       "configChordPaneSize": 2,
       "pages": [
         {
@@ -3871,6 +3886,11 @@
           "lyrics": ["Can’t you see", "Oh, can’t you see", "What that woman", "Been doin’ to me"]
         },
         {
+          "section": "Solo",
+          "chords": [["D", "C", "G", "D"]],
+          "lyrics": ["[2 Soli]"]
+        },
+        {
           "section": "Verse 3",
           "chords": [["D", "C", "G", "D"]],
           "lyrics": [
@@ -3881,9 +3901,9 @@
           ]
         },
         {
-          "section": "Chorus",
+          "section": "Chorus + Outro",
           "chords": [["D", "C", "G", "D"]],
-          "lyrics": ["Can’t you see", "Oh, can’t you see", "What that woman", "Been doin’ to me"]
+          "lyrics": ["Can’t you see", "Oh, can’t you see", "What that woman", "[BREAK]", "Been doin’ to me"]
         }
       ]
     },
@@ -4031,6 +4051,7 @@
       "gemaWerknummer": "1259926-001",
       "scale": "A",
       "lineup": "Band",
+      "notes": "Close: end of chorus",
       "configChordPaneSize": 2,
       "pages": [
         {
@@ -4100,6 +4121,7 @@
       "lineup": "Band",
       "tempo": 110,
       "scale": "C",
+      "notes": "Close: Break and vocals in chorus",
       "configChordPaneSize": 2,
       "timeSignature": "4/4",
       "pages": [
