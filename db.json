@@ -12,7 +12,7 @@
   "gigs": [
     {
       "id": "1",
-      "venue": "<<Practice set 1>>",
+      "venue": "<<Practice set>>",
       "town": "Babelsberg",
       "dateTime": "2028-04-06T19:00:00+02:00",
       "setlist": [
@@ -178,7 +178,7 @@
       "songDuration": 285,
       "lineup": "Band",
       "scale": "D",
-      "notes": "Intro on D string \u21D2 Close: Signal end",
+      "notes": "Intro on D string \nClose: Signal end",
       "tempo": 105,
       "timeSignature": "4/4",
       "pages": [
@@ -493,7 +493,7 @@
       "songDuration": 315,
       "lineup": "Band",
       "scale": "Dm",
-      "notes": "Close: 1 solo",
+      "notes": "Close: 1 solo, stop on 1/17",
       "tempo": 110,
       "timeSignature": "4/4",
       "pages": [
@@ -809,9 +809,10 @@
       "songDuration": 210,
       "lineup": "Band",
       "scale": "E",
-      "notes": "2 Soli, bass outro without stop",
+      "notes": "Close: 2 Soli, bass outro without stop",
       "tempo": 130,
       "timeSignature": "4/4",
+      "configChordPaneSize": 2,
       "pages": [
         {
           "section": "Intro + Verse 1",
@@ -903,13 +904,14 @@
       "timeSignature": "4/4",
       "pages": [
         {
-          "section": "Thema + Verse 1",
+          "section": "Theme + Verse 1",
           "chords": [
             ["A7", "-", "-", "-"],
             ["D7", "-", "A7", "-"],
             ["E7", "D7", "A7", "/"]
           ],
           "lyrics": [
+            "[THEME]",
             "Oh baby, don’t you want a man like me?",
             "I said baby, don’t you want a man like me?",
             "I could give you so much loving",
@@ -934,7 +936,16 @@
           "duration": 12
         },
         {
-          "section": "Solo - Mark + Verse 3",
+          "section": "Solo - Mark",
+          "chords": [
+            ["A7", "-", "-", "-"],
+            ["D7", "-", "A7", "-"],
+            ["E7", "D7", "A7", "/"]
+          ],
+          "lyrics": ["[THEME]", "[1 SOLO]"]
+        },
+        {
+          "section": "Verse 3",
           "chords": [
             ["A7", "-", "-", "-"],
             ["D7", "-", "A7", "-"],
@@ -946,8 +957,7 @@
             "",
             "I’ve got so much loving",
             "More than you ever going to see"
-          ],
-          "duration": 24
+          ]
         },
         {
           "section": "Outro",
@@ -962,7 +972,7 @@
             "ONE, TWO, THREE, FOUR",
             "",
             "[Shuffle solo x 2 (Wolfgang)]",
-            "[Thema \u21D2 STOP!]"
+            "[THEME \u21D2 STOP!]"
           ]
         }
       ]
@@ -1021,7 +1031,22 @@
           "duration": 24
         },
         {
-          "section": " Solo - Mark + Verse 2",
+          "section": " Solo",
+          "chords": [
+            ["C", "-", "-", "-"],
+            ["C", "-", "-", "-"],
+            ["F", "-", "-", "-"],
+            ["C", "-", "-", "-"],
+            ["G7", "G7 (F#7)", "F7!", "/"],
+            ["C", "-", "-", "-"]
+          ],
+          "lyrics": [
+            "[1 SOLO - Mark]"
+          ],
+          "duration": 24
+        },
+        {
+          "section": "Verse 2",
           "chords": [
             ["C", "-", "-", "-"],
             ["C", "-", "-", "-"],
@@ -1040,7 +1065,7 @@
             "You been runnin’ all over town",
             "I guess you have to put your flat feet on the ground"
           ],
-          "duration": 48
+          "duration": 24
         },
         {
           "section": "Solo - Wolfgang",
@@ -1051,8 +1076,8 @@
             ["G7", "G7 (F#7)", "F7!", "/"],
             ["C", "-", "-", "-"]
           ],
-          "lyrics": ["[ SOLO x1]"],
-          "duration": 48
+          "lyrics": ["[1 SOLO - Wolfgang]"],
+          "duration": 24
         },
         {
           "section": "Chorus",
@@ -1196,7 +1221,7 @@
         {
           "section": "Outro",
           "chords": [["Ab", "C", "Db", "Bbm"]],
-          "lyrics": ["[4x]", "Can l lean on you..."]
+          "lyrics": ["[Ad lib]", "[Signal from Mark]"]
         }
       ]
     },
@@ -1211,6 +1236,7 @@
       "notes": "Close: 2 soli + turnarounds",
       "tempo": 145,
       "timeSignature": "4/4",
+      "configChordPaneSize": 2,
       "pages": [
         {
           "section": "Intro + Verse 1",
@@ -1417,6 +1443,7 @@
       "tempo": 99,
       "notes": "Close: 1 Solo",
       "timeSignature": "4/4",
+      "configChordPaneSize": 2,
       "pages": [
         {
           "section": "Intro + Verse 1",
@@ -1496,6 +1523,7 @@
       "notes": "Close: 1 solo,break and sing",
       "tempo": 128,
       "timeSignature": "4/4",
+      "configChordPaneSize": 2,
       "pages": [
         {
           "section": "Intro + Verse 1",
@@ -1608,7 +1636,7 @@
             ["F", "-", "C", "-"],
             ["G", "F", "C", "C"]
           ],
-          "lyrics": ["[SOLO 1]", "[MK signal end]", "I get a real good feeling", "Talking to you in the phone"]
+          "lyrics": ["[SOLO 1]", "[MK signal end]", "", "I get a real good feeling", "Talking to you in the phone"]
         }
       ]
     },
@@ -1620,9 +1648,10 @@
       "songDuration": 210,
       "lineup": "Band",
       "scale": "G",
-      "notes": "Soli - Wolfgang signals end",
+      "notes": "Close: Soli - Wolfgang signals end",
       "tempo": 56,
       "timeSignature": "12/8",
+      "configChordPaneSize": 2,
       "pages": [
         {
           "section": "Intro + chorus",
@@ -1757,6 +1786,7 @@
       "notes": "Close: Break and bass outro in last verse",
       "tempo": 140,
       "timeSignature": "4/4",
+      "configChordPaneSize": 2,
       "pages": [
         {
           "section": "Intro + Verse 1",
@@ -2909,7 +2939,7 @@
       "scale": "E",
       "tempo": 133,
       "timeSignature": "4/4",
-      "notes": "Discuss ending. Bass solo seems to drop of the energy to early",
+      "notes": "Close: Break and bass outro in last verse",
       "pages": [
         {
           "section": "",
@@ -2979,43 +3009,49 @@
       "notes": "Close: 2 soli, stop on 11",
       "tempo": 95,
       "timeSignature": "4/4",
+      "configChordPaneSize": 2,
       "pages": [
         {
           "section": "Verse 1",
           "chords": [
             ["A!", "A!", "A!", "A!"],
-            ["A!", "A!", "A!", "A!"],
-            ["D7", "-", "A", "-"],
-            ["E", "D", "A", "E"]
+            ["A!", "A!", "A!", "A!"]
           ],
           "lyrics": [
             "I got a sly dog, sniffin’ round my door",
             "Eying up my woman, beggin on the floor",
             "He ain’t got no leash, he completely wild",
-            "Drive my woman crazyLike some feral child",
-            "I got a sly dog",
-            "But I don’t know what for",
-            "I’ve got a sly dog sniffin’ at my door"
-          ],
-          "duration": 16
+            "Drive my woman crazy like some feral child"
+          ]
         },
         {
-          "section": "Verse 2 + solo",
+          "section": "Chorus",
+          "chords": [
+            ["D7", "-", "A", "-"],
+            ["E", "D", "A", "E"]
+          ],
+          "lyrics": ["I got a sly dog", "But I don’t know what for", "I’ve got a sly dog sniffin’ at my door"]
+        },
+        {
+          "section": "Verse 2",
           "chords": [
             ["A!", "A!", "A!", "A!"],
-            ["A!", "A!", "A!", "A!"],
-            ["D", "-", "A", "-"],
-            ["E", "D", "A", "E"]
+            ["A!", "A!", "A!", "A!"]
           ],
           "lyrics": [
             "I got a cool cat strutting round my space",
             "Acting like he owns the whole damn place",
             "Rubs up against my leg, prowls throughout the house",
-            "But that mangy creature,he can’t even catch a mouse",
-            "I got a cool cat, but I don’t know what for",
-            "And I’ve got a sly dog sniffin’ at my door"
+            "But that mangy creature,he can’t even catch a mouse"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["D", "-", "A", "-"],
+            ["E", "D", "A", "E"]
           ],
-          "duration": 16
+          "lyrics": ["I got a cool cat, but I don’t know what for", "And I’ve got a sly dog sniffin’ at my door"]
         },
         {
           "section": "Solo",
@@ -3024,46 +3060,58 @@
             ["D", "-", "A", "-"],
             ["E", "D", "A", "E"]
           ],
-          "lyrics": ["[SOLO]"],
-          "duration": 12
+          "lyrics": ["[2 SOLI]"]
         },
         {
           "section": "Verse 3",
           "chords": [
             ["A!", "A!", "A!", "A!"],
-            ["A!", "A!", "A!", "A!"],
-            ["D", "-", "A", "-"],
-            ["E", "D", "A", "E"]
+            ["A!", "A!", "A!", "A!"]
           ],
           "lyrics": [
             "I got a talking bird repeats everything I say",
             "Squawks the F-word at me until I go away",
             "My girl’s folks came to visit",
             "They didn’t like what they heard",
-            "I lost my girl because of that F-word bird",
+            "I lost my girl because of that F-word bird"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["D", "-", "A", "-"],
+            ["E", "D", "A", "E"]
+          ],
+          "lyrics": [
             "I got a talking chicken, but I don’t know what for",
             "Gonna feed it to that egg suckin’ dog",
             "That’s sniffin’ at my door"
-          ],
-          "duration": 16
+          ]
         },
         {
           "section": "Verse 4",
           "chords": [
             ["A!", "A!", "A!", "A!"],
-            ["A!", "A!", "A!", "A!"],
-            ["D", "-", "A", "-"],
-            ["E", "D", "A", "E"]
+            ["A!", "A!", "A!", "A!"]
           ],
           "lyrics": [
             "I got a wild woman, I found her in a sack",
             "I let her out and she just followed me back",
             "She says she can’t clean the dishes",
             "And she won’t sweep the floor",
-            "She just eats my food and then she cries for more",
+            "She just eats my food and then she cries for more"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["D", "-", "A", "-"],
+            ["E", "D", "A", "E"]
+          ],
+          "lyrics": [
             "Yeah I got a wild woman, but I don’t know what for",
             "And I’ve got a sly dog",
-            "SAnd he's sniffin’ at my door"
+            "And he's sniffin’ at my door"
           ]
         },
         {
@@ -3073,7 +3121,7 @@
             ["D", "-", "A", "-"],
             ["E", "D", "A", "E"]
           ],
-          "lyrics": ["[2 SOLI, stop on 11"]
+          "lyrics": ["[2 SOLI, stop on 11]"]
         }
       ]
     },
@@ -3848,6 +3896,7 @@
       "writtenBy": ["Toy Caldwell"],
       "gemaWerknummer": "",
       "lineup": "Band",
+      "scale":"D",
       "notes": "Close: chorus vamp, break on signal",
       "configChordPaneSize": 2,
       "pages": [
@@ -4095,9 +4144,9 @@
           ]
         },
         {
-          "section": "{SOLO x2}",
+          "section": "SOLO",
           "chords": [["A", "Bm", "Bm", "A"]],
-          "lyrics": []
+          "lyrics": ["[SOLO x2]"]
         },
         {
           "section": "Chorus",
