@@ -902,6 +902,7 @@
       "scale": "A",
       "tempo": 140,
       "timeSignature": "4/4",
+      "configChordPaneSize": 2,
       "pages": [
         {
           "section": "Theme + Verse 1",
@@ -1040,9 +1041,7 @@
             ["G7", "G7 (F#7)", "F7!", "/"],
             ["C", "-", "-", "-"]
           ],
-          "lyrics": [
-            "[1 SOLO - Mark]"
-          ],
+          "lyrics": ["[1 SOLO - Mark]"],
           "duration": 24
         },
         {
@@ -1354,6 +1353,7 @@
       "notes": "Close: Break on 10 in last verse + bass outro",
       "tempo": 115,
       "timeSignature": "4/4",
+      "configChordPaneSize": 2,
       "pages": [
         {
           "section": "Intro + Verse 1 - 2",
@@ -3137,6 +3137,7 @@
       "notes": "Close: Break on 10 in last verse + bass outro",
       "tempo": 115,
       "timeSignature": "4/4",
+      "configChordPaneSize": 2,
       "pages": [
         {
           "section": "Intro + Verse 1 - 2",
@@ -3896,7 +3897,7 @@
       "writtenBy": ["Toy Caldwell"],
       "gemaWerknummer": "",
       "lineup": "Band",
-      "scale":"D",
+      "scale": "D",
       "notes": "Close: chorus vamp, break on signal",
       "configChordPaneSize": 2,
       "pages": [
