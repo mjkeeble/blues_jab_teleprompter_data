@@ -532,8 +532,8 @@
             "I can’t make it no longer",
             "In this world alone",
             "",
-            "Baby, I’m begging with tears in my eyes",
-            "For your love, don’t you realize",
+            "I’m begging baby, with tears in my eyes",
+            "For your love, don’t you realise",
             "I need help",
             "Oh baby, help poor me"
           ],
@@ -729,7 +729,7 @@
           "chords": [
             ["Bm", "-", "-", "-"],
             ["Em", "-", "Bm", "-"],
-            ["G 7/9", "F# 7/9", "Bm", "-"]
+            ["Gmaj7", "F# 7/9", "Bm", "-"]
           ],
           "lyrics": [
             "The thrill is gone",
@@ -745,7 +745,7 @@
           "chords": [
             ["Bm", "-", "-", "-"],
             ["Em", "-", "Bm", "-"],
-            ["G 7/9", "F# 7/9", "Bm", "-"]
+            ["Gmaj7", "F# 7/9", "Bm", "-"]
           ],
           "lyrics": [
             "The thrill is gone",
@@ -761,7 +761,7 @@
           "chords": [
             ["Bm", "-", "-", "-"],
             ["Em", "-", "Bm", "-"],
-            ["G 7/9", "F# 7/9", "Bm", "-"]
+            ["Gmaj7", "F# 7/9", "Bm", "-"]
           ],
           "lyrics": [
             "[ SOLO x2]",
@@ -779,7 +779,7 @@
           "chords": [
             ["Bm", "-", "-", "-"],
             ["Em", "-", "Bm", "-"],
-            ["G 7/9", "F# 7/9", "Bm", "-"]
+            ["Gmaj7", "F# 7/9", "Bm", "-"]
           ],
           "lyrics": [
             "Now I’m free",
@@ -795,7 +795,7 @@
           "chords": [
             ["Bm", "-", "-", "-"],
             ["Em", "-", "Bm", "-"],
-            ["G 7/9", "F# 7/9", "Bm", "-"]
+            ["Gmaj7", "F# 7/9", "Bm", "-"]
           ],
           "lyrics": ["[1 SOLO]", "[Stop 1/13]"]
         }
