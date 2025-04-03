@@ -4,7 +4,7 @@
       "lyricPageMode": "CHORDS-FIRST",
       "chordPaneSize": 3,
       "lyricMinFontSize": 20,
-      "lyricMaxFontSize": "100",
+      "lyricMaxFontSize": "150",
       "portrait": false,
       "chordFontSize": "text-5xl"
     }
@@ -86,7 +86,6 @@
       "notes": "Close: turnarounds",
       "tempo": 131,
       "timeSignature": "4/4",
-      "configChordPaneSize": 3,
       "pages": [
         {
           "section": "Verse 1",
