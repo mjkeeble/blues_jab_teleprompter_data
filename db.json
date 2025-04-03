@@ -511,12 +511,25 @@
             "I need help from you, baby",
             "Need it desperately",
             "",
+            "I need you so much..."
+          ],
+          "duration": 24
+        },
+        {
+          "section": "Verse 1 (part 2)",
+          "chords": [
+            ["Dm", "-", "-", "-"],
+            ["Dm", "-", "A7", "-"],
+            ["Dm", "-", "Gm", "-"],
+            ["Dm", "A7", "Dm", "/"]
+          ],
+          "lyrics": [
             "I need you so much, I need your care",
             "Need all the loving, baby, you can spare",
             "Help the poor",
             "Oh baby, won’t you help poor me?"
           ],
-          "duration": 32
+          "duration": 8
         },
         {
           "section": "Verse 2",
@@ -532,12 +545,25 @@
             "I can’t make it no longer",
             "In this world alone",
             "",
+            "[I’m begging baby...]"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Verse 2 (part 2)",
+          "chords": [
+            ["Dm", "-", "-", "-"],
+            ["Dm", "-", "A7", "-"],
+            ["Dm", "-", "Gm", "-"],
+            ["Dm", "A7", "Dm", "/"]
+          ],
+          "lyrics": [
             "I’m begging baby, with tears in my eyes",
             "For your love, don’t you realise",
             "I need help",
             "Oh baby, help poor me"
           ],
-          "duration": 16
+          "duration": 8
         },
         {
           "section": "Bridge",
@@ -567,12 +593,25 @@
             "Have a heart, won’t you baby?",
             "Listen to my plea",
             "",
+            "[Oh, I lost my courage...]"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Verse 3 (part 2)",
+          "chords": [
+            ["Dm", "-", "-", "-"],
+            ["Dm", "-", "A7", "-"],
+            ["Dm", "-", "Gm", "-"],
+            ["Dm", "A7", "Dm", "/"]
+          ],
+          "lyrics": [
             "Oh, I lost my courage till I found you",
             "You’ve got what it takes, baby, to pull me through",
             "Help the poor",
             "Oh baby, won’t you help poor me?"
           ],
-          "duration": 16
+          "duration": 8
         },
         {
           "section": "Solo + Bridge",
@@ -607,12 +646,25 @@
             "Have a heart, won’t you baby?",
             "Listen to my plea",
             "",
+            "[Oh, I lost my courage...]"
+          ],
+          "duration": 16
+        },
+        {
+          "section": "Verse 4 (part 2)",
+          "chords": [
+            ["Dm", "-", "-", "-"],
+            ["Dm", "-", "A7", "-"],
+            ["Dm", "-", "Gm", "-"],
+            ["Dm", "A7", "Dm", "/"]
+          ],
+          "lyrics": [
             "Oh, I lost my courage till I found you",
             "You’ve got what it takes, baby, to pull me through",
             "Help the poor",
             "Oh baby, won’t you help poor me?"
           ],
-          "duration": 16
+          "duration": 8
         },
         {
           "section": "Solo / outro",
@@ -1363,11 +1415,11 @@
             ["E7", "D7", "A7", "E7"]
           ],
           "lyrics": [
-            "Mama, when you gonna take me home?",
+            "Papa, when you gonna take me home?",
             "I met a girl, and she stole my black cat bone",
             "",
             "",
-            "Oh Mama, how did I get here?",
+            "Oh Papa, how did I get here?",
             "I went looking for love and you know it cost me dear."
           ],
           "duration": 36
@@ -1380,10 +1432,10 @@
             ["E7", "D7", "A7", "E7"]
           ],
           "lyrics": [
-            "Oh Mama, what can I do?",
+            "Oh Papa, what can I do?",
             "First she said she loved me and then she said we’re through",
             "",
-            "Mama! Mama! Mama! Mama! Mama! Mama! ...",
+            "Papa! Papa! Papa! Papa! Papa! Papa! ...",
             "",
             "[SOLO]"
           ]
@@ -1397,7 +1449,7 @@
           ],
           "lyrics": [
             "Alle meine Entchen schwimmen auf dem See",
-            "Schwimmen auf dem See now Mama",
+            "Schwimmen auf dem See now Papa",
             "Schwimmen auf dem See",
             "Köpfchen in das Wasser",
             "Schwänzchen in die Höh’"
@@ -1411,7 +1463,7 @@
             ["D7", "-", "A7", "-"],
             ["E7", "D7", "A7", "E7"]
           ],
-          "lyrics": ["Oh Mama, when you gonna take me home?", "My luck is fading, I don’t want to be alone"],
+          "lyrics": ["Oh Papa, when you gonna take me home?", "My luck is fading, I don’t want to be alone"],
           "duration": 12
         },
         {
@@ -1422,11 +1474,11 @@
             ["E7", "D7", "A7", "E7"]
           ],
           "lyrics": [
-            "Mama! Mama! Mama! Mama!Mama! Mama! ...",
+            "Papa! Papa! Papa! Papa!Papa! Papa! ...",
             "",
             "[MK signals end...]",
             "[BREAK on 1/10 \u21D2]",
-            "Mama, please take me home",
+            "Papa, please take me home",
             "[BASS OUTRO 11-12]"
           ]
         }
@@ -1673,7 +1725,7 @@
             "They were sweet and warm",
             " ",
             " ",
-            "You showed me colours..."
+            "[You showed me colours...]"
           ],
           "duration": 4
         },
@@ -1687,7 +1739,7 @@
             "Into bright blessed day",
             " ",
             " ",
-            "You know I was drowning..."
+            "[You know I was drowning...]"
           ],
           "duration": 4
         },
@@ -1701,7 +1753,7 @@
             "And I needed more",
             " ",
             " ",
-            "I was cold, so cold..."
+            "[I was cold, so cold...]"
           ],
           "duration": 4
         },
@@ -1715,7 +1767,7 @@
             "Then you brought me back to the start",
             " ",
             " ",
-            "I was born..."
+            "[I was born...]"
           ],
           "duration": 4
         },
@@ -1741,7 +1793,7 @@
             "And you made them harmony",
             "",
 
-            "I was hurting..."
+            "[I was hurting...]"
           ]
         },
         {
@@ -1755,7 +1807,7 @@
             "Again and again and again and again",
             " ",
             " ",
-            "I was born..."
+            "[I was born...]"
           ],
           "duration": 4
         },
@@ -1799,9 +1851,7 @@
             "Call the doctor, call him quick",
             "I done got something ’bout to make me sick",
             "",
-            "I been kissin’ in the dark",
-            "Yeah, kissin’ in the dark",
-            "Kissin’ in the dark, honey, that’s my birthmark"
+            "I been kissin’ in the dark..."
           ],
           "duration": 24
         },
@@ -1816,9 +1866,7 @@
             "Well, I had a girlfriend from Alabam’",
             "She done put her pennies all in a jam",
             "",
-            "Kissin’ in the dark",
-            "Yes, kissin’ in the dark",
-            "Kissin’ in the dark, honey, that’s her birthmark"
+            "Kissin’ in the dark..."
           ],
           "duration": 12
         },
@@ -1833,9 +1881,7 @@
             "She had a date with a scrap, she met a hip cat",
             "And nobody knows where she end up at",
             "",
-            "She been kissin’ in the dark",
-            "Yes, kissin’ in the dark",
-            "She been kissin’ in the dark, honey, that’s her birthmark"
+            "She been kissin’ in the dark..."
           ],
           "duration": 12
         },
@@ -1860,9 +1906,7 @@
             "She had a date with a scrap, she met a hip cat",
             "And nobody knows where she end up at",
             "",
-            "She been kissin’ in the dark",
-            "Yes, kissin’ in the dark",
-            "She been kissin’ in the dark, honey, that’s her birthmark"
+            "She been kissin’ in the dark..."
           ],
           "duration": 12
         },
@@ -1877,9 +1921,7 @@
             "Be a good pal, just swappin’ up a dime",
             "You thinkin’ about a man, throw it after mine",
             "",
-            "Kissin’ in the dark",
-            "Kissin’ in the dark",
-            "Kissin’ in the dark, honey, that’s my birthmark"
+            "Kissin’ in the dark..."
           ],
           "duration": 12
         },
@@ -1894,9 +1936,7 @@
             "Well, you’d better wake up, and try to get wise",
             "Get yourself hip to that old crazy jive",
             "",
-            "Kissin’ in the dark",
-            "Kissin’ in the dark",
-            "Kissin’ in the dark, honey, that’s my birthmark",
+            "Kissin’ in the dark...",
             "",
             "[Bass outro bars 11-12]"
           ]
@@ -4158,6 +4198,19 @@
           "section": "SOLO",
           "chords": [["A", "Bm", "Bm", "A"]],
           "lyrics": ["[SOLO x2]"]
+        },
+        {
+          "section": "Chorus",
+          "chords": [["A", "Bm", "Bm", "A"]],
+          "lyrics": [
+            "You’re as expensive as Tennessee whiskey",
+            "You’re as sickly as strawberry wine",
+            "You vgive me heartburn like a glass of brandy",
+            "But it's okay, it's okay.",
+            "No, it's fine!",
+            "",
+            "[repeat, close on 2nd chorus]"
+          ]
         },
         {
           "section": "Chorus",
