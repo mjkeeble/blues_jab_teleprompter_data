@@ -6,7 +6,7 @@
       "lyricMinFontSize": 20,
       "lyricMaxFontSize": "150",
       "portrait": false,
-      "chordFontSize": "text-5xl",
+      "chordFontSize": "text-4xl",
       "progressBarOn": false
     }
   ],
@@ -4555,7 +4555,7 @@
           "chords": [],
           "lyrics": [
             "Hey bartender, give me a beer",
-            "Oases drying in the desert sun",
+            "Outside it’s a dark dark night, so let me stay here",
             "My bed is empty and cold, cause my baby’s gone",
             "I try to warm up here, before the night is done"
           ]
@@ -4575,8 +4575,8 @@
           "chords": [],
           "lyrics": [
             "Hey bartender, give me another glass",
-            "By the end of the day, I hope the blues will pass",
-            "Do you know where have my old friends been gone",
+            "By the end of the night, I hope the blues will pass",
+            "Do you know where my old friends have been gone",
             "Wanna meet Johnny and Jim, before the night is done"
           ]
         },
