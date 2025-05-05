@@ -6,7 +6,8 @@
       "lyricMinFontSize": 20,
       "lyricMaxFontSize": "150",
       "portrait": false,
-      "chordFontSize": "text-5xl"
+      "chordFontSize": "text-5xl",
+      "progressBarOn": false
     }
   ],
   "gigs": [
@@ -307,11 +308,7 @@
           ],
           "duration": 16
         },
-        {
-          "section": "Outro",
-          "chords": [["Vamp on Dm7"]],
-          "lyrics": ["[Ad lib over vamp]", "", "[MK signal end]"]
-        }
+        { "section": "Outro", "chords": [["Vamp on Dm7"]], "lyrics": ["[Ad lib over vamp]", "", "[MK signal end]"] }
       ]
     },
     {
@@ -1268,11 +1265,7 @@
           ],
           "duration": 10
         },
-        {
-          "section": "Outro",
-          "chords": [["Ab", "C", "Db", "Bbm"]],
-          "lyrics": ["[Ad lib]", "[Signal from Mark]"]
-        }
+        { "section": "Outro", "chords": [["Ab", "C", "Db", "Bbm"]], "lyrics": ["[Ad lib]", "[Signal from Mark]"] }
       ]
     },
     {
@@ -2013,11 +2006,7 @@
             "You better believe right now"
           ]
         },
-        {
-          "section": "Outro",
-          "chords": [],
-          "lyrics": ["Hey, Joe", "You better run on down", "Hey, hey, Joe"]
-        }
+        { "section": "Outro", "chords": [], "lyrics": ["Hey, Joe", "You better run on down", "Hey, hey, Joe"] }
       ]
     },
     {
@@ -2900,21 +2889,25 @@
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "31889323-001",
       "songDuration": 165,
-      "lineup": "Mark (electric)",
-      "scale": "E",
-      "tempo": 80,
+      "lineup": "Band",
+      "scale": "D",
+      "tempo": 140,
       "timeSignature": "4/4",
       "pages": [
         {
           "section": "Verse 1",
-          "chords": [["E", "-", "-", "-"], [], ["E", "-", "-", "-"], ["A", "-", "E", "-"], ["B", "-", "E", "-"]],
+          "chords": [
+            ["D", "D", "G", "G"],
+            ["D", "D", "G", "G"],
+            ["A", "G", "D", "/"]
+          ],
           "lyrics": [
             "I met a girl, she was so fine",
             "I decided to make her mine",
             "I took her for a drink, she had a gin with a twist",
             "And I leaned in just to give her a kiss",
             "She said, ”Darling, don’t be in such a rush.",
-            "You can look all you want, but don’t touch!”",
+            "You can look, but don’t touch!”",
             "",
             "We went to the movies..."
           ],
@@ -2922,10 +2915,14 @@
         },
         {
           "section": "Verse 2",
-          "chords": [["E", "-", "-", "-"], [], ["E", "-", "-", "-"], ["A", "-", "E", "-"], ["B", "-", "E", "-"]],
+          "chords": [
+            ["D", "D", "G", "G"],
+            ["D", "D", "G", "G"],
+            ["A", "G", "D", "/"]
+          ],
           "lyrics": [
             "We went to the movies to see some romance",
-            "Then on to a nightclub ’cause she wanted to dance",
+            "Then to a nightclub ’cause she wanted to dance",
             "I sidled up to her all subtle and slow",
             "But then she said that she wanted to go",
             "That’s when she showed me the gun in her clutch",
@@ -2939,22 +2936,36 @@
         {
           "section": "Bridge + solo",
           "chords": [
-            ["A", "-", "E", "-"],
-            ["A", "-", "B", "-"]
+            ["G", "G", "G", "G"],
+            ["D", "D", "D", "D"],
+            ["G", "G", "G", "G"],
+            ["A", "A", "A", "A"]
           ],
           "lyrics": [
             "I can’t see no reason for all this resistance",
             "Why must I always keep my distance? ",
             "I know this girl is stringing me along",
-            "I don’t think anything ever felt quite so wrong",
-            "",
-            "I went out..."
+            "I don’t think anything ever felt quite so wrong"
           ],
-          "duration": 20
+          "duration": 16
         },
         {
-          "section": "Solo + verse 3",
-          "chords": [["E", "-", "-", "-"], [], ["E", "-", "-", "-"], ["A", "-", "E", "-"], ["B", "-", "E", "-"]],
+          "section": "Solo",
+          "chords": [
+            ["D", "D", "G", "G"],
+            ["D", "D", "G", "G"],
+            ["A", "G", "D", "/"]
+          ],
+          "lyrics": ["[Solo]"],
+          "duration": 16
+        },
+        {
+          "section": "Verse 3",
+          "chords": [
+            ["D", "D", "G", "G"],
+            ["D", "D", "G", "G"],
+            ["A", "G", "D", "/"]
+          ],
           "lyrics": [
             "I went out and bought a ring",
             "With a big diamond and plenty of bling",
@@ -3385,11 +3396,7 @@
             "Where the music’s hot"
           ]
         },
-        {
-          "section": "Solo",
-          "chords": [],
-          "lyrics": ["[SOLO]"]
-        },
+        { "section": "Solo", "chords": [], "lyrics": ["[SOLO]"] },
         {
           "section": "Verse 2",
           "chords": [],
@@ -3592,11 +3599,7 @@
             "I ain’t no furtunate one, no"
           ]
         },
-        {
-          "section": "Solo",
-          "chords": [[]],
-          "lyrics": ["[SOLO]"]
-        },
+        { "section": "Solo", "chords": [[]], "lyrics": ["[SOLO]"] },
         {
           "section": "Verse 3",
           "chords": [[]],
@@ -3759,11 +3762,7 @@
       "tempo": 128,
       "timeSignature": "4/4",
       "pages": [
-        {
-          "section": "Intro",
-          "chords": ["A", "A", "A", "A"],
-          "lyrics": []
-        },
+        { "section": "Intro", "chords": ["A", "A", "A", "A"], "lyrics": [] },
         {
           "section": "Verse 1",
           "chords": [
@@ -3908,11 +3907,7 @@
             "And get it while you can"
           ]
         },
-        {
-          "section": "Bridge",
-          "chords": [["F#m", "A", "F#m", "E"]],
-          "lyrics": []
-        },
+        { "section": "Bridge", "chords": [["F#m", "A", "F#m", "E"]], "lyrics": [] },
         {
           "section": "Verse 3",
           "chords": [
@@ -3984,11 +3979,7 @@
           "chords": [["D", "C", "G", "D"]],
           "lyrics": ["Can’t you see", "Oh, can’t you see", "What that woman", "Been doin’ to me"]
         },
-        {
-          "section": "Solo",
-          "chords": [["D", "C", "G", "D"]],
-          "lyrics": ["[2 Soli]"]
-        },
+        { "section": "Solo", "chords": [["D", "C", "G", "D"]], "lyrics": ["[2 Soli]"] },
         {
           "section": "Verse 3",
           "chords": [["D", "C", "G", "D"]],
@@ -4193,11 +4184,7 @@
             "And honey, I stay stoned on your love all the time"
           ]
         },
-        {
-          "section": "SOLO",
-          "chords": [["A", "Bm", "Bm", "A"]],
-          "lyrics": ["[SOLO x2]"]
-        },
+        { "section": "SOLO", "chords": [["A", "Bm", "Bm", "A"]], "lyrics": ["[SOLO x2]"] },
         {
           "section": "Chorus",
           "chords": [["A", "Bm", "Bm", "A"]],
@@ -4434,11 +4421,7 @@
             "’Cause it’s not my cross to bear"
           ]
         },
-        {
-          "section": "Solo",
-          "chords": [],
-          "lyrics": ["[SOLO]"]
-        },
+        { "section": "Solo", "chords": [], "lyrics": ["[SOLO]"] },
         {
           "section": "Bridge",
           "chords": [],
