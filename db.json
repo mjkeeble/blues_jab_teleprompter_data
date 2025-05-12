@@ -7,77 +7,218 @@
       "lyricMaxFontSize": "150",
       "portrait": false,
       "chordFontSize": "text-4xl",
-      "progressBarOn": false
+      "progressBarOn": true
     }
   ],
   "gigs": [
     {
-      "id": "1",
+      "id": "5245ff4c-d291-43b1-80c5-9ba8d6c59462",
       "venue": "<<Practice set>>",
       "town": "Babelsberg",
       "dateTime": "2028-04-06T19:00:00+02:00",
       "setlist": [
-        [1, 2, 3, 11, 18, 7, 31, 12, 6, 9],
-        [29, 4, 5, 17, 8, 14, 32, 10, 15, 19],
-        [41, 44, 38, 39, 28, 45, 47, 46]
+        [
+          "41c348f2-239b-47d4-99a4-2042023a6a1f",
+          "3cc0fe78-9f53-40b2-9a19-52cddefb512b",
+          "780cf08c-66e0-42a8-9555-08c8fd34f976",
+          "5957ecda-d3c6-4948-9fec-6b57466a0f9f",
+          "b9443cb7-f820-4cc8-b03c-6346a697b744",
+          "e6041e89-49ae-423b-8836-32c5abd97997",
+          "f20d67ec-6504-48fe-b914-179144e72219",
+          "c59fa3df-e058-40aa-9c21-ce9bad3ed636",
+          "337b0158-77d3-413d-9c20-829e49794e34",
+          "5957ecda-d3c6-4948-9fec-6b57466a0f9f",
+          "e88c2eef-a19c-4839-b1e2-543d2141d5c5"
+        ],
+        [
+          "51c79f96-f7e2-4631-ba01-e4c806e577e7",
+          "bac7024e-381c-4483-b44c-01bc1d23c748",
+          "c0f2ba0f-8f32-4d8a-aefd-bc74fc8ffdf9",
+          "b8115650-05fc-4a82-8cab-e9a257c3044b",
+          "9dc70b21-b7b7-44a8-a011-51f375fc7ba3",
+          "3ce3148b-a8fb-4989-b552-9dde0bcf9fbd",
+          "c0a812d7-b113-4c05-9830-fb6e135dc287",
+          "ca239b51-8d29-47bd-a66e-f7dafd3a5a22",
+          "0a7a9d70-67ab-4153-8ce0-4164cb748031",
+          "f7fd745e-fd8b-4c10-83fe-5b3bef16a5a8"
+        ],
+        [
+          "0c0bf929-27cd-4a50-9428-9ca69c76bdd8",
+          "5f32f95d-3ba0-41e1-bb83-9662bb4e4fd1",
+          "8cd97923-8863-42e1-bbc0-b834cfea66bc",
+          "6b94048e-20a8-4073-a824-2d00563693db",
+          "0bd28a0a-739d-4b67-9f84-47af635d1380",
+          "67ddc4b2-95b8-4dd5-b218-00edb9f36ef8",
+          "5c047e00-80cd-4bf5-b761-49b82126ced7",
+          "51fe53b0-edb0-4c29-bfc4-e51a5464fe77"
+        ]
       ]
     },
     {
-      "id": "4",
+      "id": "39709f62-ffed-4d83-aa90-59de968a29ac",
       "venue": "Die Alte Garage",
       "town": "Babelsberg",
 
       "dateTime": "2024-04-06T19:00:00+02:00",
       "setlist": [
-        [1, 2, 3, 11, 18, 7, 12, 6, 9],
-        [22, 23, 21, 20, 25, 24, 27, 28, 26],
-        [29, 4, 5, 17, 8, 14, 13, 10, 15],
-        [19]
+        [
+          "41c348f2-239b-47d4-99a4-2042023a6a1f",
+          "3cc0fe78-9f53-40b2-9a19-52cddefb512b",
+          "780cf08c-66e0-42a8-9555-08c8fd34f976",
+          "5957ecda-d3c6-4948-9fec-6b57466a0f9f",
+          "b9443cb7-f820-4cc8-b03c-6346a697b744",
+          "e6041e89-49ae-423b-8836-32c5abd97997",
+          "f20d67ec-6504-48fe-b914-179144e72219",
+          "337b0158-77d3-413d-9c20-829e49794e34",
+          "5957ecda-d3c6-4948-9fec-6b57466a0f9f",
+          "e88c2eef-a19c-4839-b1e2-543d2141d5c5"
+        ],
+        [
+          "aee9db74-d34d-4688-9b13-8cd71b32feea",
+          "2cd27600-8a26-4384-a318-2da5b14a1b7c",
+          "1a9d89dd-f96f-41c1-b0be-f5872d3a6852",
+          "f5805193-9a71-4688-ace9-2943f5dc6dcf",
+          "8a9eec64-f0d9-4cec-8d7c-82ef065cd4ce",
+          "fbc445ca-0df0-4a0f-bbfb-824111065bb7",
+          "e268be99-67e5-4766-b59d-02ef8a7034d2",
+          "0bd28a0a-739d-4b67-9f84-47af635d1380",
+          "d888024b-321f-4cc1-a3ca-67bf77372ef4"
+        ],
+        [
+          "51c79f96-f7e2-4631-ba01-e4c806e577e7",
+          "bac7024e-381c-4483-b44c-01bc1d23c748",
+          "c0f2ba0f-8f32-4d8a-aefd-bc74fc8ffdf9",
+          "b8115650-05fc-4a82-8cab-e9a257c3044b",
+          "9dc70b21-b7b7-44a8-a011-51f375fc7ba3",
+          "3ce3148b-a8fb-4989-b552-9dde0bcf9fbd",
+          "8c801c75-6007-4e7e-90f5-17dc760ff7e7",
+          "ca239b51-8d29-47bd-a66e-f7dafd3a5a22",
+          "0a7a9d70-67ab-4153-8ce0-4164cb748031"
+        ],
+        ["f7fd745e-fd8b-4c10-83fe-5b3bef16a5a8"]
       ]
     },
     {
-      "id": "5",
+      "id": "e89e5549-c88e-4120-b54e-1cc08a13d43c",
       "venue": "Regenbogen Camp",
       "town": "Göhren",
       "dateTime": "2024-06-15T19:00:00+02:00",
-      "setlist": [[32, 14, 15]]
+      "setlist": [
+        [
+          "c0a812d7-b113-4c05-9830-fb6e135dc287",
+          "3ce3148b-a8fb-4989-b552-9dde0bcf9fbd",
+          "0a7a9d70-67ab-4153-8ce0-4164cb748031"
+        ]
+      ]
     },
     {
-      "id": "6",
+      "id": "346b978b-8c9d-49d1-afaa-6525116b1d6f",
       "venue": "Regenbogen Camp (Jans Kurs)",
       "town": "Göhren",
       "dateTime": "2024-06-14T19:00:00+02:00",
-      "setlist": [[38, 35, 33, 34, 37]]
+      "setlist": [
+        [
+          "8cd97923-8863-42e1-bbc0-b834cfea66bc",
+          "84ed70f0-9970-435b-8b4c-8eb8ce9f1d11",
+          "f62a96b3-4fc9-4416-8047-efc17f073e81",
+          "5dd242a2-a0bb-4089-9c26-22c8c898bf1f",
+          "8aca2c13-b938-4236-b4ef-f89868eaa1ea"
+        ]
+      ]
     },
     {
-      "id": "7",
+      "id": "983fd675-68b1-4870-a5cf-afff56fd5726",
       "venue": "Kulturscheune",
       "town": "Rangsdorf",
       "dateTime": "2024-09-28T19:30:00+02:00",
-      "setlist": [[1, 11, 12, 32, 4, 31, 41, 9], [8]]
+      "setlist": [
+        [
+          "41c348f2-239b-47d4-99a4-2042023a6a1f",
+          "b9443cb7-f820-4cc8-b03c-6346a697b744",
+          "337b0158-77d3-413d-9c20-829e49794e34",
+          "c0a812d7-b113-4c05-9830-fb6e135dc287",
+          "bac7024e-381c-4483-b44c-01bc1d23c748",
+          "c59fa3df-e058-40aa-9c21-ce9bad3ed636",
+          "0c0bf929-27cd-4a50-9428-9ca69c76bdd8",
+          "e88c2eef-a19c-4839-b1e2-543d2141d5c5"
+        ],
+        ["9dc70b21-b7b7-44a8-a011-51f375fc7ba3"]
+      ]
     },
     {
-      "id": "8",
+      "id": "645ed511-b22f-4cd2-aa2c-3d73464a2b71",
       "venue": "strahlwerk",
       "town": "Stralsund",
       "dateTime": "2024-09-21T14:00:00+02:00",
-      "setlist": [[1, 2, 3, 11, 18, 7, 17, 31, 12, 6, 9], [29, 4, 5, 43, 8, 14, 32, 41, 10, 15], [19]]
+      "setlist": [
+        [
+          "41c348f2-239b-47d4-99a4-2042023a6a1f",
+          "3cc0fe78-9f53-40b2-9a19-52cddefb512b",
+          "780cf08c-66e0-42a8-9555-08c8fd34f976",
+          "5957ecda-d3c6-4948-9fec-6b57466a0f9f",
+          "b9443cb7-f820-4cc8-b03c-6346a697b744",
+          "e6041e89-49ae-423b-8836-32c5abd97997",
+          "f20d67ec-6504-48fe-b914-179144e72219",
+          "b8115650-05fc-4a82-8cab-e9a257c3044b",
+          "c59fa3df-e058-40aa-9c21-ce9bad3ed636",
+          "337b0158-77d3-413d-9c20-829e49794e34",
+          "5957ecda-d3c6-4948-9fec-6b57466a0f9f",
+          "e88c2eef-a19c-4839-b1e2-543d2141d5c5"
+        ],
+        [
+          "51c79f96-f7e2-4631-ba01-e4c806e577e7",
+          "bac7024e-381c-4483-b44c-01bc1d23c748",
+          "c0f2ba0f-8f32-4d8a-aefd-bc74fc8ffdf9",
+          "6ca5a4d6-29dd-4ac2-8626-e454e956543d",
+          "9dc70b21-b7b7-44a8-a011-51f375fc7ba3",
+          "3ce3148b-a8fb-4989-b552-9dde0bcf9fbd",
+          "c0a812d7-b113-4c05-9830-fb6e135dc287",
+          "0c0bf929-27cd-4a50-9428-9ca69c76bdd8",
+          "ca239b51-8d29-47bd-a66e-f7dafd3a5a22",
+          "0a7a9d70-67ab-4153-8ce0-4164cb748031"
+        ],
+        ["f7fd745e-fd8b-4c10-83fe-5b3bef16a5a8"]
+      ]
     },
     {
-      "id": "9",
+      "id": "306a96f3-de7d-4fd6-bb61-983140a76d47",
       "venue": "Die Alte Garage",
       "town": "Babelsberg",
       "dateTime": "2025-04-05T19:00:00+02:00",
       "setlist": [
-        [1, 2, 3, 11, 7, 17, 31, 12, 6, 9],
-        [29, 4, 18, 5, 8, 43, 14, 32, 41, 15, 19],
-        [10, 44]
+        [
+          "41c348f2-239b-47d4-99a4-2042023a6a1f",
+          "3cc0fe78-9f53-40b2-9a19-52cddefb512b",
+          "780cf08c-66e0-42a8-9555-08c8fd34f976",
+          "5957ecda-d3c6-4948-9fec-6b57466a0f9f",
+          "b9443cb7-f820-4cc8-b03c-6346a697b744",
+          "f20d67ec-6504-48fe-b914-179144e72219",
+          "b8115650-05fc-4a82-8cab-e9a257c3044b",
+          "c59fa3df-e058-40aa-9c21-ce9bad3ed636",
+          "337b0158-77d3-413d-9c20-829e49794e34",
+          "5957ecda-d3c6-4948-9fec-6b57466a0f9f",
+          "e88c2eef-a19c-4839-b1e2-543d2141d5c5"
+        ],
+        [
+          "51c79f96-f7e2-4631-ba01-e4c806e577e7",
+          "bac7024e-381c-4483-b44c-01bc1d23c748",
+          "e6041e89-49ae-423b-8836-32c5abd97997",
+          "c0f2ba0f-8f32-4d8a-aefd-bc74fc8ffdf9",
+          "9dc70b21-b7b7-44a8-a011-51f375fc7ba3",
+          "6ca5a4d6-29dd-4ac2-8626-e454e956543d",
+          "3ce3148b-a8fb-4989-b552-9dde0bcf9fbd",
+          "c0a812d7-b113-4c05-9830-fb6e135dc287",
+          "0c0bf929-27cd-4a50-9428-9ca69c76bdd8",
+          "0a7a9d70-67ab-4153-8ce0-4164cb748031",
+          "f7fd745e-fd8b-4c10-83fe-5b3bef16a5a8"
+        ],
+        ["ca239b51-8d29-47bd-a66e-f7dafd3a5a22", "5f32f95d-3ba0-41e1-bb83-9662bb4e4fd1"]
       ]
     }
   ],
   "songs": [
     {
-      "id": "1",
+      "id": "41c348f2-239b-47d4-99a4-2042023a6a1f",
       "title": "All That I Can Do Is Sing The Blues",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "31889321-001",
@@ -171,7 +312,7 @@
       ]
     },
     {
-      "id": "2",
+      "id": "3cc0fe78-9f53-40b2-9a19-52cddefb512b",
       "title": "I Remember You",
       "writtenBy": ["Keb’ Mo’"],
       "gemaWerknummer": "22718367-001",
@@ -312,7 +453,7 @@
       ]
     },
     {
-      "id": "3",
+      "id": "780cf08c-66e0-42a8-9555-08c8fd34f976",
       "title": "Crosscut Saw",
       "writtenBy": ["Trad."],
       "gemaWerknummer": "",
@@ -409,7 +550,7 @@
       ]
     },
     {
-      "id": "4",
+      "id": "bac7024e-381c-4483-b44c-01bc1d23c748",
       "title": "One Step Forward",
       "writtenBy": ["Dave Bronze"],
       "gemaWerknummer": "3248336-001",
@@ -482,7 +623,7 @@
       ]
     },
     {
-      "id": "5",
+      "id": "c0f2ba0f-8f32-4d8a-aefd-bc74fc8ffdf9",
       "title": "Help The Poor",
       "writtenBy": ["Charles Singleton"],
       "gemaWerknummer": "814675-001",
@@ -675,7 +816,7 @@
       ]
     },
     {
-      "id": "6",
+      "id": "5957ecda-d3c6-4948-9fec-6b57466a0f9f",
       "title": "Sho’ Nuff I Do",
       "writtenBy": ["Elmore James"],
       "gemaWerknummer": "2129357-001",
@@ -760,7 +901,7 @@
       ]
     },
     {
-      "id": "7",
+      "id": "f20d67ec-6504-48fe-b914-179144e72219",
       "title": "The Thrill Is Gone",
       "writtenBy": ["Rick Darnell", "Roy Hawkins"],
       "gemaWerknummer": "532048-001",
@@ -850,7 +991,7 @@
       ]
     },
     {
-      "id": "8",
+      "id": "9dc70b21-b7b7-44a8-a011-51f375fc7ba3",
       "title": "Thinkin’ ’Bout You",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "31889317-001",
@@ -941,7 +1082,7 @@
       ]
     },
     {
-      "id": "9",
+      "id": "e88c2eef-a19c-4839-b1e2-543d2141d5c5",
       "title": "Rollin’ Man",
       "writtenBy": ["Patrick Adams", "Peter Green"],
       "gemaWerknummer": "510859-001",
@@ -1027,7 +1168,7 @@
       ]
     },
     {
-      "id": "10",
+      "id": "ca239b51-8d29-47bd-a66e-f7dafd3a5a22",
       "title": "Mustang Sally",
       "writtenBy": ["Mack Rice"],
       "gemaWerknummer": "749289-001",
@@ -1149,7 +1290,7 @@
       ]
     },
     {
-      "id": "11",
+      "id": "b9443cb7-f820-4cc8-b03c-6346a697b744",
       "title": "Can I Lean On You",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "32939344-001",
@@ -1269,7 +1410,7 @@
       ]
     },
     {
-      "id": "12",
+      "id": "337b0158-77d3-413d-9c20-829e49794e34",
       "title": "Lie To Me",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "33774111-001",
@@ -1386,7 +1527,7 @@
       ]
     },
     {
-      "id": "13",
+      "id": "8c801c75-6007-4e7e-90f5-17dc760ff7e7",
       "title": "Mama (Kindergarten Blues)",
       "version": "Second bridge at end",
       "writtenBy": ["Mark Keeble"],
@@ -1477,7 +1618,7 @@
       ]
     },
     {
-      "id": "14",
+      "id": "3ce3148b-a8fb-4989-b552-9dde0bcf9fbd",
       "title": "Something Like Olivia",
       "writtenBy": ["John Mayer"],
       "gemaWerknummer": "12696097-001",
@@ -1557,7 +1698,7 @@
       ]
     },
     {
-      "id": "15",
+      "id": "0a7a9d70-67ab-4153-8ce0-4164cb748031",
       "title": "Talk To Me Baby",
       "writtenBy": ["Elmore James"],
       "gemaWerknummer": "564260-001",
@@ -1685,7 +1826,7 @@
       ]
     },
     {
-      "id": "17",
+      "id": "b8115650-05fc-4a82-8cab-e9a257c3044b",
       "title": "Salvation Hymn",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "28368152-004",
@@ -1820,7 +1961,7 @@
       ]
     },
     {
-      "id": "18",
+      "id": "e6041e89-49ae-423b-8836-32c5abd97997",
       "title": "Kissing In The Dark",
       "writtenBy": ["Ernest Lawlers"],
       "gemaWerknummer": "2676917-001",
@@ -1936,7 +2077,7 @@
       ]
     },
     {
-      "id": "19",
+      "id": "f7fd745e-fd8b-4c10-83fe-5b3bef16a5a8",
       "title": "Hey Joe",
       "writtenBy": ["Billy Roberts"],
       "gemaWerknummer": "754810-001",
@@ -2010,7 +2151,7 @@
       ]
     },
     {
-      "id": "20",
+      "id": "f5805193-9a71-4688-ace9-2943f5dc6dcf",
       "title": "Black Coffee",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "33774118-001",
@@ -2132,7 +2273,7 @@
       ]
     },
     {
-      "id": "21",
+      "id": "1a9d89dd-f96f-41c1-b0be-f5872d3a6852",
       "title": "Freedom Train",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "35984804-001",
@@ -2237,7 +2378,7 @@
       ]
     },
     {
-      "id": "22",
+      "id": "aee9db74-d34d-4688-9b13-8cd71b32feea",
       "title": "I Only Get The Blues With You",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "28368011-001",
@@ -2350,7 +2491,7 @@
       ]
     },
     {
-      "id": "23",
+      "id": "2cd27600-8a26-4384-a318-2da5b14a1b7c",
       "title": "On Poverty Road",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "35984800-001",
@@ -2475,7 +2616,7 @@
       ]
     },
     {
-      "id": "24",
+      "id": "fbc445ca-0df0-4a0f-bbfb-824111065bb7",
       "title": "Treat You Right",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "28368018-001",
@@ -2568,7 +2709,7 @@
       ]
     },
     {
-      "id": "25",
+      "id": "8a9eec64-f0d9-4cec-8d7c-82ef065cd4ce",
       "title": "What Have I Done",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "28368009-001",
@@ -2695,7 +2836,7 @@
       ]
     },
     {
-      "id": "26",
+      "id": "d888024b-321f-4cc1-a3ca-67bf77372ef4",
       "title": "Highway Kind",
       "writtenBy": ["Townes Van Zandt"],
       "gemaWerknummer": "   ",
@@ -2793,7 +2934,7 @@
       ]
     },
     {
-      "id": "27",
+      "id": "e268be99-67e5-4766-b59d-02ef8a7034d2",
       "title": "When Are We Gonna Learn",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "31889319-001",
@@ -2884,7 +3025,7 @@
       ]
     },
     {
-      "id": "28",
+      "id": "0bd28a0a-739d-4b67-9f84-47af635d1380",
       "title": "Look, Don’t Touch",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "31889323-001",
@@ -2980,7 +3121,7 @@
       ]
     },
     {
-      "id": "29",
+      "id": "51c79f96-f7e2-4631-ba01-e4c806e577e7",
       "title": "Baby What You Want Me To Do",
       "writtenBy": ["Jimmy Reed"],
       "gemaWerknummer": "912087-001",
@@ -3012,7 +3153,7 @@
       ]
     },
     {
-      "id": "30",
+      "id": "faabb700-c5ca-4122-b7cc-c5a6117f499c",
       "title": "Blue Jeans Blues",
       "writtenBy": ["Billy Gibbons", "Dusty Hill", "Frank Beard"],
       "gemaWerknummer": "1060733-001",
@@ -3049,7 +3190,7 @@
       ]
     },
     {
-      "id": "31",
+      "id": "c59fa3df-e058-40aa-9c21-ce9bad3ed636",
       "title": "Sly Dog Blues",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "",
@@ -3186,7 +3327,7 @@
       ]
     },
     {
-      "id": "32",
+      "id": "c0a812d7-b113-4c05-9830-fb6e135dc287",
       "title": "Mama (Kindergarten Blues)",
       "version": "No bridge at end",
       "writtenBy": ["Mark Keeble"],
@@ -3266,7 +3407,7 @@
       ]
     },
     {
-      "id": "33",
+      "id": "f62a96b3-4fc9-4416-8047-efc17f073e81",
       "title": "Tin Pan Alley",
       "writtenBy": ["Bob Geddins"],
       "gemaWerknummer": "",
@@ -3336,7 +3477,7 @@
       ]
     },
     {
-      "id": "34",
+      "id": "5dd242a2-a0bb-4089-9c26-22c8c898bf1f",
       "title": "The Music’s Hot",
       "writtenBy": ["J. Moore", "R. Hayes"],
       "gemaWerknummer": "",
@@ -3426,7 +3567,7 @@
       ]
     },
     {
-      "id": "35",
+      "id": "84ed70f0-9970-435b-8b4c-8eb8ce9f1d11",
       "title": "Going Up The Country",
       "writtenBy": [],
       "gemaWerknummer": "Band + guest",
@@ -3553,7 +3694,7 @@
       ]
     },
     {
-      "id": "36",
+      "id": "61a4c350-3122-4852-bb17-d674f214eeed",
       "title": "Fortunate Son",
       "writtenBy": [],
       "gemaWerknummer": "",
@@ -3634,7 +3775,7 @@
       ]
     },
     {
-      "id": "37",
+      "id": "8aca2c13-b938-4236-b4ef-f89868eaa1ea",
       "title": "Tush",
       "writtenBy": [],
       "gemaWerknummer": "",
@@ -3680,7 +3821,7 @@
       ]
     },
     {
-      "id": "38",
+      "id": "8cd97923-8863-42e1-bbc0-b834cfea66bc",
       "title": "Loan Me A Dime",
       "writtenBy": ["Fenton Robinson"],
       "gemaWerknummer": "770987-001",
@@ -3754,7 +3895,7 @@
       ]
     },
     {
-      "id": "39",
+      "id": "6b94048e-20a8-4073-a824-2d00563693db",
       "title": "Full Moon, Half Crazy",
       "writtenBy": ["Jeffrey Schroedl"],
       "lineup": "Band",
@@ -3852,7 +3993,7 @@
       ]
     },
     {
-      "id": "40",
+      "id": "9ded6232-afae-49d7-aaea-ae74685798bf",
       "title": "Get It While You Can",
       "writtenBy": ["Dan Auerbach", "John Prine", "Pat McLaughlin"],
       "gemaWerknummer": "",
@@ -3936,7 +4077,7 @@
       ]
     },
     {
-      "id": "41",
+      "id": "0c0bf929-27cd-4a50-9428-9ca69c76bdd8",
       "title": "Can’t You See",
       "writtenBy": ["Toy Caldwell"],
       "gemaWerknummer": "",
@@ -3998,7 +4139,7 @@
       ]
     },
     {
-      "id": "42",
+      "id": "9e912f58-3802-441c-a5ec-796b96aaf824",
       "title": "Personal Jesus (unfinished)",
       "writtenBy": ["Martin L. Gore"],
       "gemaWerknummer": "GEMA",
@@ -4135,7 +4276,7 @@
       ]
     },
     {
-      "id": "43",
+      "id": "6ca5a4d6-29dd-4ac2-8626-e454e956543d",
       "title": "Tennessee Whiskey",
       "writtenBy": ["Dean Dillon", "Linda Hargrove"],
       "gemaWerknummer": "1259926-001",
@@ -4211,7 +4352,7 @@
       ]
     },
     {
-      "id": "44",
+      "id": "5f32f95d-3ba0-41e1-bb83-9662bb4e4fd1",
       "title": "Midnight Special",
       "writtenBy": ["Lead Belly"],
       "gemaWerknummer": "",
@@ -4388,7 +4529,7 @@
       ]
     },
     {
-      "id": "45",
+      "id": "67ddc4b2-95b8-4dd5-b218-00edb9f36ef8",
       "title": "It’s Not My Cross to Bear",
       "writtenBy": ["Gregg Allman"],
       "gemaWerknummer": "",
@@ -4455,7 +4596,7 @@
       ]
     },
     {
-      "id": "46",
+      "id": "51fe53b0-edb0-4c29-bfc4-e51a5464fe77",
       "title": "Still A Man",
       "writtenBy": ["Frank Neubauer"],
       "gemaWerknummer": "",
@@ -4544,7 +4685,7 @@
       ]
     },
     {
-      "id": "47",
+      "id": "5c047e00-80cd-4bf5-b761-49b82126ced7",
       "title": "Hey Bartender",
       "writtenBy": ["Frank Neubauer"],
       "gemaWerknummer": "",
@@ -4603,7 +4744,7 @@
       ]
     },
     {
-      "id": "48",
+      "id": "b0d42276-e463-43cf-b076-7a12efe7fd7f",
       "title": "Falling Down Like Rain",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "",
