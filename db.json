@@ -214,6 +214,21 @@
         ],
         ["ca239b51-8d29-47bd-a66e-f7dafd3a5a22", "5f32f95d-3ba0-41e1-bb83-9662bb4e4fd1"]
       ]
+    },
+    {
+      "id": "53fb4e55-6cbe-4bb8-9b31-e1c372503db0",
+      "venue": "Regenbogen Camp",
+      "town": "Göhren",
+      "dateTime": "2025-06-15T19:00:00+02:00",
+      "setlist": [
+        [
+          "c59fa3df-e058-40aa-9c21-ce9bad3ed636",
+          "5c047e00-80cd-4bf5-b761-49b82126ced7",
+          "337b0158-77d3-413d-9c20-829e49794e34",
+          "6f5367a0-d164-4d2a-9a76-b3279ff88472",
+          "0c0bf929-27cd-4a50-9428-9ca69c76bdd8"
+        ]
+      ]
     }
   ],
   "songs": [
@@ -3300,7 +3315,7 @@
             "Followed me back",
             "She says she can’t clean the dishes",
             "And she won’t sweep the floor",
-            "She just eats my food and then she cries for more"
+            "She just eats all my food and then she cries out for more"
           ]
         },
         {
@@ -4354,6 +4369,7 @@
     {
       "id": "5f32f95d-3ba0-41e1-bb83-9662bb4e4fd1",
       "title": "Midnight Special",
+      "version": "4 verses",
       "writtenBy": ["Lead Belly"],
       "gemaWerknummer": "",
       "lineup": "Band",
@@ -4483,6 +4499,155 @@
         },
         {
           "section": "Verse 4",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C!"]
+          ],
+          "lyrics": [
+            "If you go down to Mar-A-Lago, check out the boxes in the John",
+            "They’re full of secrets and launch codes",
+            "World War Three, bring it on!",
+            "Oh, I met Miss Rosie down there, things didn’t go as she had planned",
+            "She felt something lifting up her skirt",
+            "Lord, it was the President’s hand"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Let the midnight special",
+            "Shine a light on me (x3)",
+            "...",
+            "Let the midnight special",
+            "Shine its ever-loving light on me"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Let the midnight special shine a light on me",
+            "Let the midnight special...",
+            "[BREAK]",
+            "...shine a light",
+            "on me"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6f5367a0-d164-4d2a-9a76-b3279ff88472",
+      "title": "Midnight Special",
+      "version": "3 verses",
+      "writtenBy": ["Lead Belly"],
+      "gemaWerknummer": "",
+      "lineup": "Band",
+      "tempo": 110,
+      "scale": "C",
+      "notes": "Close: Break and vocals in chorus",
+      "configChordPaneSize": 2,
+      "timeSignature": "4/4",
+      "pages": [
+        {
+          "section": "Intro + Chorus",
+          "chords": [
+            ["G", "F", "C", "C"],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"],
+            [],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Let the midnight special",
+            "Shine a light on me",
+            "Let the midnight special",
+            "Shine its ever-loving light on me"
+          ]
+        },
+        {
+          "section": "Verse 1",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C!"]
+          ],
+          "lyrics": [
+            "Well, you wake up in the morning, hear the working bell ring",
+            "And they march you to the table, you see the same old thing",
+            "Ain’t no food upon the table, and no pork in the pan",
+            "But you better not complain, boy",
+            "You get in trouble with the man"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Let the midnight special",
+            "Shine a light on me (x3)",
+            "...",
+            "Let the midnight special",
+            "Shine its ever-loving light on me"
+          ]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C!"]
+          ],
+          "lyrics": [
+            "Yonder come Miss Rosie, how in the world do you know?",
+            "Well, I know her by her apron and the dress she wore",
+            "Umbrella on her shoulder, piece of paper in her hand",
+            "She come to see the gov’nor",
+            "Ask him to free her man",
+            "...free her man"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Let the midnight special",
+            "Shine a light on me (x3)",
+            "...",
+            "Let the midnight special",
+            "Shine its ever-loving light on me"
+          ]
+        },
+        {
+          "section": "Solo",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": ["[SOLO]"]
+        },
+
+        {
+          "section": "Verse 3",
           "chords": [
             ["F", "F", "C", "C"],
             ["G", "F", "C", "C"],
@@ -4697,8 +4862,9 @@
           "lyrics": [
             "Hey bartender, give me a beer",
             "Outside it’s a dark dark night, so let me stay here",
-            "My bed is empty and cold, cause my baby’s gone",
-            "I try to warm up here, before the night is done"
+            "My bed is cold and empty",
+            "Cause my baby’s gone",
+            "I’m gonna keep warm here, before the night is done"
           ]
         },
         {
@@ -4706,8 +4872,9 @@
           "chords": [],
           "lyrics": [
             "Hey bartender, give me one more drink",
-            "The clearer I’ll see, my worries will shrink",
-            "Was it the garbage man, whom she took on the run",
+            "I'm as drunk as I look and I'm as sober as I think",
+            "Was it the mail man",
+            "That she took on the run",
             "No matter at all, when the night is done"
           ]
         },
@@ -4717,28 +4884,33 @@
           "lyrics": [
             "Hey bartender, give me another glass",
             "By the end of the night, I hope the blues will pass",
-            "Do you know where my old friends have been gone",
-            "Wanna meet Johnny and Jim, before the night is done"
+            "Do you know",
+            "Where my old friends have been gone",
+            "Wanna meet Billy and John, before the night is done"
           ]
         },
         {
           "section": "Verse 4",
           "chords": [],
           "lyrics": [
-            "Hey bartender, leave me the bottle here",
-            "With my friends by my side, I’m getting no fear",
-            "They always take care and listen to me",
-            "They never judge me, trick me or want a fee"
+            "Hey bartender, leave that bottle here",
+            "With my friends by my side, I got nothing fear",
+            "They always take care of me",
+            "Like I'm the only one",
+            "They never judge me, never trick me",
+            "When the night is done"
           ]
         },
         {
           "section": "Verse 5",
           "chords": [],
           "lyrics": [
-            "Hey bartender, we’ll see us again",
-            "I’m done with this chick, I’m done with the shame",
-            "Now I’m free, free as a man can be",
-            "So Lord I beg you, don’t bring her back to me"
+            "Hey bartender, I'll see you again",
+            "I’m done with that chick, I’m done with the shame",
+            "Now I’m a free man,",
+            "Free as a man on the run",
+            "So Lord, don’t bring her back to me",
+            "When the night is done"
           ]
         }
       ]
@@ -4789,10 +4961,10 @@
 
           "chords": [["E", "G#"], ["A", "E  G#"], ["A", "E  G#"], ["A", "E  G#"], ["A..."]],
           "lyrics": [
+            "On the first day that I saw you",
+            "I could hardly breathe",
             "I was blinded by the wonder",
             "Of who I thought you'd be",
-            "And revelled in the romance",
-            "Of all your mystery",
             "",
             "As we walked along the sunset",
             "We didn't see the signs",
