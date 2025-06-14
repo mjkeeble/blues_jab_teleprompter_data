@@ -1492,15 +1492,23 @@
           "duration": 12
         },
         {
-          "section": "Solo + Verse 3",
+          "section": "Solo",
+          "chords": [
+            ["A", "-", "-", "-"],
+            ["D", "-", "A", "-"],
+            ["E", "D", "A", "E"]
+          ],
+          "lyrics": ["[1x SOLO - Mark]"],
+          "duration": 12
+        },
+        {
+          "section": "Verse 3",
           "chords": [
             ["A", "-", "-", "-"],
             ["D", "-", "A", "-"],
             ["E", "D", "A", "E"]
           ],
           "lyrics": [
-            "[SOLO x 1]",
-            "",
             "What you doing honey",
             "Coming here with all this proof?",
             "",
@@ -1509,7 +1517,7 @@
             "I think the time has come",
             "I gotta cut myself loose"
           ],
-          "duration": 24
+          "duration": 12
         },
         {
           "section": "Verse 4",
