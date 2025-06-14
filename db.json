@@ -1132,10 +1132,10 @@
             ["E7", "D7", "A7", "/"]
           ],
           "lyrics": [
-            "Now come on baby, now we can make some love tonight",
-            "I said baby, make some love tonight",
+            "Now come on baby, let’s make some love tonight",
+            "I said baby, let’s make some love tonight",
             "",
-            "Well be rolling out the blankets",
+            "We’ll be rolling out the blankets",
             "I’m going to make you feel alright"
           ],
           "duration": 12
@@ -1158,7 +1158,7 @@
           ],
           "lyrics": [
             "I’m your rollin’ man",
-            "I’ve got all the love you need (x2)",
+            "Gonna give you all the love you need (x2)",
             "",
             "I’ve got so much loving",
             "More than you ever going to see"
@@ -1450,7 +1450,7 @@
 
             "",
             "Tell me anything you want",
-            "Just please don’t tell me we’re through"
+            "But please don’t tell me we’re through"
           ],
           "duration": 24
         },
@@ -1502,9 +1502,9 @@
             "[SOLO x 1]",
             "",
             "What you doing honey",
-            "Coming here with all this proof",
+            "Coming here with all this proof?",
             "",
-            "I never signed up for that kind of abuse",
+            "I never signed up for this kind of abuse",
             "",
             "I think the time has come",
             "I gotta cut myself loose"
@@ -1523,7 +1523,7 @@
             "’Cause I’ll sure as hell lie to you (x2)",
             "",
             "Tell me anything you want",
-            "Just please don’t tell me we’re through"
+            "But please don’t tell me we’re through"
           ],
           "duration": 12
         },
@@ -3223,7 +3223,7 @@
             "I got a sly dog",
             "Sniffin’ round my door",
             "Eying up my woman",
-            "Beggin on the floor",
+            "Beggin’ on the floor",
             "He ain’t got no leash",
             "He completely wild",
             "Drive my woman crazy like some feral child"
@@ -3235,7 +3235,7 @@
             ["D7", "-", "A", "-"],
             ["E", "D", "A", "E"]
           ],
-          "lyrics": ["I got a sly dog", "But I don’t know what for", "I’ve got a sly dog sniffin’ at my door"]
+          "lyrics": ["I got a sly dog", "But I don’t know what for", "I got a sly dog", "Sniffin’ at my door"]
         },
         {
           "section": "Verse 2",
@@ -3259,7 +3259,7 @@
             ["D", "-", "A", "-"],
             ["E", "D", "A", "E"]
           ],
-          "lyrics": ["I got a cool cat, but I don’t know what for", "And I’ve got a sly dog sniffin’ at my door"]
+          "lyrics": ["I got a cool cat baby", "But I don’t know what for", "I got a sly dog", "Sniffin’ at my door"]
         },
         {
           "section": "Solo",
@@ -3293,7 +3293,8 @@
             ["E", "D", "A", "E"]
           ],
           "lyrics": [
-            "I got a talking chicken, but I don’t know what for",
+            "I got a talking chicken",
+            "I don’t know what for",
             "Gonna feed it to that egg suckin’ dog",
             "That’s sniffin’ at my door"
           ]
@@ -3321,9 +3322,10 @@
             ["E", "D", "A", "E"]
           ],
           "lyrics": [
-            "Yeah I got a wild woman, but I don’t know what for",
+            "Yeah I got a wild woman",
+            "I don’t know what for",
             "And I’ve got a sly dog",
-            "And he's sniffin’ at my door"
+            "And that sly dog is sniffin’ at my door"
           ]
         },
         {
@@ -4102,11 +4104,11 @@
           "chords": [["D", "C", "G", "D"]],
           "lyrics": [
             "Gonna take a freight train",
-            "Down at the station, Lord",
+            "Down at the statio",
             "I don’t care where it goes",
             "Gonna climb a mountain",
-            "The highest mountain, Lord",
-            "Gonna jump off, nobody gonna know"
+            "The highest mountain",
+            "Gonna jump off, no one’s gonna know"
           ]
         },
         {
@@ -4120,10 +4122,10 @@
           "lyrics": [
             "I’m gonna find me",
             "A hole in the wall",
-            "I’m gonna crawl inside and die",
-            "Cause my lady",
+            "Gonna crawl inside and I'm gonna die",
+            "’Cause my lady",
             "Now a mean old woman",
-            "Lord, never told me goodbye"
+            "Never told me goodbye"
           ]
         },
         {
@@ -4136,10 +4138,10 @@
           "section": "Verse 3",
           "chords": [["D", "C", "G", "D"]],
           "lyrics": [
-            "I’ve gone to buy a ticket now, as far as I can",
-            "Ain’t a-never coming back",
-            "Ride me a southbound, all the way to Georgia now",
-            "’Til the train, it run out of track"
+            "Gonna buy a ticket, as far as I can",
+            "And I ain’t ever coming back",
+            "Gonna take the southbound, all the way to Georgia",
+            "’Til the train runs out of track"
           ]
         },
         {
