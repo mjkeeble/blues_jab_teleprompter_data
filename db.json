@@ -1141,13 +1141,13 @@
           "duration": 12
         },
         {
-          "section": "Solo - Mark",
+          "section": "Solo",
           "chords": [
             ["A7", "-", "-", "-"],
             ["D7", "-", "A7", "-"],
             ["E7", "D7", "A7", "/"]
           ],
-          "lyrics": ["[THEME]", "[1 SOLO]"]
+          "lyrics": ["[THEME]", "[SOLO - MARK]"]
         },
         {
           "section": "Verse 3",
@@ -3250,7 +3250,7 @@
             "The whole damn place",
             "Rubs up against my leg",
             "Prowls throughout the house",
-            "But that mangy creature,he can’t even catch a mouse"
+            "But that mangy creature, he can’t even catch a mouse"
           ]
         },
         {
