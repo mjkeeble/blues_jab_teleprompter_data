@@ -224,9 +224,8 @@
       "setlist": [
         [
           "c59fa3df-e058-40aa-9c21-ce9bad3ed636",
-          "5c047e00-80cd-4bf5-b761-49b82126ced7",
+          "e88c2eef-a19c-4839-b1e2-543d2141d5c5",
           "337b0158-77d3-413d-9c20-829e49794e34",
-          "6f5367a0-d164-4d2a-9a76-b3279ff88472",
           "0c0bf929-27cd-4a50-9428-9ca69c76bdd8"
         ]
       ]
@@ -4132,7 +4131,7 @@
           "chords": [["D", "C", "G", "D"]],
           "lyrics": ["Can’t you see", "Oh, can’t you see", "What that woman", "Been doin’ to me"]
         },
-        { "section": "Solo", "chords": [["D", "C", "G", "D"]], "lyrics": ["[2 Soli]"] },
+        { "section": "Solo", "chords": [["D", "C", "G", "D"]], "lyrics": ["[The neverending solo!]", "[:-)]"] },
         {
           "section": "Verse 3",
           "chords": [["D", "C", "G", "D"]],
