@@ -220,13 +220,27 @@
       "id": "53fb4e55-6cbe-4bb8-9b31-e1c372503db0",
       "venue": "Regenbogen Camp",
       "town": "Göhren",
-      "dateTime": "2025-06-15T19:00:00+02:00",
+      "dateTime": "2025-06-18T21:10:00+02:00",
       "setlist": [
         [
           "c59fa3df-e058-40aa-9c21-ce9bad3ed636",
           "e88c2eef-a19c-4839-b1e2-543d2141d5c5",
-          "337b0158-77d3-413d-9c20-829e49794e34",
-          "0c0bf929-27cd-4a50-9428-9ca69c76bdd8"
+          "337b0158-77d3-413d-9c20-829e49794e34"
+        ],
+        ["0c0bf929-27cd-4a50-9428-9ca69c76bdd8"]
+      ]
+    },
+    {
+      "id": "new",
+      "venue": "Regenbogen Camp (Jan's course)",
+      "town": "Göhren",
+      "dateTime": "2025-06-20T21:00:00+02:00",
+      "setlist": [
+        [
+          "f7b3f9a2-8018-4cc5-b0b7-2c4b230f216f",
+          "e1b63512-0faf-4c65-8eae-25a9115fd860",
+          "c972d24c-8c18-483a-94fc-4a736ed95d49",
+          "5e8b85df-2299-4b0a-b135-2ce26329d3be"
         ]
       ]
     }
@@ -1509,8 +1523,8 @@
             ["E", "D", "A", "E"]
           ],
           "lyrics": [
-            "What you doing honey",
             "Coming here with all this proof?",
+            "What you doing honey",
             "",
             "I never signed up for this kind of abuse",
             "",
@@ -5046,6 +5060,298 @@
             "My tears are falling down like rain",
             "Falling down like rain",
             "Falling down like rain"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f7b3f9a2-8018-4cc5-b0b7-2c4b230f216f",
+      "title": "She Caught the Katy",
+      "writtenBy": ["Taj Mahal", "James Rachell"],
+      "gemaWerknummer": "",
+      "lineup": "Band",
+      "key": "A",
+      "notes": "The Katy was the Missouri-Kansas-Texas (MKT) Railroad \n6-bar intro",
+      "pages": [
+        {
+          "section": "Chorus",
+          "chords": [],
+          "lyrics": [
+            "She caught the Katy and left me a mule to ride",
+            "She caught the Katy and left me a mule to ride",
+            "Yeah my baby caught the Katy, left me a mule to ride",
+            "The train pulled out, I swung on behind",
+            "Crazy 'bout her, that hard-headed woman of mine"
+          ]
+        },
+        {
+          "section": "Verse",
+          "chords": [],
+          "lyrics": [
+            "Man, my baby long, great gosh almighty, my baby tall",
+            "Man, my baby long, great gosh almighty, my baby tall",
+            "Yeah, my baby, she long, my baby, she tall",
+            "She's sleepin' with her head in the kitchen and her feet's out in the hall",
+            "Crazy 'bout her, that hard-headed woman of mine"
+          ]
+        },
+        {
+          "section": "Bridge",
+          "chords": [],
+          "lyrics": [
+            "Well, I love my baby, she's so fine",
+            "But I wish she'd come and see me sometime",
+            "She don't believe in our love, ah",
+            "Look what a hole I'm in",
+            "She don't believe I'm sinkin', look what shape I'm in"
+          ]
+        },
+        {
+          "section": "Solo",
+          "chords": [],
+          "lyrics": ["[SOLO]"]
+        },
+        {
+          "section": "Chorus",
+          "chords": [],
+          "lyrics": [
+            "She caught the Katy and left me a mule to ride",
+            "She caught the Katy and left me a mule to ride",
+            "Yeah my baby caught the Katy, left me a mule to ride",
+            "The train pulled out, I swung on behind",
+            "Crazy 'bout her, that hard-headed woman",
+            "Hard-headed woman of mine"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e1b63512-0faf-4c65-8eae-25a9115fd860",
+      "title": "Tell The Truth",
+      "notes": "Intro 3 bars from start of guitars",
+      "writtenBy": [],
+      "gemaWerknummer": "",
+
+      "pages": [
+        {
+          "section": "Chorus",
+          "chords": [],
+          "lyrics": ["Tell me who's been fooling you?", "Tell the truth", "Who's been fooling you?"]
+        },
+        {
+          "section": "Verse 1",
+          "chords": [],
+          "lyrics": [
+            "There you sit there looking so cool",
+            "While the whole show is passing you by",
+            "Better come to terms with your fellow men soon cause",
+            "Whole world is shaking now, can't you feel it?",
+            "A New dawn is breaking now, can't you see it?"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [],
+          "lyrics": ["Tell the Truth", "Tell me who's been fooling you?", "Tell the truth", "Who's been fooling you?"]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [],
+          "lyrics": [
+            "It doesn't matter just who you are",
+            "Or where you're going or been",
+            "Open your eyes and look into my heart",
+            "Whole world is shaking now, can't you feel it?",
+            "New dawn is breaking now, can't you see it?"
+          ]
+        },
+        {
+          "section": "Refrain",
+          "chords": [],
+          "lyrics": [
+            "I said, \"See it, yeah, can't you see it?",
+            "Can't you see it, yeah, can't you see it?",
+            "I can see it, yeah\"",
+            "Whoo!"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [],
+          "lyrics": ["Tell the truth", "Tell me who's been fooling you?", "Tell the truth, who's been fooling you?"]
+        },
+        {
+          "section": "Verse 3",
+          "chords": [],
+          "lyrics": [
+            "Hear what I say cause every word is true",
+            "You know I wouldn't tell you no lies",
+            "Your time's coming, gonna be soon, boy,",
+            "Whole world is shaking now, can't you feel it?",
+            "A new dawn is breaking now, can't you see it?"
+          ]
+        },
+        {
+          "section": "Refrain",
+          "chords": [],
+          "lyrics": [
+            "I said,\"See it, yeah\"",
+            "Can’t you see it?",
+            "I said,\"See it\", yeah",
+            "Can’t you see it?",
+            "I said,\"See it\", yeah",
+            "I said,",
+            "\"See it\"",
+            "I said",
+            "\"See it\""
+          ]
+        },
+        {
+          "section": "Outro",
+          "chords": [],
+          "lyrics": [
+            "Whole world is shaking now, can't you feel it?",
+            "New dawn is breaking now, can't you see it?",
+            "I said, \"See it\", I said, \"See it\"",
+            "Can’t you see it?",
+            "Can’t you see it, Yeah?",
+            "Just see it",
+            "Just see it"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c972d24c-8c18-483a-94fc-4a736ed95d49",
+      "title": "La Grange",
+      "writtenBy": ["Billy Gibbons", "Dusty Hill", "Frank Beard"],
+      "gemaWerknummer": "",
+      "pages": [
+        {
+          "section": "Intro",
+          "chords": [],
+          "lyrics": ["[Intro]"]
+        },
+        {
+          "section": "Verse 1",
+          "chords": [],
+          "lyrics": [
+            "Rumour spreadin' 'round in that Texas town",
+            "’Bout that shack outside La Grange",
+            "And you know what I'm talkin' about",
+            "Just let me know if you wanna go",
+            "'To that home out on the range",
+            "They gotta lotta nice girls",
+            "Have mercy",
+            "A-haw haw haw-haw",
+            "Heh, a-haw haw-haw-haw"
+          ]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [],
+          "lyrics": [
+            "Well, I hear it's fine if you got the time",
+            "And the ten to get yourself in",
+            "A hmm, hmm",
+            "And I hear it's tight most every night",
+            "But now I might be mistaken",
+            "Hmm, hmm, hmm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5e8b85df-2299-4b0a-b135-2ce26329d3be",
+      "title": "634-5789",
+      "writtenBy": [],
+      "gemaWerknummer": "",
+      "pages": [
+        {
+          "section": "Verse 1",
+          "chords": [],
+          "lyrics": [
+            "If you need a little lovin'",
+            "Call on me, alright",
+            "And if you want a little huggin'",
+            "Call on me baby, mm hmm",
+            "Oh I'll be … right here at home",
+            "All you got to do is pick up your telephone",
+            "And dial now"
+          ]
+        },
+        {
+          "section": "Refrain",
+          "chords": [],
+          "lyrics": ["#6-3-4-5-7-8-9#", "What's my number?", "#6-3-4-5-7-8-9#"]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [],
+          "lyrics": [
+            "And if you need a little huggin'",
+            "Call on me, that's all you gotta do now",
+            "And if you want some kissin'",
+            "Call on me baby, all right",
+            "No more lonely nights, when you'll be alone",
+            "All you got to do is pick up your telephone",
+            "And dial now"
+          ]
+        },
+        {
+          "section": "Refrain",
+          "chords": [],
+          "lyrics": ["#6-3-4-5-7-8-9#", "What's my number?", "#6-3-4-5-7-8-9#"]
+        },
+        {
+          "section": "Bridge",
+          "chords": [],
+          "lyrics": [
+            "Oh, I'll be right there",
+            "Just as soon as I can, oh",
+            "And if I'll be a little bit late now",
+            "I hope that you'll understand",
+            "Whoa yeah, alright"
+          ]
+        },
+        {
+          "section": "Verse 3",
+          "chords": [],
+          "lyrics": [
+            "And if you need a little lovin'",
+            "Call on me, Lord have mercy",
+            "And if you want some kissin'",
+            "Call on me baby, that's all you got to do now",
+            "No more lonely nights, when you'll be alone",
+            "All you got to do is pick up your telephone",
+            "And dial now"
+          ]
+        },
+        {
+          "section": "Refrain",
+          "chords": [],
+          "lyrics": ["#6-3-4-5-7-8-9#", "What's my number?", "#6-3-4-5-7-8-9#"]
+        },
+        {
+          "section": "Outro (1/2)",
+          "chords": [],
+          "lyrics": [
+            "[!! Key change !!]",
+            "#6-3-4-5-7-8-9#",
+            "Call me on the telephone",
+            "#6-3-4-5-7-8-9#",
+            "No more will you be alone"
+          ]
+        },
+        {
+          "section": "Outro (2/2)",
+          "chords": [],
+          "lyrics": [
+            "#6-3-4-5-7-8-9#",
+            "What's my number",
+            "#6-3-4-5-7-8-9#",
+            "That's my number, children",
+            "#6-3-4-5-7-8-9#"
           ]
         }
       ]
