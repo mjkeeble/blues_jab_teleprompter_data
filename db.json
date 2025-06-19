@@ -5172,6 +5172,7 @@
             "I said, \"See it, yeah, can't you see it?",
             "Can't you see it, yeah, can't you see it?",
             "I can see it, yeah\"",
+            "[=> Wilfried]",
             "Whoo!"
           ]
         },
@@ -5197,13 +5198,9 @@
           "lyrics": [
             "I said,\"See it, yeah\"",
             "Can’t you see it?",
-            "I said,\"See it\", yeah",
-            "Can’t you see it?",
-            "I said,\"See it\", yeah",
-            "I said,",
-            "\"See it\"",
-            "I said",
-            "\"See it\""
+            "...",
+            "",
+            "[=> Wilfried]"
           ]
         },
         {
