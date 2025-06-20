@@ -240,6 +240,7 @@
           "f7b3f9a2-8018-4cc5-b0b7-2c4b230f216f",
           "e1b63512-0faf-4c65-8eae-25a9115fd860",
           "c972d24c-8c18-483a-94fc-4a736ed95d49",
+          "e54a31dd-2010-48ff-8ff8-1b17c127350a",
           "5e8b85df-2299-4b0a-b135-2ce26329d3be"
         ]
       ]
@@ -5350,6 +5351,61 @@
             "That's my number, children",
             "#6-3-4-5-7-8-9#"
           ]
+        }
+      ]
+    },
+    {
+      "id": "e54a31dd-2010-48ff-8ff8-1b17c127350a",
+      "title": "Shotgun Blues",
+      "writtenBy": [],
+      "gemaWerknummer": "",
+      "pages": [
+        {
+          "section": "Verse 1",
+          "chords": [],
+          "lyrics": ["Every night I go to sleep", "The blues fall down like rain", "[x 2]"]
+        },
+        {
+          "section": "Verse 1",
+          "chords": [],
+          "lyrics": ["Taking pills, cheap whiskey", "Just to try to ease the pain"]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [],
+          "lyrics": ["Well it′s hard to gamble", "When you lose every bet"]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [],
+          "lyrics": ["Hard to save money", "When you're twenty years in debt"]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [],
+          "lyrics": ["The blues is falling", "Falling down on me like rain"]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [],
+          "lyrics": ["I′m gonna take a shotgun", "And disconnect my brain"]
+        },
+
+        {
+          "section": "Solo",
+          "chords": [],
+          "lyrics": ["[Solo]"]
+        },
+
+        {
+          "section": "",
+          "chords": [],
+          "lyrics": ["Well I tried standin′ up", "I keep on falling down", "[x 2]"]
+        },
+        {
+          "section": "",
+          "chords": [],
+          "lyrics": ["Everywhere I go", "[BREAK]","The blues is all around"]
         }
       ]
     }
