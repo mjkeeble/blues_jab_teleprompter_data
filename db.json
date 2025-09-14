@@ -1938,7 +1938,7 @@
             ["F", "-", "C", "-"],
             ["G", "F", "C", "C"]
           ],
-          "lyrics": ["[SOLO 1]", "[MK signal end]", "", "I get a real good feeling", "Talking to you in the phone"]
+          "lyrics": ["[1 SOLO]", "[Stop on 11]"]
         }
       ]
     },
@@ -4503,7 +4503,7 @@
       "gemaWerknummer": "",
       "lineup": "Band",
       "tempo": 110,
-      "scale": "C",
+      "scale": "A",
       "notes": "Close: Break and vocals in chorus",
       "configChordPaneSize": 2,
       "timeSignature": "4/4",
@@ -5010,6 +5010,11 @@
             "That she took on the run",
             "No matter at all, when the night is done"
           ]
+        },
+        {
+        "section": "Solo",
+        "chords": [],
+        "lyrics": ["[SOLO]"]
         },
         {
           "section": "Verse 3",
