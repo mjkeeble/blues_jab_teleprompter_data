@@ -370,7 +370,7 @@
             "I know that there’s no going back",
             "But you still matter to me",
             "",
-            "[SOLO]"
+            "#SOLO"
           ],
           "duration": 20
         },
@@ -395,7 +395,7 @@
             "(It’s true)",
             "Now I’m a long way from home",
             "And all that I can do is sing the blues",
-            "[Turnaround, break, stop on 1/13]"
+            "#Turnaround, break, stop on 1/13"
           ]
         }
       ]
@@ -539,7 +539,7 @@
           ],
           "duration": 16
         },
-        { "section": "Outro", "chords": [["Vamp on Dm7"]], "lyrics": ["[Ad lib over vamp]", "", "[MK signal end]"] }
+        { "section": "Outro", "chords": [["Vamp on Dm7"]], "lyrics": ["#Ad lib over vamp", "", "#MK signal end"] }
       ]
     },
     {
@@ -600,7 +600,7 @@
             ["E7", "D7", "A7", "/"]
           ],
           "lyrics": [
-            "[SOLO x2]",
+            "#SOLO x2",
             "I’ve got a double-bladed axe",
             "That really cuts good",
             "I’m a cross cut saw",
@@ -636,7 +636,7 @@
             ["D7", "-", "A7", "-"],
             ["E7", "D7", "A7", "/"]
           ],
-          "lyrics": ["[SOLO x2 \u21D2 STOP on 1/13]"]
+          "lyrics": ["#SOLO x2 \u21D2 STOP on 1/13"]
         }
       ]
     },
@@ -697,20 +697,14 @@
             "Got to take my lousy luck",
             "And drown it in a sack",
             "I’m taking",
-            "[BREAK]",
+            "#BREAK",
             "one step forward and two steps back"
           ]
         },
         {
           "section": "Bridge + outro",
           "chords": [],
-          "lyrics": [
-            "One step forward, two steps back (x4)",
-            "",
-            "[ SOLO]",
-            "",
-            "One step forward, two steps back (x4)"
-          ]
+          "lyrics": ["One step forward, two steps back (x4)", "", "#SOLO", "", "One step forward, two steps back (x4)"]
         }
       ]
     },
@@ -775,7 +769,7 @@
             "I can’t make it no longer",
             "In this world alone",
             "",
-            "[I’m begging baby...]"
+            "#I’m begging baby..."
           ],
           "duration": 8
         },
@@ -823,7 +817,7 @@
             "Have a heart, won’t you baby?",
             "Listen to my plea",
             "",
-            "[Oh, I lost my courage...]"
+            "#Oh, I lost my courage..."
           ],
           "duration": 8
         },
@@ -876,7 +870,7 @@
             "Have a heart, won’t you baby?",
             "Listen to my plea",
             "",
-            "[Oh, I lost my courage...]"
+            "#Oh, I lost my courage..."
           ],
           "duration": 16
         },
@@ -904,7 +898,7 @@
             ["Dm", "-", "Gm", "-"],
             ["Dm", "A7", "Dm", "/"]
           ],
-          "lyrics": ["[SOLO x1 \u21D2 STOP on 1/17]"]
+          "lyrics": ["#SOLO x1 \u21D2 STOP on 1/17"]
         }
       ]
     },
@@ -922,7 +916,7 @@
       "configChordPaneSize": 4,
       "pages": [
         {
-          "section": " Intro + Verse 1",
+          "section": "Intro + Verse 1",
           "chords": [
             ["A  E7", "D7  E7", "A  D7", "A  E"],
             [],
@@ -981,7 +975,7 @@
             ["A", "Bm7 E7", "A D7", "A E7"]
           ],
           "lyrics": [
-            "[SOLO x2]",
+            "#SOLO x2",
             "I raise my hands",
             "And I raise the once again",
             "Please tell me, Baby",
@@ -1048,7 +1042,7 @@
             ["Gmaj7", "F# 7/9", "Bm", "-"]
           ],
           "lyrics": [
-            "[ SOLO x2]",
+            "#SOLO x2",
             "",
             "The thrill is gone",
             "The thrill is gone away for good (x2)",
@@ -1081,7 +1075,7 @@
             ["Em", "-", "Bm", "-"],
             ["Gmaj7", "F# 7/9", "Bm", "-"]
           ],
-          "lyrics": ["[1 SOLO]", "[Stop 1/13]"]
+          "lyrics": ["#SOLO", "#Stop 1/13"]
         }
       ]
     },
@@ -1139,7 +1133,7 @@
             ["B7", "A7", "E7", "B7"]
           ],
           "lyrics": [
-            "[SOLO x 2]",
+            "#SOLO x 2",
             "You been talking ’bout me, baby",
             "Sayin’ I did not treat you right (x2)",
             "",
@@ -1173,7 +1167,7 @@
             ["A7", "-", "E7", "-"],
             ["B7", "A7", "E7", "B7"]
           ],
-          "lyrics": ["[SOLO x2]", "[BASS OUTRO on 2nd SOLO (no stop)]"]
+          "lyrics": ["#SOLO x2", "#BASS OUTRO on 2nd SOLO (no stop)"]
         }
       ]
     },
@@ -1198,7 +1192,7 @@
             ["E7", "D7", "A7", "/"]
           ],
           "lyrics": [
-            "[THEME]",
+            "#THEME",
             "Oh baby, don’t you want a man like me?",
             "I said baby, don’t you want a man like me?",
             "I could give you so much loving",
@@ -1229,7 +1223,7 @@
             ["D7", "-", "A7", "-"],
             ["E7", "D7", "A7", "/"]
           ],
-          "lyrics": ["[THEME]", "[SOLO - MARK]"]
+          "lyrics": ["#THEME", "#SOLO - MARK"]
         },
         {
           "section": "Verse 3",
@@ -1253,14 +1247,7 @@
             ["D7", "-", "A7", "-"],
             ["E7", "D7", "A7", "/"]
           ],
-          "lyrics": [
-            "[Thema]",
-            "",
-            "ONE, TWO, THREE, FOUR",
-            "",
-            "[Shuffle solo x 2 (Wolfgang)]",
-            "[THEME \u21D2 STOP!]"
-          ]
+          "lyrics": ["#THEME", "", "ONE, TWO, THREE, FOUR", "", "#Shuffle solo x 2 (Wolfgang)", "#THEME \u21D2 STOP!"]
         }
       ]
     },
@@ -1328,7 +1315,7 @@
             ["G7", "G7 (F#7)", "F7!", "/"],
             ["C", "-", "-", "-"]
           ],
-          "lyrics": ["[1 SOLO - Mark]"],
+          "lyrics": ["#SOLO - Mark"],
           "duration": 24
         },
         {
@@ -1362,7 +1349,7 @@
             ["G7", "G7 (F#7)", "F7!", "/"],
             ["C", "-", "-", "-"]
           ],
-          "lyrics": ["[1 SOLO - Wolfgang]"],
+          "lyrics": ["#SOLO - Wolfgang"],
           "duration": 24
         },
         {
@@ -1505,7 +1492,7 @@
           ],
           "duration": 10
         },
-        { "section": "Outro", "chords": [["Ab", "C", "Db", "Bbm"]], "lyrics": ["[Ad lib]", "[Signal from Mark]"] }
+        { "section": "Outro", "chords": [["Ab", "C", "Db", "Bbm"]], "lyrics": ["#Ad lib", "#Signal from Mark"] }
       ]
     },
     {
@@ -1583,7 +1570,7 @@
             ["D", "-", "A", "-"],
             ["E", "D", "A", "E"]
           ],
-          "lyrics": ["[1x SOLO - Mark]"],
+          "lyrics": ["1x SOLO - Mark"],
           "duration": 12
         },
         {
@@ -1630,7 +1617,7 @@
             ["E", "D", "A", "A"],
             ["E", "D", "A", "A"]
           ],
-          "lyrics": ["[SOLO x 2]", "[TURNAROUND x 2]"]
+          "lyrics": ["#SOLO x 2", "#TURNAROUND x 2"]
         }
       ]
     },
@@ -1679,7 +1666,7 @@
             "",
             "Papa! Papa! Papa! Papa! Papa! Papa! ...",
             "",
-            "[SOLO]"
+            "#SOLO"
           ]
         },
         {
@@ -1718,10 +1705,10 @@
           "lyrics": [
             "Papa! Papa! Papa! Papa!Papa! Papa! ...",
             "",
-            "[MK signals end...]",
-            "[BREAK on 1/10 \u21D2]",
+            "#MK signals end...",
+            "#BREAK on 1/10 \u21D2",
             "Papa, please take me home",
-            "[BASS OUTRO 11-12]"
+            "#BASS OUTRO 11-12"
           ]
         }
       ]
@@ -1777,7 +1764,7 @@
             ["D", "C", "G", "-"]
           ],
           "lyrics": [
-            "[SOLO x 2]",
+            "#SOLO x 2",
             "",
             "Now I’m not trying to steal",
             "No love away from no one man (x2)",
@@ -1801,8 +1788,8 @@
             "I keep thinking something like Olivia",
             "Is what I need to find",
             "",
-            "[1 SOLO]",
-            "[STOP on 1/13]"
+            "#1 SOLO",
+            "#STOP on 1/13"
           ]
         }
       ]
@@ -1883,7 +1870,7 @@
             ["G", "F", "C", "C"]
           ],
           "lyrics": [
-            "[SOLO x 2]",
+            "#SOLO x 2",
             "Oh Daddy, you’re mighty fine",
             "You’re my baby you’re my lover, I hate to see you cry",
             "I can’t hold on …"
@@ -1898,7 +1885,7 @@
             ["G", "F", "C", "C"]
           ],
           "lyrics": [
-            "[(Last verse)]",
+            "#(Last verse)",
             "She said daddy, don’t you worry, don’t you cry",
             "You know I love you baby, said you’re my heart’s desire",
             "I can’t hold on …"
@@ -1921,7 +1908,7 @@
             "I get a real good feeling",
             "Talking to you in the phone",
             "",
-            "[REPEAT]"
+            "#REPEAT"
           ],
           "duration": 24
         },
@@ -1932,7 +1919,7 @@
             ["F", "-", "C", "-"],
             ["G", "F", "C", "C"]
           ],
-          "lyrics": ["[1 SOLO]", "[Stop on 11]"]
+          "lyrics": ["#1 SOLO", "#Stop on 11"]
         }
       ]
     },
@@ -1970,7 +1957,7 @@
             "They were sweet and warm",
             " ",
             " ",
-            "[You showed me colours...]"
+            "#You showed me colours..."
           ],
           "duration": 4
         },
@@ -1984,7 +1971,7 @@
             "Into bright blessed day",
             " ",
             " ",
-            "[You know I was drowning...]"
+            "#You know I was drowning..."
           ],
           "duration": 4
         },
@@ -1998,7 +1985,7 @@
             "And I needed more",
             " ",
             " ",
-            "[I was cold, so cold...]"
+            "#I was cold, so cold..."
           ],
           "duration": 4
         },
@@ -2012,7 +1999,7 @@
             "Then you brought me back to the start",
             " ",
             " ",
-            "[I was born...]"
+            "#I was born..."
           ],
           "duration": 4
         },
@@ -2031,14 +2018,14 @@
           "section": "Solo + Verse 5",
           "chords": [["G", "Am", "Am", "G"]],
           "lyrics": [
-            "[SOLO]",
+            "#SOLO",
             "My song was silenced",
             "But you set it free",
             "You took my blues ",
             "And you made them harmony",
             "",
 
-            "[I was hurting...]"
+            "#I was hurting..."
           ]
         },
         {
@@ -2052,7 +2039,7 @@
             "Again and again and again and again",
             " ",
             " ",
-            "[I was born...]"
+            "#I was born..."
           ],
           "duration": 4
         },
@@ -2138,7 +2125,7 @@
             ["F", "-", "C", "-"],
             ["G", "F", "C", "C"]
           ],
-          "lyrics": ["[SOLO x 2]"],
+          "lyrics": ["#SOLO x 2"],
           "duration": 24
         },
         {
@@ -2184,7 +2171,7 @@
             "",
             "Kissin’ in the dark...",
             "",
-            "[Bass outro bars 11-12]"
+            "#Bass outro bars 11-12"
           ]
         }
       ]
@@ -2366,7 +2353,7 @@
             ["A", "-", "B!", "A!"]
           ],
           "lyrics": [
-            "[SOLO]",
+            "#SOLO",
             "",
             "In the heat of the afterglow",
             "We drink black coffee real slow",
@@ -3079,7 +3066,7 @@
             ["Am", "E7"]
           ],
           "lyrics": [
-            "[INTRO]",
+            "#INTRO",
             "There’s only ash and flames where the forests used to stand",
             "Where there were fields of grain there’s just dust and sand ",
             "Bare rocks where the glacier used to flow",
@@ -3220,7 +3207,7 @@
             ["D", "D", "G", "G"],
             ["A", "G", "D", "/"]
           ],
-          "lyrics": ["[Solo]"],
+          "lyrics": ["#SOLO"],
           "duration": 16
         },
         {
@@ -3262,12 +3249,12 @@
           "lyrics": [
             "I’m going up, going down",
             "You got me running, you got me hiding",
-            "[SOLO x 2]",
+            "#SOLO x 2",
             "",
             "I’m going up, going down",
             "You got me peepin’, you got me hiding",
-            "[BREAK on 1/10 \u21D2]",
-            "[BASS OUTRO 11-12]"
+            "#BREAK on 1/10 \u21D2",
+            "#BASS OUTRO 11-12"
           ]
         }
       ]
@@ -3379,7 +3366,7 @@
             ["D", "-", "A", "-"],
             ["E", "D", "A", "E"]
           ],
-          "lyrics": ["[2 SOLI]"]
+          "lyrics": ["#SOLO x2"]
         },
         {
           "section": "Verse 3",
@@ -3446,7 +3433,7 @@
             ["D", "-", "A", "-"],
             ["E", "D", "A", "E"]
           ],
-          "lyrics": ["[2 SOLI, stop on 11]"]
+          "lyrics": ["#2 SOLI, stop on 11"]
         }
       ]
     },
@@ -3495,7 +3482,7 @@
             "",
             "Mama! Mama! Mama! Mama!Mama! Mama! ...",
             "",
-            "[SOLO]"
+            "#SOLO"
           ]
         },
         {
@@ -3524,9 +3511,9 @@
           "lyrics": [
             "Oh Mama, when you gonna take me home?",
             "My luck is fading, Mama",
-            "[BREAK on 10 \u21D2]",
+            "#BREAK on 10 \u21D2",
             "please take me home",
-            "[BASS OUTRO 11-12]"
+            "#BASS OUTRO 11-12"
           ]
         }
       ]
@@ -3628,7 +3615,7 @@
           "lyrics": [
             "He said son, where you going",
             "Where the music’s hot",
-            "[x2]",
+            "#x2",
             "",
             "The music’s hot",
             "There ain’t no doubt",
@@ -3655,7 +3642,7 @@
           "lyrics": [
             "Well son, where you going",
             "Where the music’s hot",
-            "[x2]",
+            "#x2",
             "",
             "The music’s hot",
             "There ain’t no doubt",
@@ -3664,7 +3651,7 @@
             "Where the music’s hot"
           ]
         },
-        { "section": "Solo", "chords": [], "lyrics": ["[SOLO]"] },
+        { "section": "Solo", "chords": [], "lyrics": ["#SOLO"] },
         {
           "section": "Verse 2",
           "chords": [],
@@ -3682,7 +3669,7 @@
           "lyrics": [
             "Well son, where you going",
             "Where the music’s hot",
-            "[x2]",
+            "#x2",
             "",
             "The music’s hot",
             "There ain’t no doubt",
@@ -3869,7 +3856,7 @@
             "I ain’t no furtunate one, no"
           ]
         },
-        { "section": "Solo", "chords": [[]], "lyrics": ["[SOLO]"] },
+        { "section": "Solo", "chords": [[]], "lyrics": ["#SOLO"] },
         {
           "section": "Verse 3",
           "chords": [[]],
@@ -4085,7 +4072,7 @@
             ["D", "D", "A", "A"],
             ["E", "E", "A", "A"]
           ],
-          "lyrics": ["[SOLO]"]
+          "lyrics": ["#SOLO"]
         },
         {
           "section": "Verse 3",
@@ -4120,7 +4107,7 @@
             ["D", "D", "A", "A"],
             ["E", "E", "A", "A"]
           ],
-          "lyrics": ["[Ad lib over vamp]"]
+          "lyrics": ["#Ad lib over vamp"]
         }
       ]
     },
@@ -4255,7 +4242,7 @@
           "chords": [["D", "C", "G", "D"]],
           "lyrics": ["Can’t you see", "Oh, can’t you see", "What that woman", "Been doin’ to me"]
         },
-        { "section": "Solo", "chords": [["D", "C", "G", "D"]], "lyrics": ["[The neverending solo!]", "[:-)]"] },
+        { "section": "Solo", "chords": [["D", "C", "G", "D"]], "lyrics": ["#The neverending solo!", "#:-)"] },
         {
           "section": "Verse 3",
           "chords": [["D", "C", "G", "D"]],
@@ -4269,7 +4256,7 @@
         {
           "section": "Chorus + Outro",
           "chords": [["D", "C", "G", "D"]],
-          "lyrics": ["Can’t you see", "Oh, can’t you see", "What that woman", "[BREAK]", "Been doin’ to me"]
+          "lyrics": ["Can’t you see", "Oh, can’t you see", "What that woman", "#BREAK", "Been doin’ to me"]
         }
       ]
     },
@@ -4462,7 +4449,7 @@
             "And honey, I stay stoned on your love all the time"
           ]
         },
-        { "section": "SOLO", "chords": [["A", "Bm", "Bm", "A"]], "lyrics": ["[SOLO x2]"] },
+        { "section": "SOLO", "chords": [["A", "Bm", "Bm", "A"]], "lyrics": ["#SOLO x2"] },
         {
           "section": "Chorus",
           "chords": [["A", "Bm", "Bm", "A"]],
@@ -4483,7 +4470,7 @@
             "You’re as warm as a glass of brandy",
             "And honey, I stay stoned on your love all the time",
             "",
-            "[repeat, close on 2nd chorus]"
+            "#repeat, close on 2nd chorus"
           ]
         }
       ]
@@ -4587,7 +4574,7 @@
             ["F", "F", "C", "C"],
             ["G", "F", "C", "C"]
           ],
-          "lyrics": ["[SOLO]"]
+          "lyrics": ["#SOLO"]
         },
         {
           "section": "Verse 3",
@@ -4660,7 +4647,7 @@
           "lyrics": [
             "Let the midnight special shine a light on me",
             "Let the midnight special...",
-            "[BREAK]",
+            "#BREAK",
             "...shine a light",
             "on me"
           ]
@@ -4767,7 +4754,7 @@
             ["F", "F", "C", "C"],
             ["G", "F", "C", "C"]
           ],
-          "lyrics": ["[SOLO]"]
+          "lyrics": ["#SOLO"]
         },
 
         {
@@ -4810,7 +4797,7 @@
           "lyrics": [
             "Let the midnight special shine a light on me",
             "Let the midnight special...",
-            "[BREAK]",
+            "#BREAK",
             "...shine a light",
             "on me"
           ]
@@ -4852,7 +4839,7 @@
             "’Cause it’s not my cross to bear"
           ]
         },
-        { "section": "Solo", "chords": [], "lyrics": ["[SOLO]"] },
+        { "section": "Solo", "chords": [], "lyrics": ["#SOLO"] },
         {
           "section": "Bridge",
           "chords": [],
@@ -5008,7 +4995,7 @@
         {
           "section": "Solo",
           "chords": [],
-          "lyrics": ["[SOLO]"]
+          "lyrics": ["#SOLO"]
         },
         {
           "section": "Verse 3",
@@ -5223,7 +5210,7 @@
         {
           "section": "Solo",
           "chords": [],
-          "lyrics": ["[SOLO]"]
+          "lyrics": ["#SOLO"]
         },
         {
           "section": "Chorus",
@@ -5287,7 +5274,7 @@
             "I can see it, yeah. I can see it",
             "I can see it, yeah.",
             "Whoo!",
-            "[=> Wilfried]"
+            "#=> Wilfried"
           ]
         },
         {
@@ -5314,7 +5301,7 @@
             "I can see it, yeah. I can see it",
             "I can see it, yeah. I can see it",
             "I can see it, yeah.",
-            "[=> Wilfried]"
+            "#=> Wilfried"
           ]
         },
         {
@@ -5326,7 +5313,7 @@
             "I said, \"See it, yeah\", I said, \"See it\"",
             "I said, \"See it, yeah\", I said, \"See it\"",
             "I said, \"See it, yeah\"",
-            "[=> Wilfried]"
+            "#=> Wilfried"
           ]
         }
       ]
@@ -5341,7 +5328,7 @@
         {
           "section": "Intro",
           "chords": [],
-          "lyrics": ["[Intro]"]
+          "lyrics": ["#Intro"]
         },
         {
           "section": "Verse 1",
@@ -5395,7 +5382,7 @@
         {
           "section": "Refrain",
           "chords": [],
-          "lyrics": ["#6-3-4-5-7-8-9#", "What's my number?", "#6-3-4-5-7-8-9#"]
+          "lyrics": ["##6-3-4-5-7-8-9", "What's my number?", "##6-3-4-5-7-8-9"]
         },
         {
           "section": "Verse 2",
@@ -5413,7 +5400,7 @@
         {
           "section": "Refrain",
           "chords": [],
-          "lyrics": ["#6-3-4-5-7-8-9#", "What's my number?", "#6-3-4-5-7-8-9#"]
+          "lyrics": ["##6-3-4-5-7-8-9", "What's my number?", "##6-3-4-5-7-8-9"]
         },
         {
           "section": "Bridge",
@@ -5442,16 +5429,16 @@
         {
           "section": "Refrain",
           "chords": [],
-          "lyrics": ["#6-3-4-5-7-8-9#", "What's my number?", "#6-3-4-5-7-8-9#"]
+          "lyrics": ["##6-3-4-5-7-8-9", "What's my number?", "##6-3-4-5-7-8-9"]
         },
         {
           "section": "Outro (1/2)",
           "chords": [],
           "lyrics": [
-            "[!! Key change !!]",
-            "#6-3-4-5-7-8-9#",
+            "#!! Key change !!",
+            "##6-3-4-5-7-8-9",
             "Call me on the telephone",
-            "#6-3-4-5-7-8-9#",
+            "##6-3-4-5-7-8-9",
             "No more will you be alone"
           ]
         },
@@ -5459,11 +5446,11 @@
           "section": "Outro (2/2)",
           "chords": [],
           "lyrics": [
-            "#6-3-4-5-7-8-9#",
+            "##6-3-4-5-7-8-9",
             "What's my number",
-            "#6-3-4-5-7-8-9#",
+            "##6-3-4-5-7-8-9",
             "That's my number, children",
-            "#6-3-4-5-7-8-9#"
+            "##6-3-4-5-7-8-9"
           ]
         }
       ]
@@ -5478,7 +5465,7 @@
         {
           "section": "Verse 1",
           "chords": [],
-          "lyrics": ["Every night I go to sleep", "The blues fall down like rain", "[x 2]"]
+          "lyrics": ["Every night I go to sleep", "The blues fall down like rain", "#x 2"]
         },
         {
           "section": "Verse 1",
@@ -5509,18 +5496,18 @@
         {
           "section": "Solo",
           "chords": [],
-          "lyrics": ["[Solo]"]
+          "lyrics": ["#SOLO"]
         },
 
         {
           "section": "",
           "chords": [],
-          "lyrics": ["Well I tried standin′ up", "I keep on falling down", "[x 2]"]
+          "lyrics": ["Well I tried standin′ up", "I keep on falling down", "#x 2"]
         },
         {
           "section": "",
           "chords": [],
-          "lyrics": ["Everywhere I go", "[BREAK]", "The blues is all around"]
+          "lyrics": ["Everywhere I go", "#BREAK", "The blues is all around"]
         }
       ]
     }
