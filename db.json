@@ -1398,8 +1398,8 @@
             "",
             "When I’m down in the flood",
             "And I can sink or I can swim",
-            "Will you pull me into the shore?",
-            "Will you throw me a ring"
+            "Will you pull me into the shore,",
+            "Will you throw me a ring?"
           ],
           "duration": 12
         },
@@ -1430,7 +1430,7 @@
             "When the debt collector",
             "Comes knocking at my door",
             "When I ain’t got nothing",
-            "But he’s wanting more",
+            "And he want it all",
             " ",
             "When my only child",
             "Says I should not call her name",
@@ -1570,7 +1570,7 @@
             ["D", "-", "A", "-"],
             ["E", "D", "A", "E"]
           ],
-          "lyrics": ["1x SOLO - Mark"],
+          "lyrics": ["#1x SOLO - Mark"],
           "duration": 12
         },
         {
@@ -1581,8 +1581,8 @@
             ["E", "D", "A", "E"]
           ],
           "lyrics": [
-            "Coming here with all this proof?",
             "What you doing honey",
+            "Coming here with all this proof?",
             "",
             "I never signed up for this kind of abuse",
             "",
@@ -3355,18 +3355,20 @@
           "section": "Chorus",
           "chords": [
             ["D", "-", "A", "-"],
-            ["E", "D", "A", "E"]
-          ],
-          "lyrics": ["I got a cool cat baby", "But I don’t know what for", "I got a sly dog", "Sniffin’ at my door"]
-        },
-        {
-          "section": "Solo",
-          "chords": [
+            ["E", "D", "A", "E"],
+            [],
             ["A", "A", "A", "A"],
             ["D", "-", "A", "-"],
             ["E", "D", "A", "E"]
           ],
-          "lyrics": ["#SOLO x2"]
+          "lyrics": [
+            "I got a cool cat baby",
+            "But I don’t know what for",
+            "I got a sly dog",
+            "Sniffin’ at my door",
+            "",
+            "#SOLO x2"
+          ]
         },
         {
           "section": "Verse 3",
@@ -3460,14 +3462,25 @@
             ["E7", "D7", "A7", "E7"]
           ],
           "lyrics": [
-            "Mama, when you gonna take me home? (x2)",
-            "I met a girl, and she stole my black cat bone",
-            "",
-            "",
-            "Oh Mama, how did I get here? (x2)",
+            "Mama, when you gonna take me home?",
+            "Mama, when you gonna take me home?",
+            "I met a girl, and she stole my black cat bone"
+          ],
+          "duration": 24
+        },
+        {
+          "section": "Intro + Verse 1 - 2",
+          "chords": [
+            ["A7", "-", "-", "-"],
+            ["D7", "-", "A7", "-"],
+            ["E7", "D7", "A7", "E7"]
+          ],
+          "lyrics": [
+            "Oh Mama, how did I get here?",
+            "Oh Mama, how did I get here?",
             "I went looking for love and you know it cost me dear."
           ],
-          "duration": 36
+          "duration": 12
         },
         {
           "section": "Verse 3 + bridge",
@@ -3477,10 +3490,11 @@
             ["E7", "D7", "A7", "E7"]
           ],
           "lyrics": [
-            "Oh Mama, what can I do? (2)",
+            "Oh Mama, what can I do?",
+            "Oh Mama, what can I do?",
             "First she said she loved me and then she said we’re through",
             "",
-            "Mama! Mama! Mama! Mama!Mama! Mama! ...",
+            "Mama! Mama! Mama! Mama! Mama! Mama! ...",
             "",
             "#SOLO"
           ]
@@ -4223,7 +4237,13 @@
         {
           "section": "Chorus",
           "chords": [["D", "C", "G", "D"]],
-          "lyrics": ["Can’t you see", "Oh, can’t you see", "What that woman", "Been doin’ to me"]
+          "lyrics": [
+            "Can’t you see, can’t you see",
+            "What that woman been doin’ to me",
+            "",
+            "Can’t you see, can’t you see",
+            "What that woman been doin’ to me"
+          ]
         },
         {
           "section": "Verse 2",
@@ -4240,7 +4260,13 @@
         {
           "section": "Chorus",
           "chords": [["D", "C", "G", "D"]],
-          "lyrics": ["Can’t you see", "Oh, can’t you see", "What that woman", "Been doin’ to me"]
+          "lyrics": [
+            "Can’t you see, can’t you see",
+            "What that woman been doin’ to me",
+            "",
+            "Can’t you see, can’t you see",
+            "What that woman been doin’ to me"
+          ]
         },
         { "section": "Solo", "chords": [["D", "C", "G", "D"]], "lyrics": ["#The neverending solo!", "#:-)"] },
         {
@@ -4256,7 +4282,13 @@
         {
           "section": "Chorus + Outro",
           "chords": [["D", "C", "G", "D"]],
-          "lyrics": ["Can’t you see", "Oh, can’t you see", "What that woman", "#BREAK", "Been doin’ to me"]
+          "lyrics": [
+            "Can’t you see, can’t you see",
+            "What that woman been doin’ to me",
+            "",
+            "Can’t you see, can’t you see",
+            "What that woman...", "#BREAK", "been doin’ to me"
+          ]
         }
       ]
     },
@@ -4530,8 +4562,8 @@
           ],
           "lyrics": [
             "Let the midnight special",
-            "Shine a light on me (x3)",
-            "...",
+            "Shine a light on me (x3)...",
+            "",
             "Let the midnight special",
             "Shine its ever-loving light on me"
           ]
@@ -4560,8 +4592,8 @@
           ],
           "lyrics": [
             "Let the midnight special",
-            "Shine a light on me (x3)",
-            "...",
+            "Shine a light on me (x3)...",
+            "",
             "Let the midnight special",
             "Shine its ever-loving light on me"
           ]
@@ -4601,8 +4633,8 @@
           ],
           "lyrics": [
             "Let the midnight special",
-            "Shine a light on me (x3)",
-            "...",
+            "Shine a light on me (x3)...",
+            "",
             "Let the midnight special",
             "Shine its ever-loving light on me"
           ]
@@ -4632,8 +4664,8 @@
           ],
           "lyrics": [
             "Let the midnight special",
-            "Shine a light on me (x3)",
-            "...",
+            "Shine a light on me (x3)...",
+            "",
             "Let the midnight special",
             "Shine its ever-loving light on me"
           ]
@@ -4728,8 +4760,7 @@
             "Well, I know her by her apron and the dress she wore",
             "Umbrella on her shoulder, piece of paper in her hand",
             "She come to see the gov’nor",
-            "Ask him to free her man",
-            "...free her man"
+            "Ask him to free her man"
           ]
         },
         {
@@ -4798,8 +4829,7 @@
             "Let the midnight special shine a light on me",
             "Let the midnight special...",
             "#BREAK",
-            "...shine a light",
-            "on me"
+            "...shine a light on ... me"
           ]
         }
       ]
