@@ -4315,7 +4315,9 @@
             "What that woman been doin’ to me",
             "",
             "Can’t you see, can’t you see",
-            "What that woman...", "#BREAK", "been doin’ to me"
+            "What that woman...",
+            "#BREAK",
+            "been doin’ to me"
           ]
         }
       ]
@@ -5292,13 +5294,23 @@
       "gemaWerknummer": "",
       "pages": [
         {
-          "section": "Chorus",
-          "chords": [],
+          "section": "Intro + Chorus",
+          "chords": [
+            ["A", "A", "A", "A"],
+            ["E7", "E7", "E7", "E7"],
+            ["A", "A", "A", "A"],
+            ["B7", "B7", "B7", "B7!"]
+          ],
           "lyrics": ["Tell me who's been fooling you?", "Tell the truth", "Who's been fooling you?"]
         },
         {
           "section": "Verse 1",
-          "chords": [],
+          "chords": [
+            ["A7", "E7", "A7", "E7"],
+            ["A7", "E7", "G", "D"],
+            ["E (B)", "E B E B", "G", "D"],
+            ["B7!", "B7!"]
+          ],
           "lyrics": [
             "There you sit there looking so cool",
             "While the whole show is passing you by",
@@ -5309,12 +5321,21 @@
         },
         {
           "section": "Chorus",
-          "chords": [],
+          "chords": [
+            ["A", "A", "A", "A"],
+            ["E7", "E7", "E7", "E7"],
+            ["A", "A", "A", "A"],
+            ["B7", "B7", "B7", "B7!"]
+          ],
           "lyrics": ["Tell the Truth", "Tell me who's been fooling you?", "Tell the truth", "Who's been fooling you?"]
         },
         {
           "section": "Verse 2",
-          "chords": [],
+          "chords": [
+            ["A7", "E7", "A7", "E7"],
+            ["A7", "E7", "G", "D"],
+            ["E (B)", "E B E B", "G", "D"]
+          ],
           "lyrics": [
             "It doesn't matter just who you are",
             "Or where you're going or been",
@@ -5324,24 +5345,40 @@
           ]
         },
         {
-          "section": "Refrain",
-          "chords": [],
+          "section": "Refrain + Solo",
+          "chords": [
+            ["B7", "B7", "B7", "B7"],
+            ["B7", "B7"],
+            [],
+            ["C#", "C#", "C#", "C#"],
+            ["G#", "G#", "G#", "G# (A Bb)"],
+            ["B7", "B7", "B7", "B7!"]
+        ],
           "lyrics": [
             "I can see it, yeah. I can see it",
             "I can see it, yeah. I can see it",
             "I can see it, yeah.",
             "Whoo!",
-            "#=> Wilfried"
+            "#=> SOLO"
           ]
         },
         {
           "section": "Chorus",
-          "chords": [],
+          "chords": [
+            ["A", "A", "A", "A"],
+            ["E7", "E7", "E7", "E7"],
+            ["A", "A", "A", "A"],
+            ["B7", "B7", "B7", "B7!"]
+          ],
           "lyrics": ["Tell the truth", "Tell me who's been fooling you?", "Tell the truth, who's been fooling you?"]
         },
         {
           "section": "Verse 3",
-          "chords": [],
+          "chords": [
+            ["A7", "E7", "A7", "E7"],
+            ["A7", "E7", "G", "D"],
+            ["E (B)", "E B E B", "G", "D"]
+          ],
           "lyrics": [
             "Hear what I say cause every word is true",
             "You know I wouldn't tell you no lies",
@@ -5351,19 +5388,22 @@
           ]
         },
         {
-          "section": "Refrain",
-          "chords": [],
+          "section": "Refrain + SOLO",
+          "chords": [["B7", "B7", "B7", "B7"], ["..."]],
           "lyrics": [
             "I can see it, yeah. I can see it",
             "I can see it, yeah. I can see it",
             "I can see it, yeah. I can see it",
             "I can see it, yeah.",
-            "#=> Wilfried"
+            "#=> SOLO"
           ]
         },
         {
-          "section": "Outro",
-          "chords": [],
+          "section": "Refrain",
+          "chords": [["G", "D", "E (B)", "E B E B"], ["G", "D", "B7", "..."],[], 
+            ["G", "D", "E (B)", "E B E B"],
+            ["G", "D", "E7"]
+          ],
           "lyrics": [
             "Whole world is shaking now, can't you feel it?",
             "New dawn is breaking now, can't you see it?",
