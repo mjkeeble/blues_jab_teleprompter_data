@@ -302,6 +302,34 @@
           "5f32f95d-3ba0-41e1-bb83-9662bb4e4fd1"
         ]
       ]
+    },
+    {
+      "id": "35876310-0321-4220-9dbb-16c7ef86ab3a",
+      "act_id": "12a8acdf-d1b8-487c-9d24-1baa0ce349df",
+      "venue": "Lindenpark",
+      "town": "Potsdam",
+      "dateTime": "2025-12-13T20:00:00+02:00",
+      "setlist": [
+        [
+          "41c348f2-239b-47d4-99a4-2042023a6a1f",
+          "3cc0fe78-9f53-40b2-9a19-52cddefb512b",
+          "780cf08c-66e0-42a8-9555-08c8fd34f976",
+          "b9443cb7-f820-4cc8-b03c-6346a697b744",
+          "c59fa3df-e058-40aa-9c21-ce9bad3ed636",
+          "337b0158-77d3-413d-9c20-829e49794e34",
+          "e88c2eef-a19c-4839-b1e2-543d2141d5c5",
+          "bac7024e-381c-4483-b44c-01bc1d23c748",
+          "e6041e89-49ae-423b-8836-32c5abd97997",
+          "c0f2ba0f-8f32-4d8a-aefd-bc74fc8ffdf9",
+          "9dc70b21-b7b7-44a8-a011-51f375fc7ba3",
+          "5c047e00-80cd-4bf5-b761-49b82126ced7",
+          "c0a812d7-b113-4c05-9830-fb6e135dc287",
+          "5f32f95d-3ba0-41e1-bb83-9662bb4e4fd1",
+          "0a7a9d70-67ab-4153-8ce0-4164cb748031",
+          "0c0bf929-27cd-4a50-9428-9ca69c76bdd8"
+        ],
+        ["ca239b51-8d29-47bd-a66e-f7dafd3a5a22", "51c79f96-f7e2-4631-ba01-e4c806e577e7"]
+      ]
     }
   ],
   "songs": [
