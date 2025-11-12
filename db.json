@@ -466,7 +466,7 @@
             ["Dm7", "A7", "Dm7", "/"]
           ],
           "lyrics": [
-            "Well I remember you / Dancin’ on the floor",
+            "I remember you / Dancin’ on the floor",
             "I remember you / Walkin’ out the door",
             "",
             "You had a red dress on / And some high heel shoes",
@@ -505,15 +505,11 @@
             ["Dm7", "A7", "Dm7", "/"]
           ],
           "lyrics": [
-            "Well I remember you",
-            "Dancin’ on the floor",
-            "I remember you",
-            "Walkin’ out the door",
+            "I remember you / Dancin’ on the floor",
+            "I remember you / Walkin’ out the door",
             "",
-            "You had a red dress on",
-            "And some high heel shoes",
-            "You don’t remember me",
-            "But I remember you"
+            "You had a red dress on / And some high heel shoes",
+            "You don’t remember me / But I remember you"
           ],
           "duration": 12
         },
@@ -543,18 +539,13 @@
             ["Dm7", "A7", "Dm7", "Dm7"]
           ],
           "lyrics": [
-            "Well I remember you",
-            "Dancin’ on the floor",
-            "I remember you",
-            "Walkin’ out the door",
+            "I remember you / Dancin’ on the floor",
+            "I remember you / Walkin’ out the door",
             "",
-            "You had a red dress on",
-            "And some high heel shoes",
-            "You don’t remember me",
-            "But I remember you",
+            "You had a red dress on / And some high heel shoes",
+            "You don’t remember me / But I remember you",
+            "You don’t remember me / But I remember you"
 
-            "You don’t remember me",
-            "But I remember you"
           ],
           "duration": 16
         },
@@ -736,6 +727,7 @@
     {
       "id": "c0f2ba0f-8f32-4d8a-aefd-bc74fc8ffdf9",
       "title": "Help The Poor",
+      "version": "Lyrics only",
       "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
       "writtenBy": ["Charles Singleton"],
       "gemaWerknummer": "814675-001",
@@ -753,9 +745,7 @@
             "Help the poor",
             "Won’t you help poor me?",
             "I need help from you, baby",
-            "Need it desperately",
-            "",
-            "I need you so much..."
+            "Need it desperately"
           ],
           "duration": 24
         },
@@ -777,9 +767,7 @@
             "Say you will",
             "Say you’ll help me on",
             "I can’t make it no longer",
-            "In this world alone",
-            "",
-            "#I’m begging baby..."
+            "In this world alone"
           ],
           "duration": 8
         },
@@ -812,9 +800,7 @@
             "Hey, help the poor",
             "Won’t you help poor me?",
             "Have a heart, won’t you baby?",
-            "Listen to my plea",
-            "",
-            "#Oh, I lost my courage..."
+            "Listen to my plea"
           ],
           "duration": 8
         },
@@ -847,9 +833,7 @@
             "Hey, help the poor",
             "Won’t you help poor me?",
             "Have a heart, won’t you baby?",
-            "Listen to my plea",
-            "",
-            "#Oh, I lost my courage..."
+            "Listen to my plea"
           ],
           "duration": 16
         },
