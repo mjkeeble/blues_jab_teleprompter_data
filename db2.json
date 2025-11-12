@@ -1,0 +1,4565 @@
+{
+  "config": [
+    {
+      "lyricPageMode": "CHORDS-FIRST",
+      "chordPaneSize": 3,
+      "lyricMinFontSize": 20,
+      "lyricMaxFontSize": "150",
+      "portrait": false,
+      "chordFontSize": "text-4xl",
+      "progressBarOn": false,
+      "navIndicatorOnRight": false
+    }
+  ],
+  "acts": [
+    {
+      "id": "2dc87686-b54e-4a30-b7d0-dfbb4c6b51cb",
+      "name": "Mark Keeble",
+      "logo": { "src": "/mjk_logo4 black.svg.svg", "alt": "Mark J. Keeble", "text": "Mark J. Keeble" }
+    },
+    {
+      "id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "name": "Blues Jab",
+      "logo": { "src": "/blues_jab_logo.svg", "alt": "Blues Jab - Boy Band of the Blues", "text": "" }
+    },
+    { "id": "12a8acdf-d1b8-487c-9d24-1baa0ce349df", "name": "Jans Kurs (Göhren)" }
+  ],
+  "gigs": [
+    {
+      "id": "5245ff4c-d291-43b1-80c5-9ba8d6c59462",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "venue": "<<Practice set>>",
+      "town": "Babelsberg",
+      "dateTime": "2028-04-06T19:00:00+02:00",
+      "setlist": [
+        [
+          "41c348f2-239b-47d4-99a4-2042023a6a1f",
+          "3cc0fe78-9f53-40b2-9a19-52cddefb512b",
+          "780cf08c-66e0-42a8-9555-08c8fd34f976",
+          "5957ecda-d3c6-4948-9fec-6b57466a0f9f",
+          "b9443cb7-f820-4cc8-b03c-6346a697b744",
+          "e6041e89-49ae-423b-8836-32c5abd97997",
+          "f20d67ec-6504-48fe-b914-179144e72219",
+          "c59fa3df-e058-40aa-9c21-ce9bad3ed636",
+          "337b0158-77d3-413d-9c20-829e49794e34",
+          "5957ecda-d3c6-4948-9fec-6b57466a0f9f",
+          "e88c2eef-a19c-4839-b1e2-543d2141d5c5"
+        ],
+        [
+          "51c79f96-f7e2-4631-ba01-e4c806e577e7",
+          "bac7024e-381c-4483-b44c-01bc1d23c748",
+          "c0f2ba0f-8f32-4d8a-aefd-bc74fc8ffdf9",
+          "b8115650-05fc-4a82-8cab-e9a257c3044b",
+          "9dc70b21-b7b7-44a8-a011-51f375fc7ba3",
+          "3ce3148b-a8fb-4989-b552-9dde0bcf9fbd",
+          "c0a812d7-b113-4c05-9830-fb6e135dc287",
+          "ca239b51-8d29-47bd-a66e-f7dafd3a5a22",
+          "0a7a9d70-67ab-4153-8ce0-4164cb748031",
+          "f7fd745e-fd8b-4c10-83fe-5b3bef16a5a8"
+        ],
+        [
+          "0c0bf929-27cd-4a50-9428-9ca69c76bdd8",
+          "5f32f95d-3ba0-41e1-bb83-9662bb4e4fd1",
+          "8cd97923-8863-42e1-bbc0-b834cfea66bc",
+          "6b94048e-20a8-4073-a824-2d00563693db",
+          "0bd28a0a-739d-4b67-9f84-47af635d1380",
+          "67ddc4b2-95b8-4dd5-b218-00edb9f36ef8",
+          "5c047e00-80cd-4bf5-b761-49b82126ced7",
+          "51fe53b0-edb0-4c29-bfc4-e51a5464fe77"
+        ]
+      ]
+    },
+    {
+      "id": "39709f62-ffed-4d83-aa90-59de968a29ac",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "venue": "Die Alte Garage",
+      "town": "Babelsberg",
+
+      "dateTime": "2024-04-06T19:00:00+02:00",
+      "setlist": [
+        [
+          "41c348f2-239b-47d4-99a4-2042023a6a1f",
+          "3cc0fe78-9f53-40b2-9a19-52cddefb512b",
+          "780cf08c-66e0-42a8-9555-08c8fd34f976",
+          "5957ecda-d3c6-4948-9fec-6b57466a0f9f",
+          "b9443cb7-f820-4cc8-b03c-6346a697b744",
+          "e6041e89-49ae-423b-8836-32c5abd97997",
+          "f20d67ec-6504-48fe-b914-179144e72219",
+          "337b0158-77d3-413d-9c20-829e49794e34",
+          "5957ecda-d3c6-4948-9fec-6b57466a0f9f",
+          "e88c2eef-a19c-4839-b1e2-543d2141d5c5"
+        ],
+        [
+          "51c79f96-f7e2-4631-ba01-e4c806e577e7",
+          "bac7024e-381c-4483-b44c-01bc1d23c748",
+          "c0f2ba0f-8f32-4d8a-aefd-bc74fc8ffdf9",
+          "b8115650-05fc-4a82-8cab-e9a257c3044b",
+          "9dc70b21-b7b7-44a8-a011-51f375fc7ba3",
+          "3ce3148b-a8fb-4989-b552-9dde0bcf9fbd",
+          "8c801c75-6007-4e7e-90f5-17dc760ff7e7",
+          "ca239b51-8d29-47bd-a66e-f7dafd3a5a22",
+          "0a7a9d70-67ab-4153-8ce0-4164cb748031"
+        ],
+        ["f7fd745e-fd8b-4c10-83fe-5b3bef16a5a8"]
+      ]
+    },
+    {
+      "id": "e89e5549-c88e-4120-b54e-1cc08a13d43c",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "venue": "Regenbogen Camp",
+      "town": "Göhren",
+      "dateTime": "2024-06-15T19:00:00+02:00",
+      "setlist": [
+        [
+          "c0a812d7-b113-4c05-9830-fb6e135dc287",
+          "3ce3148b-a8fb-4989-b552-9dde0bcf9fbd",
+          "0a7a9d70-67ab-4153-8ce0-4164cb748031"
+        ]
+      ]
+    },
+    {
+      "id": "983fd675-68b1-4870-a5cf-afff56fd5726",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "venue": "Kulturscheune",
+      "town": "Rangsdorf",
+      "dateTime": "2024-09-28T19:30:00+02:00",
+      "setlist": [
+        [
+          "41c348f2-239b-47d4-99a4-2042023a6a1f",
+          "b9443cb7-f820-4cc8-b03c-6346a697b744",
+          "337b0158-77d3-413d-9c20-829e49794e34",
+          "c0a812d7-b113-4c05-9830-fb6e135dc287",
+          "bac7024e-381c-4483-b44c-01bc1d23c748",
+          "c59fa3df-e058-40aa-9c21-ce9bad3ed636",
+          "0c0bf929-27cd-4a50-9428-9ca69c76bdd8",
+          "e88c2eef-a19c-4839-b1e2-543d2141d5c5"
+        ],
+        ["9dc70b21-b7b7-44a8-a011-51f375fc7ba3"]
+      ]
+    },
+    {
+      "id": "645ed511-b22f-4cd2-aa2c-3d73464a2b71",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "venue": "strahlwerk",
+      "town": "Stralsund",
+      "dateTime": "2024-09-21T14:00:00+02:00",
+      "setlist": [
+        [
+          "41c348f2-239b-47d4-99a4-2042023a6a1f",
+          "3cc0fe78-9f53-40b2-9a19-52cddefb512b",
+          "780cf08c-66e0-42a8-9555-08c8fd34f976",
+          "5957ecda-d3c6-4948-9fec-6b57466a0f9f",
+          "b9443cb7-f820-4cc8-b03c-6346a697b744",
+          "e6041e89-49ae-423b-8836-32c5abd97997",
+          "f20d67ec-6504-48fe-b914-179144e72219",
+          "b8115650-05fc-4a82-8cab-e9a257c3044b",
+          "c59fa3df-e058-40aa-9c21-ce9bad3ed636",
+          "337b0158-77d3-413d-9c20-829e49794e34",
+          "5957ecda-d3c6-4948-9fec-6b57466a0f9f",
+          "e88c2eef-a19c-4839-b1e2-543d2141d5c5"
+        ],
+        [
+          "51c79f96-f7e2-4631-ba01-e4c806e577e7",
+          "bac7024e-381c-4483-b44c-01bc1d23c748",
+          "c0f2ba0f-8f32-4d8a-aefd-bc74fc8ffdf9",
+          "6ca5a4d6-29dd-4ac2-8626-e454e956543d",
+          "9dc70b21-b7b7-44a8-a011-51f375fc7ba3",
+          "3ce3148b-a8fb-4989-b552-9dde0bcf9fbd",
+          "c0a812d7-b113-4c05-9830-fb6e135dc287",
+          "0c0bf929-27cd-4a50-9428-9ca69c76bdd8",
+          "ca239b51-8d29-47bd-a66e-f7dafd3a5a22",
+          "0a7a9d70-67ab-4153-8ce0-4164cb748031"
+        ],
+        ["f7fd745e-fd8b-4c10-83fe-5b3bef16a5a8"]
+      ]
+    },
+    {
+      "id": "306a96f3-de7d-4fd6-bb61-983140a76d47",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "venue": "Die Alte Garage",
+      "town": "Babelsberg",
+      "dateTime": "2025-04-05T19:00:00+02:00",
+      "setlist": [
+        [
+          "41c348f2-239b-47d4-99a4-2042023a6a1f",
+          "3cc0fe78-9f53-40b2-9a19-52cddefb512b",
+          "780cf08c-66e0-42a8-9555-08c8fd34f976",
+          "5957ecda-d3c6-4948-9fec-6b57466a0f9f",
+          "b9443cb7-f820-4cc8-b03c-6346a697b744",
+          "f20d67ec-6504-48fe-b914-179144e72219",
+          "b8115650-05fc-4a82-8cab-e9a257c3044b",
+          "c59fa3df-e058-40aa-9c21-ce9bad3ed636",
+          "337b0158-77d3-413d-9c20-829e49794e34",
+          "5957ecda-d3c6-4948-9fec-6b57466a0f9f",
+          "e88c2eef-a19c-4839-b1e2-543d2141d5c5"
+        ],
+        [
+          "51c79f96-f7e2-4631-ba01-e4c806e577e7",
+          "bac7024e-381c-4483-b44c-01bc1d23c748",
+          "e6041e89-49ae-423b-8836-32c5abd97997",
+          "c0f2ba0f-8f32-4d8a-aefd-bc74fc8ffdf9",
+          "9dc70b21-b7b7-44a8-a011-51f375fc7ba3",
+          "6ca5a4d6-29dd-4ac2-8626-e454e956543d",
+          "3ce3148b-a8fb-4989-b552-9dde0bcf9fbd",
+          "c0a812d7-b113-4c05-9830-fb6e135dc287",
+          "0c0bf929-27cd-4a50-9428-9ca69c76bdd8",
+          "0a7a9d70-67ab-4153-8ce0-4164cb748031",
+          "f7fd745e-fd8b-4c10-83fe-5b3bef16a5a8"
+        ],
+        ["ca239b51-8d29-47bd-a66e-f7dafd3a5a22", "5f32f95d-3ba0-41e1-bb83-9662bb4e4fd1"]
+      ]
+    },
+    {
+      "id": "53fb4e55-6cbe-4bb8-9b31-e1c372503db0",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "venue": "Regenbogen Camp",
+      "town": "Göhren",
+      "dateTime": "2025-06-18T21:10:00+02:00",
+      "setlist": [
+        [
+          "c59fa3df-e058-40aa-9c21-ce9bad3ed636",
+          "e88c2eef-a19c-4839-b1e2-543d2141d5c5",
+          "337b0158-77d3-413d-9c20-829e49794e34"
+        ],
+        ["0c0bf929-27cd-4a50-9428-9ca69c76bdd8", "41c348f2-239b-47d4-99a4-2042023a6a1f"]
+      ]
+    },
+    {
+      "id": "68723947-bf06-4905-9013-df45ef4c9991",
+      "act_id": "12a8acdf-d1b8-487c-9d24-1baa0ce349df",
+      "venue": "Bootshaus",
+      "town": "Stralsund",
+      "dateTime": "2025-09-27T19:00:00+02:00",
+      "setlist": [
+        [
+          "41c348f2-239b-47d4-99a4-2042023a6a1f",
+          "e6041e89-49ae-423b-8836-32c5abd97997",
+          "780cf08c-66e0-42a8-9555-08c8fd34f976",
+          "c59fa3df-e058-40aa-9c21-ce9bad3ed636",
+          "b9443cb7-f820-4cc8-b03c-6346a697b744",
+          "c0a812d7-b113-4c05-9830-fb6e135dc287",
+          "337b0158-77d3-413d-9c20-829e49794e34",
+          "5c047e00-80cd-4bf5-b761-49b82126ced7",
+          "e88c2eef-a19c-4839-b1e2-543d2141d5c5",
+          "0c0bf929-27cd-4a50-9428-9ca69c76bdd8"
+        ],
+        [
+          "0a7a9d70-67ab-4153-8ce0-4164cb748031",
+          "f7fd745e-fd8b-4c10-83fe-5b3bef16a5a8",
+          "5f32f95d-3ba0-41e1-bb83-9662bb4e4fd1"
+        ]
+      ]
+    },
+    {
+      "id": "35876310-0321-4220-9dbb-16c7ef86ab3a",
+      "act_id": "12a8acdf-d1b8-487c-9d24-1baa0ce349df",
+      "venue": "Lindenpark",
+      "town": "Potsdam",
+      "dateTime": "2025-12-13T20:00:00+02:00",
+      "setlist": [
+        [
+          "41c348f2-239b-47d4-99a4-2042023a6a1f",
+          "3cc0fe78-9f53-40b2-9a19-52cddefb512b",
+          "780cf08c-66e0-42a8-9555-08c8fd34f976",
+          "b9443cb7-f820-4cc8-b03c-6346a697b744",
+          "c59fa3df-e058-40aa-9c21-ce9bad3ed636",
+          "337b0158-77d3-413d-9c20-829e49794e34",
+          "e88c2eef-a19c-4839-b1e2-543d2141d5c5",
+          "bac7024e-381c-4483-b44c-01bc1d23c748",
+          "e6041e89-49ae-423b-8836-32c5abd97997",
+          "c0f2ba0f-8f32-4d8a-aefd-bc74fc8ffdf9",
+          "9dc70b21-b7b7-44a8-a011-51f375fc7ba3",
+          "5c047e00-80cd-4bf5-b761-49b82126ced7",
+          "c0a812d7-b113-4c05-9830-fb6e135dc287",
+          "5f32f95d-3ba0-41e1-bb83-9662bb4e4fd1",
+          "0a7a9d70-67ab-4153-8ce0-4164cb748031",
+          "0c0bf929-27cd-4a50-9428-9ca69c76bdd8"
+        ],
+        ["ca239b51-8d29-47bd-a66e-f7dafd3a5a22", "51c79f96-f7e2-4631-ba01-e4c806e577e7"]
+      ]
+    }
+  ],
+  "songs": [
+    {
+      "id": "41c348f2-239b-47d4-99a4-2042023a6a1f",
+      "title": "All That I Can Do Is Sing The Blues",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Mark Keeble"],
+      "gemaWerknummer": "31889321-001",
+      "songDuration": 120,
+      "lineup": "Band",
+      "scale": "G",
+      "notes": "Close: turnarounds",
+      "tempo": 131,
+      "timeSignature": "4/4",
+      "configChordPaneSize": 2,
+      "pages": [
+        {
+          "section": "Verse 1",
+          "chords": [
+            ["G", "G", "G", "G"],
+            ["C", "C", "G", "G"],
+            ["D", "C", "G", "C"]
+          ],
+          "lyrics": [
+            "You’ve got me where you want me",
+            "You’ve got me on the floor",
+            "I’ve had my share of troubles",
+            "But I ain’t been down here before",
+            "",
+            "You used to say you loved me",
+            "But now I don’t believe that that was true",
+            "You’ve got me where you want me",
+            "And all that I can do is sing the blues"
+          ],
+          "duration": 14
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["G", "G", "G", "G"],
+            ["C", "C", "G", "G"],
+            ["D", "C", "G", "C"]
+          ],
+          "lyrics": [
+            "You’ve been spending all my money",
+            "Now I haven’t got a dime",
+            "I didn’t care one penny",
+            "’Cos I thought that you were mine",
+            "",
+            "Now I see through you",
+            "And I don’t believe that that was ever true",
+            "Now I’m sad and broke and lonely",
+            "And all that I can do is sing the blues"
+          ],
+          "duration": 12
+        },
+        {
+          "section": "Bridge + solo",
+          "chords": [
+            ["C", "C", "G", "G"],
+            ["D", "C", "G", "C"]
+          ],
+          "lyrics": [
+            "Why’d you go throwing those sticks and stones",
+            "Giving me the third degree?",
+            "I know that there’s no going back",
+            "But you still matter to me",
+            "",
+            "#SOLO"
+          ],
+          "duration": 20
+        },
+        {
+          "section": "Verse 3",
+          "chords": [
+            ["G!", "G!", "G!-!-", "G!!!!"],
+            ["C", "C", "G", "G"],
+            ["D", "C", "G", "C"],
+            [""],
+            ["D", "C", "G", "C"],
+            ["D", "C", "G", "C"]
+          ],
+          "lyrics": [
+            "I lent you my car / You didn’t bring it back",
+            "Now I’m mourning for my 1956 Cadillac",
+            "",
+            "I’ve been walking so long",
+            "I’ve got holes in both soles of my shoes",
+            "(It’s true)",
+            "Now I’m a long way from home",
+            "And all that I can do is sing the blues",
+            "#Turnaround, break, stop on 1/13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3cc0fe78-9f53-40b2-9a19-52cddefb512b",
+      "title": "I Remember You",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Keb’ Mo’"],
+      "gemaWerknummer": "22718367-001",
+      "songDuration": 285,
+      "lineup": "Band",
+      "scale": "D",
+      "notes": "Intro on D string \nClose: Signal end",
+      "tempo": 105,
+      "timeSignature": "4/4",
+      "pages": [
+        {
+          "section": "Intro + Verse 1",
+          "chords": [
+            ["Dm7", "-", "-", "-"],
+            ["G7", "-", "Dm7", "-"],
+            ["Dm7", "-", "G7", "-"],
+            ["Dm7", "A7", "Dm7", "/"]
+          ],
+          "lyrics": [
+            "My name is Junior / From Memphis, Tennessee",
+            "My daddy was a hustler / And a stranger to me",
+            "",
+            "I don’t always know / What’s the right thing to say",
+            "But do I look familiar / In any kind of way?"
+          ],
+          "duration": 20
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["Dm7", "-", "-", "-"],
+            ["G7", "-", "Dm7", "-"],
+            ["Dm7", "-", "G7", "-"],
+            ["Dm7", "A7", "Dm7", "/"]
+          ],
+          "lyrics": [
+            "I remember you / Dancin’ on the floor",
+            "I remember you / Walkin’ out the door",
+            "",
+            "You had a red dress on / And some high heel shoes",
+            "You don’t remember me / But I remember you"
+          ],
+          "duration": 12
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["Dm7", "-", "-", "-"],
+            ["G7", "-", "Dm7", "-"],
+            ["Dm7", "-", "G7", "-"],
+            ["Dm7", "A7", "Dm7", "/"]
+          ],
+          "lyrics": [
+            "You had a margarita",
+            "I had a beer",
+            "I wondered what a woman like you",
+            "Was doing way down here",
+            "",
+            "You tore my heart apart",
+            "The moment you left",
+            "And Junior had a night",
+            "He would never forget"
+          ],
+
+          "duration": 16
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["Dm7", "-", "-", "-"],
+            ["G7", "-", "Dm7", "-"],
+            ["Dm7", "-", "G7", "-"],
+            ["Dm7", "A7", "Dm7", "/"]
+          ],
+          "lyrics": [
+            "I remember you / Dancin’ on the floor",
+            "I remember you / Walkin’ out the door",
+            "",
+            "You had a red dress on / And some high heel shoes",
+            "You don’t remember me / But I remember you"
+          ],
+          "duration": 12
+        },
+        {
+          "section": "Bridge",
+          "chords": [
+            ["A7sus4", "A7"],
+            ["A7sus4", "A7"],
+            ["A7sus4", "A7"],
+            ["A7sus4", "A7"]
+          ],
+          "lyrics": [
+            "Well maybe I was just a number",
+            "A face without a name",
+            "Now and then I wonder",
+            "Will I ever be the same?"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["Dm7", "-", "-", "-"],
+            ["G7", "-", "Dm7", "-"],
+            ["Dm7", "-", "G7", "-"],
+            ["Dm7", "A7", "Dm7", "Dm7"],
+            ["Dm7", "A7", "Dm7", "Dm7"]
+          ],
+          "lyrics": [
+            "I remember you / Dancin’ on the floor",
+            "I remember you / Walkin’ out the door",
+            "",
+            "You had a red dress on / And some high heel shoes",
+            "You don’t remember me / But I remember you",
+            "You don’t remember me / But I remember you"
+          ],
+          "duration": 16
+        },
+        { "section": "Outro", "chords": [["Vamp on Dm7"]], "lyrics": ["#Ad lib over vamp", "", "#MK signal end"] }
+      ]
+    },
+    {
+      "id": "780cf08c-66e0-42a8-9555-08c8fd34f976",
+      "title": "Crosscut Saw",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Trad."],
+      "gemaWerknummer": "",
+      "songDuration": 180,
+      "lineup": "Band",
+      "scale": "A",
+      "notes": "Close: 2 soli",
+      "tempo": 129,
+      "timeSignature": "4/4",
+      "configChordPaneSize": 2,
+      "pages": [
+        {
+          "section": "Intro + Chorus",
+          "chords": [
+            ["A7", "-", "-", "-"],
+            ["D7", "-", "A7", "-"],
+            ["E7", "D7", "A7", "/"]
+          ],
+          "lyrics": [
+            "I’m a cross cut saw",
+            "Just drag me ’cross your log (x2)",
+
+            "",
+            "I cut your wood so easy for you",
+            "You can’t help but say ’Hot dog!’"
+          ],
+          "duration": 24
+        },
+        {
+          "section": "Verse 1",
+          "chords": [
+            ["A7", "-", "-", "-"],
+            ["D7", "-", "A7", "-"],
+            ["E7", "D7", "A7", "/"]
+          ],
+          "lyrics": [
+            "Some call me wood-choppin’ Sam",
+            "Some call me wood-cuttin’ Jim",
+            "Last girl I cut the wood for, you know",
+            "She wants me back again",
+            "",
+            "I’m a cross cut saw",
+            "Just drag me ’cross your log",
+            "I cut your wood so easy for you",
+            "You can’t help but say ’Hot dog!’"
+          ],
+          "duration": 12
+        },
+        {
+          "section": "Solo + Verse 2",
+          "chords": [
+            ["A7", "-", "-", "-"],
+            ["D7", "-", "A7", "-"],
+            ["E7", "D7", "A7", "/"]
+          ],
+          "lyrics": [
+            "#SOLO x2",
+            "I’ve got a double-bladed axe",
+            "That really cuts good",
+            "I’m a cross cut saw",
+            "Baby bury me in your wood",
+            "",
+            "I’m a cross cut saw",
+            "Just drag me ’cross your log",
+            "I cut your wood so easy for you",
+            "You can’t help but say ’Hot dog!’"
+          ],
+          "duration": 36
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["A7", "-", "-", "-"],
+            ["D7", "-", "A7", "-"],
+            ["E7", "D7", "A7", "/"]
+          ],
+          "lyrics": [
+            "I’m a cross cut saw",
+            "Just drag me ’cross your log (x2)",
+            "",
+            "I cut your wood so easy for you",
+            "You can’t help but say ’Hot dog!’"
+          ],
+          "duration": 12
+        },
+        {
+          "section": "Outro",
+          "chords": [
+            ["A7", "-", "-", "-"],
+            ["D7", "-", "A7", "-"],
+            ["E7", "D7", "A7", "/"]
+          ],
+          "lyrics": ["#SOLO x2 \u21D2 STOP on 1/13"]
+        }
+      ]
+    },
+    {
+      "id": "bac7024e-381c-4483-b44c-01bc1d23c748",
+      "title": "One Step Forward",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Dave Bronze"],
+      "gemaWerknummer": "3248336-001",
+      "songDuration": 315,
+      "lineup": "Band",
+      "scale": "Am",
+      "notes": "Bass starts",
+      "tempo": 73,
+      "timeSignature": "4-4",
+      "pages": [
+        {
+          "section": "Verse 1",
+          "chords": [],
+          "lyrics": [
+            "Well, they call her Lady Luck ...",
+            "She gave me only famine ...",
+            "",
+            "I’m getting nowhere",
+            "And nowhere is a bad place to be",
+            "",
+            "Try to help myself ..."
+          ]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [],
+          "lyrics": [
+            "I can’t pay the landlord ...",
+            "I wanna be a winner ...",
+            "",
+            "I’ve gone to nothing",
+            "And nothing is a bad way to be",
+            "",
+            "I’m down instead of up ..."
+          ]
+        },
+        {
+          "section": "Solo",
+          "chords": [],
+          "lyrics": ["#SOLO"]
+        },
+        {
+          "section": "Verse 3",
+          "chords": [],
+          "lyrics": [
+            "I’ve got to check the dealer...",
+            "If I try to climb the ladder ...",
+            "",
+            "I’ve got nothing",
+            "And nothing ain’t enough for me"
+          ]
+        },
+        {
+          "section": "Verse 3 (part 2)",
+          "chords": [],
+          "lyrics": [
+            "Got to take my lousy luck",
+            "And drown it in a sack",
+            "I’m taking",
+            "#BREAK",
+            "one step forward and two steps back"
+          ]
+        },
+        {
+          "section": "Bridge + outro",
+          "chords": [],
+          "lyrics": ["One step forward, two steps back (x4)", "", "#SOLO", "", "One step forward, two steps back (x4)"]
+        }
+      ]
+    },
+    {
+      "id": "c0f2ba0f-8f32-4d8a-aefd-bc74fc8ffdf9",
+      "title": "Help The Poor",
+      "version": "Lyrics only",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Charles Singleton"],
+      "gemaWerknummer": "814675-001",
+      "songDuration": 315,
+      "lineup": "Band",
+      "scale": "Dm",
+      "notes": "Close: 1 solo, stop on 1/17",
+      "tempo": 110,
+      "timeSignature": "4/4",
+      "pages": [
+        {
+          "section": "Intro + Verse 1",
+          "chords": [],
+          "lyrics": ["Help the poor", "Won’t you help poor me?", "I need help from you, baby", "Need it desperately"],
+          "duration": 24
+        },
+        {
+          "section": "Verse 1 (part 2)",
+          "chords": [],
+          "lyrics": [
+            "I need you so much, I need your care",
+            "Need all the loving, baby, you can spare",
+            "Help the poor",
+            "Oh baby, won’t you help poor me?"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Verse 2",
+          "chords": [],
+          "lyrics": ["Say you will", "Say you’ll help me on", "I can’t make it no longer", "In this world alone"],
+          "duration": 8
+        },
+        {
+          "section": "Verse 2 (part 2)",
+          "chords": [],
+          "lyrics": [
+            "I’m begging baby, with tears in my eyes",
+            "For your love, don’t you realise",
+            "I need help",
+            "Oh baby, help poor me"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Bridge",
+          "chords": [],
+          "lyrics": [
+            "You are my inspiration",
+            "Baby, that make me be a king",
+            "But if you don’t come to my rescue",
+            "I couldn’t ever be anything"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Verse 3",
+          "chords": [],
+          "lyrics": [
+            "Hey, help the poor",
+            "Won’t you help poor me?",
+            "Have a heart, won’t you baby?",
+            "Listen to my plea"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Verse 3 (part 2)",
+          "chords": [],
+          "lyrics": [
+            "Oh, I lost my courage till I found you",
+            "You’ve got what it takes, baby, to pull me through",
+            "Help the poor",
+            "Oh baby, won’t you help poor me?"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Solo + Bridge",
+          "chords": [],
+          "lyrics": [
+            "You are my inspiration",
+            "Baby, that make me be a king",
+            "But if you don’t come to my rescue",
+            "I couldn’t ever be anything"
+          ],
+          "duration": 40
+        },
+        {
+          "section": "Verse 4",
+          "chords": [],
+          "lyrics": [
+            "Hey, help the poor",
+            "Won’t you help poor me?",
+            "Have a heart, won’t you baby?",
+            "Listen to my plea"
+          ],
+          "duration": 16
+        },
+        {
+          "section": "Verse 4 (part 2)",
+          "chords": [],
+          "lyrics": [
+            "Oh, I lost my courage till I found you",
+            "You’ve got what it takes, baby, to pull me through",
+            "Help the poor",
+            "Oh baby, won’t you help poor me?"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Solo / outro",
+          "chords": [],
+          "lyrics": ["#SOLO x1 \u21D2 STOP on 1/17"]
+        }
+      ]
+    },
+    {
+      "id": "31b2eeb0-601e-4856-a534-c87847fd8aff",
+      "title": "Help The Poor",
+      "version": "With chords",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Charles Singleton"],
+      "gemaWerknummer": "814675-001",
+      "songDuration": 315,
+      "lineup": "Band",
+      "scale": "Dm",
+      "notes": "Close: 1 solo, stop on 1/17",
+      "tempo": 110,
+      "timeSignature": "4/4",
+      "pages": [
+        {
+          "section": "Intro + Verse 1",
+          "chords": [
+            ["Dm", "-", "-", "-"],
+            ["Dm", "-", "A7", "-"],
+            ["Dm", "-", "Gm", "-"],
+            ["Dm", "A7", "Dm", "/"]
+          ],
+          "lyrics": [
+            "Help the poor",
+            "Won’t you help poor me?",
+            "I need help from you, baby",
+            "Need it desperately",
+            "",
+            "I need you so much..."
+          ],
+          "duration": 24
+        },
+        {
+          "section": "Verse 1 (part 2)",
+          "chords": [
+            ["Dm", "-", "-", "-"],
+            ["Dm", "-", "A7", "-"],
+            ["Dm", "-", "Gm", "-"],
+            ["Dm", "A7", "Dm", "/"]
+          ],
+          "lyrics": [
+            "I need you so much, I need your care",
+            "Need all the loving, baby, you can spare",
+            "Help the poor",
+            "Oh baby, won’t you help poor me?"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["Dm", "-", "-", "-"],
+            ["Dm", "-", "A7", "-"],
+            ["Dm", "-", "Gm", "-"],
+            ["Dm", "A7", "Dm", "/"]
+          ],
+          "lyrics": [
+            "Say you will",
+            "Say you’ll help me on",
+            "I can’t make it no longer",
+            "In this world alone",
+            "",
+            "#I’m begging baby..."
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Verse 2 (part 2)",
+          "chords": [
+            ["Dm", "-", "-", "-"],
+            ["Dm", "-", "A7", "-"],
+            ["Dm", "-", "Gm", "-"],
+            ["Dm", "A7", "Dm", "/"]
+          ],
+          "lyrics": [
+            "I’m begging baby, with tears in my eyes",
+            "For your love, don’t you realise",
+            "I need help",
+            "Oh baby, help poor me"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Bridge",
+          "chords": [
+            ["Gm", "-", "Dm", "-"],
+            ["Gm", "-", "A7", "-"]
+          ],
+          "lyrics": [
+            "You are my inspiration",
+            "Baby, that make me be a king",
+            "But if you don’t come to my rescue",
+            "I couldn’t ever be anything"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Verse 3",
+          "chords": [
+            ["Dm", "-", "-", "-"],
+            ["Dm", "-", "A7", "-"],
+            ["Dm", "-", "Gm", "-"],
+            ["Dm", "A7", "Dm", "/"]
+          ],
+          "lyrics": [
+            "Hey, help the poor",
+            "Won’t you help poor me?",
+            "Have a heart, won’t you baby?",
+            "Listen to my plea",
+            "",
+            "#Oh, I lost my courage..."
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Verse 3 (part 2)",
+          "chords": [
+            ["Dm", "-", "-", "-"],
+            ["Dm", "-", "A7", "-"],
+            ["Dm", "-", "Gm", "-"],
+            ["Dm", "A7", "Dm", "/"]
+          ],
+          "lyrics": [
+            "Oh, I lost my courage till I found you",
+            "You’ve got what it takes, baby, to pull me through",
+            "Help the poor",
+            "Oh baby, won’t you help poor me?"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Solo + Bridge",
+          "chords": [
+            ["Dm", "-", "-", "-"],
+            ["Dm", "-", "A7", "-"],
+            ["Dm", "-", "Gm", "-"],
+            ["Dm", "A7", "Dm", "/"],
+            [],
+            ["Gm", "-", "Dm", "-"],
+            ["Gm", "-", "A7", "-"]
+          ],
+          "lyrics": [
+            "You are my inspiration",
+            "Baby, that make me be a king",
+            "But if you don’t come to my rescue",
+            "I couldn’t ever be anything"
+          ],
+          "duration": 40
+        },
+        {
+          "section": "Verse 4",
+          "chords": [
+            ["Dm", "-", "-", "-"],
+            ["Dm", "-", "A7", "-"],
+            ["Dm", "-", "Gm", "-"],
+            ["Dm", "A7", "Dm", "/"]
+          ],
+          "lyrics": [
+            "Hey, help the poor",
+            "Won’t you help poor me?",
+            "Have a heart, won’t you baby?",
+            "Listen to my plea",
+            "",
+            "#Oh, I lost my courage..."
+          ],
+          "duration": 16
+        },
+        {
+          "section": "Verse 4 (part 2)",
+          "chords": [
+            ["Dm", "-", "-", "-"],
+            ["Dm", "-", "A7", "-"],
+            ["Dm", "-", "Gm", "-"],
+            ["Dm", "A7", "Dm", "/"]
+          ],
+          "lyrics": [
+            "Oh, I lost my courage till I found you",
+            "You’ve got what it takes, baby, to pull me through",
+            "Help the poor",
+            "Oh baby, won’t you help poor me?"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Solo / outro",
+          "chords": [
+            ["Dm", "-", "-", "-"],
+            ["Dm", "-", "A7", "-"],
+            ["Dm", "-", "Gm", "-"],
+            ["Dm", "A7", "Dm", "/"]
+          ],
+          "lyrics": ["#SOLO x1 \u21D2 STOP on 1/17"]
+        }
+      ]
+    },
+    {
+      "id": "5957ecda-d3c6-4948-9fec-6b57466a0f9f",
+      "title": "Sho’ Nuff I Do",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Elmore James"],
+      "gemaWerknummer": "2129357-001",
+      "songDuration": 160,
+      "lineup": "Band",
+      "scale": "A",
+      "tempo": 75,
+      "timeSignature": "4/4",
+      "configChordPaneSize": 4,
+      "pages": [
+        {
+          "section": "Intro + Verse 1",
+          "chords": [
+            ["A  E7", "D7  E7", "A  D7", "A  E"],
+            [],
+            ["A", "A7", "D7", "Dm7"],
+            ["A", "Bm7 E7", "A D7", "A E7"]
+          ],
+          "lyrics": [
+            "Well I came home one mornin’",
+            "Found my baby gone",
+            "You know I always",
+            "Used to lived alone",
+            "",
+            "I love her, oh yes I love her",
+            "Sho’ Nuff I Do"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["A", "A7", "D7", "Dm7"],
+            ["A", "Bm7 E7", "A D7", "A E7"]
+          ],
+          "lyrics": [
+            "First time I saw her",
+            "On a Friday night",
+            "I told her baby",
+            "I told everything was alright",
+            "",
+            "I love her, oh yes I love her",
+            "Sho’ Nuff I Do"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Verse 3",
+          "chords": [
+            ["A", "A7", "D7", "Dm7"],
+            ["A", "Bm7 E7", "A D7", "A E7"]
+          ],
+          "lyrics": [
+            "I saw her one mornin’",
+            "She was goin’ round the street",
+            "She was shakin’ hands",
+            "With every man she meet",
+            "",
+            "I love her, oh yes I love her",
+            "Sho’ Nuff I Do"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Solo + Verse 4",
+          "chords": [
+            ["A", "A7", "D7", "Dm7"],
+            ["A", "Bm7 E7", "A D7", "A E7"]
+          ],
+          "lyrics": [
+            "#SOLO x2",
+            "I raise my hands",
+            "And I raise the once again",
+            "Please tell me, Baby",
+            "Tell me that you understand",
+            "",
+            "That I love you, oh yes I love you",
+            "Sho’ Nuff I Do",
+            "Sho’ Nuff I Do"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f20d67ec-6504-48fe-b914-179144e72219",
+      "title": "The Thrill Is Gone",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Rick Darnell", "Roy Hawkins"],
+      "gemaWerknummer": "532048-001",
+      "songDuration": 230,
+      "lineup": "Band",
+      "scale": "Bm",
+      "notes": "Close: 1 solo",
+      "tempo": 95,
+      "timeSignature": "4/4",
+      "configChordPaneSize": 4,
+      "pages": [
+        {
+          "section": "Intro + Verse 1",
+          "chords": [
+            ["Bm", "-", "-", "-"],
+            ["Em", "-", "Bm", "-"],
+            ["Gmaj7", "F# 7/9", "Bm", "-"]
+          ],
+          "lyrics": [
+            "The thrill is gone",
+            "The thrill is gone away (x2)",
+            "",
+            "You know you done me wrong, baby",
+            "And you’ll be sorry someday"
+          ],
+          "duration": 24
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["Bm", "-", "-", "-"],
+            ["Em", "-", "Bm", "-"],
+            ["Gmaj7", "F# 7/9", "Bm", "-"]
+          ],
+          "lyrics": [
+            "The thrill is gone",
+            "The thrill is gone away from me (x2)",
+            "",
+            "Although I’ll still live on",
+            "But so lonely I’ll be"
+          ],
+          "duration": 12
+        },
+        {
+          "section": "Solo + Verse 3",
+          "chords": [
+            ["Bm", "-", "-", "-"],
+            ["Em", "-", "Bm", "-"],
+            ["Gmaj7", "F# 7/9", "Bm", "-"]
+          ],
+          "lyrics": [
+            "#SOLO x2",
+            "",
+            "The thrill is gone",
+            "The thrill is gone away for good (x2)",
+            "",
+            "Someday I know I’ll be over it all, baby",
+            "Just like I know a man should"
+          ],
+          "duration": 36
+        },
+        {
+          "section": "Verse 4",
+          "chords": [
+            ["Bm", "-", "-", "-"],
+            ["Em", "-", "Bm", "-"],
+            ["Gmaj7", "F# 7/9", "Bm", "-"]
+          ],
+          "lyrics": [
+            "Now I’m free",
+            "I’m free from your spell (x2)",
+            "",
+            "And now that it’s all over",
+            "All I can do is wish you well"
+          ],
+          "duration": 12
+        },
+        {
+          "section": "Outro",
+          "chords": [
+            ["Bm", "-", "-", "-"],
+            ["Em", "-", "Bm", "-"],
+            ["Gmaj7", "F# 7/9", "Bm", "-"]
+          ],
+          "lyrics": ["#SOLO", "#Stop 1/13"]
+        }
+      ]
+    },
+    {
+      "id": "9dc70b21-b7b7-44a8-a011-51f375fc7ba3",
+      "title": "Thinkin’ ’Bout You",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Mark Keeble"],
+      "gemaWerknummer": "31889317-001",
+      "songDuration": 210,
+      "lineup": "Band",
+      "scale": "E",
+      "notes": "Close: 2 Soli, bass outro without stop",
+      "tempo": 130,
+      "timeSignature": "4/4",
+      "configChordPaneSize": 2,
+      "pages": [
+        {
+          "section": "Intro + Verse 1",
+          "chords": [
+            ["E7", "A7", "E7", "-"],
+            ["A7", "-", "E7", "-"],
+            ["B7", "A7", "E7", "B7"]
+          ],
+          "lyrics": [
+            "I’ve thinking ’bout you, baby",
+            "Thinking ’bout you since you’ve been gone (x2)",
+            "",
+            "When you were here I didn’t think about you at all",
+            "Maybe that’s what I did wrong"
+          ],
+          "duration": 24
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["E7", "A7", "E7", "-"],
+            ["A7", "-", "E7", "-"],
+            ["B7", "A7", "E7", "B7"]
+          ],
+          "lyrics": [
+            "I’ve been dreaming about you, baby",
+            "Dreaming you were by my side (x2)",
+            "",
+            "Dreaming we were both still so happy",
+            "And I was not the one who lied."
+          ],
+          "duration": 12
+        },
+        {
+          "section": "Solo + Verse 3",
+          "chords": [
+            ["E7", "A7", "E7", "-"],
+            ["A7", "-", "E7", "-"],
+            ["B7", "A7", "E7", "B7"]
+          ],
+          "lyrics": [
+            "#SOLO x 2",
+            "You been talking ’bout me, baby",
+            "Sayin’ I did not treat you right (x2)",
+            "",
+            "Now folks avoid me on the street",
+            "And my bed don’t shake at night"
+          ],
+          "duration": 36
+        },
+        {
+          "section": "Verse 4",
+          "chords": [
+            ["E7", "A7", "E7", "-"],
+            ["A7", "-", "E7", "-"],
+            ["B7", "A7", "E7", "B7"]
+          ],
+          "lyrics": [
+            "Goodbye pretty baby",
+            "I know that you’ve been here and gone",
+            "Goodbye pretty baby",
+            "I know that I’ve done you wrong",
+            "",
+            "Now I’ll be sitting on my front porch",
+            "Bidin’ time with Jimmy John"
+          ],
+          "duration": 12
+        },
+        {
+          "section": "Outro",
+          "chords": [
+            ["E7", "A7", "E7", "-"],
+            ["A7", "-", "E7", "-"],
+            ["B7", "A7", "E7", "B7"]
+          ],
+          "lyrics": ["#SOLO x2", "#BASS OUTRO on 2nd SOLO (no stop)"]
+        }
+      ]
+    },
+    {
+      "id": "e88c2eef-a19c-4839-b1e2-543d2141d5c5",
+      "title": "Rollin’ Man",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Patrick Adams", "Peter Green"],
+      "gemaWerknummer": "510859-001",
+      "songDuration": 210,
+      "lineup": "Band",
+      "scale": "A",
+      "tempo": 140,
+      "timeSignature": "4/4",
+      "configChordPaneSize": 2,
+      "pages": [
+        {
+          "section": "Theme + Verse 1",
+          "chords": [
+            ["A7", "-", "-", "-"],
+            ["D7", "-", "A7", "-"],
+            ["E7", "D7", "A7", "/"]
+          ],
+          "lyrics": [
+            "#THEME",
+            "Oh baby, don’t you want a man like me?",
+            "I said baby, don’t you want a man like me?",
+            "I could give you so much loving",
+            "More than a woman ever seen"
+          ],
+          "duration": 24
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["A7", "-", "-", "-"],
+            ["D7", "-", "A7", "-"],
+            ["E7", "D7", "A7", "/"]
+          ],
+          "lyrics": [
+            "Now come on baby, let’s make some love tonight",
+            "I said baby, let’s make some love tonight",
+            "",
+            "We’ll be rolling out the blankets",
+            "I’m going to make you feel alright"
+          ],
+          "duration": 12
+        },
+        {
+          "section": "Solo",
+          "chords": [
+            ["A7", "-", "-", "-"],
+            ["D7", "-", "A7", "-"],
+            ["E7", "D7", "A7", "/"]
+          ],
+          "lyrics": ["#THEME", "#SOLO - MARK"]
+        },
+        {
+          "section": "Verse 3",
+          "chords": [
+            ["A7", "-", "-", "-"],
+            ["D7", "-", "A7", "-"],
+            ["E7", "D7", "A7", "/"]
+          ],
+          "lyrics": [
+            "I’m your rollin’ man",
+            "Gonna give you all the love you need (x2)",
+            "",
+            "I’ve got so much loving",
+            "More than you ever going to see"
+          ]
+        },
+        {
+          "section": "Outro",
+          "chords": [
+            ["A7", "-", "-", "-"],
+            ["D7", "-", "A7", "-"],
+            ["E7", "D7", "A7", "/"]
+          ],
+          "lyrics": ["#THEME", "", "ONE, TWO, THREE, FOUR", "", "#Shuffle solo x 2 (Wolfgang)", "#THEME \u21D2 STOP!"]
+        }
+      ]
+    },
+    {
+      "id": "ca239b51-8d29-47bd-a66e-f7dafd3a5a22",
+      "title": "Mustang Sally",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Mack Rice"],
+      "gemaWerknummer": "749289-001",
+      "songDuration": 360,
+      "scale": "C",
+      "tempo": 120,
+      "timeSignature": "4/4",
+      "lineup": "Band",
+      "configChordPaneSize": 4,
+      "pages": [
+        {
+          "section": "Verse 1",
+          "chords": [
+            ["C", "-", "-", "-"],
+            [],
+            ["C", "-", "-", "-"],
+            ["C", "-", "-", "-"],
+            ["F", "-", "-", "-"],
+            ["C", "-", "-", "-"],
+            ["G7", "G7 (F#7)", "F7!", "/"],
+            ["C", "-", "-", "-"]
+          ],
+          "lyrics": [
+            "Mustang Sally",
+            "Guess you better slow Your Mustang down ",
+            "Mustang Sally, my baby",
+            "Guess you better slow Your Mustang down",
+            "You been runnin’ all over town,",
+            "Oh, I guess I have to put your flat feet on the ground"
+          ],
+          "duration": 28
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["C", "-", "-", "-"],
+            ["C", "-", "-", "-"],
+            ["F", "-", "-", "-"],
+            ["C", "-", "-", "-"],
+            ["G7", "G7 (F#7)", "F7!", "/"],
+            ["C", "-", "-", "-"]
+          ],
+          "lyrics": [
+            "All you wanna do is ride around Sally",
+            "...",
+            "",
+            "One of these early mornings",
+            "I’m gonna be wipin’ your weepin’ eyes"
+          ],
+          "duration": 24
+        },
+        {
+          "section": " Solo",
+          "chords": [
+            ["C", "-", "-", "-"],
+            ["C", "-", "-", "-"],
+            ["F", "-", "-", "-"],
+            ["C", "-", "-", "-"],
+            ["G7", "G7 (F#7)", "F7!", "/"],
+            ["C", "-", "-", "-"]
+          ],
+          "lyrics": ["#SOLO - Mark"],
+          "duration": 24
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["C", "-", "-", "-"],
+            ["C", "-", "-", "-"],
+            ["F", "-", "-", "-"],
+            ["C", "-", "-", "-"],
+            ["G7", "G7 (F#7)", "F7!", "/"],
+            ["C", "-", "-", "-"]
+          ],
+          "lyrics": [
+            "I bought you a brand-new Mustang",
+            "It was a nineteen sixty-five ",
+            "Now you come around, a signifying’ a woman",
+            "Girl you won’t, you won’t, let me ride",
+            "Mustang Sally, now baby",
+            "Guess you better slow that Mustang down",
+            "You been runnin’ all over town",
+            "I guess you have to put your flat feet on the ground"
+          ],
+          "duration": 24
+        },
+        {
+          "section": "Solo - Wolfgang",
+          "chords": [
+            ["C", "-", "-", "-"],
+            ["F", "-", "-", "-"],
+            ["C", "-", "-", "-"],
+            ["G7", "G7 (F#7)", "F7!", "/"],
+            ["C", "-", "-", "-"]
+          ],
+          "lyrics": ["#SOLO - Wolfgang"],
+          "duration": 24
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["C", "-", "-", "-"],
+            ["C", "-", "-", "-"],
+            ["F", "-", "-", "-"],
+            ["C", "-", "-", "-"],
+            ["G7", "G7 (F#7)", "F7!", "/"],
+            ["C", "-", "-", "-"]
+          ],
+          "lyrics": [
+            "All you wanna do is ride around Sally",
+            "...",
+            "",
+            "One of these early mornings",
+            "I’m gonna be wipin’ your weepin’ eyes",
+            "",
+            "Those weeping eyes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b9443cb7-f820-4cc8-b03c-6346a697b744",
+      "title": "Can I Lean On You?",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Mark Keeble"],
+      "gemaWerknummer": "32939344-001",
+      "songDuration": 310,
+      "lineup": "Band",
+      "scale": "Ab",
+      "notes": "Close: signal from Mark",
+      "tempo": 55,
+      "timeSignature": "12/8",
+      "configChordPaneSize": 2,
+      "pages": [
+        {
+          "section": "Intro + Verse 1 - 2",
+          "chords": [["Ab", "C", "Db", "Bbm"], [], ["Ab", "C", "Db", "Bbm"], ["Ab", "C", "Db", "Bbm"]],
+          "lyrics": [
+            "When I’m cold and shaking, like a cat in the rain",
+            "Will you give me shelter? Will you soothe my pain?",
+            "",
+            "When I’m down in the flood and I can sink or I can swim",
+            "Will you pull me into the shore? Will you throw me a ring?"
+          ],
+          "duration": 12
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["Ab", "C", "Db", "Bbm"],
+            ["Ab", "C", "Db", "Bbm"],
+            ["Bbm", "/"]
+          ],
+          "lyrics": [
+            "Can l lean on you ...",
+            "When life is hard?",
+            "",
+            "Can l lean on you ...",
+            "When life is hard?",
+            "Oh, and life is hard"
+          ],
+          "duration": 10
+        },
+        {
+          "section": "Verse 3 - 4",
+          "chords": [
+            ["Ab", "C", "Db", "Bbm"],
+            ["Ab", "C", "Db", "Bbm"]
+          ],
+          "lyrics": [
+            "When the debt collector comes knocking at my door",
+            "When I ain’t got nothing and he want it all",
+            " ",
+            "When my only child says I should not call her name",
+            "And everything I do just fills her with shame"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["Ab", "C", "Db", "Bbm"],
+            ["Ab", "C", "Db", "Bbm"],
+            ["Bbm", "/"]
+          ],
+          "lyrics": [
+            "Can l lean on you ...",
+            "When life is hard?",
+            "",
+            "Can l lean on you ...",
+            "When life is hard?",
+            "Oh, and life is hard"
+          ],
+          "duration": 10
+        },
+        {
+          "section": "Verse 3 - 4",
+          "chords": [
+            ["Ab", "C", "Db", "Bbm"],
+            ["Ab", "C", "Db", "Bbm"]
+          ],
+          "lyrics": [
+            "When the boss says she don’t need me no more",
+            "And sits at her gold-plated desk and she shows me the door",
+            " ",
+            "When my landlord throws me out of my place",
+            "Not one soul wants to know me, noone in the whole human race"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["Ab", "C", "Db", "Bbm"],
+            ["Ab", "C", "Db", "Bbm"],
+            ["Bbm", "/"]
+          ],
+          "lyrics": [
+            "Can l lean on you ...",
+            "When life is hard?",
+            "",
+            "Can l lean on you ...",
+            "When life is hard?",
+            "Oh, and life is hard"
+          ],
+          "duration": 10
+        },
+        { "section": "Outro", "chords": [["Ab", "C", "Db", "Bbm"]], "lyrics": ["#Ad lib", "#Signal from Mark"] }
+      ]
+    },
+    {
+      "id": "337b0158-77d3-413d-9c20-829e49794e34",
+      "title": "Lie To Me",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Mark Keeble"],
+      "gemaWerknummer": "33774111-001",
+      "songDuration": 210,
+      "lineup": "Band",
+      "scale": "A",
+      "notes": "Close: 2 soli + turnarounds",
+      "tempo": 145,
+      "timeSignature": "4/4",
+      "configChordPaneSize": 2,
+      "pages": [
+        {
+          "section": "Intro + Verse 1",
+          "chords": [
+            ["A", "-", "-", "-"],
+            ["D", "-", "A", "-"],
+            ["E", "D", "A", "E"]
+          ],
+          "lyrics": [
+            "You can lie to me, baby",
+            "’Cause I’ll sure as hell lie to you (x2)",
+
+            "",
+            "Tell me anything you want",
+            "But please don’t tell me we’re through"
+          ],
+          "duration": 24
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["A", "-", "-", "-"],
+            ["D", "-", "A", "-"],
+            ["E", "D", "A", "E"]
+          ],
+          "lyrics": [
+            "I don’t need to know who",
+            "You were out with the other night",
+            "",
+            "But if I was with another woman",
+            "That would somehow kinda make it alright",
+            "",
+            "That ain’t no reason not hold each other tight"
+          ],
+          "duration": 12
+        },
+        {
+          "section": "Bridge",
+          "chords": [
+            ["A!", "A!!--", "/", "A!!--"],
+            ["/", "D!!--", "/", "A!!--"],
+            ["E", "D", "A", "E"]
+          ],
+          "lyrics": [
+            "Don’t tell me the truth!",
+            "When I look in your eyes!",
+            "",
+            "Don’t tell me the truth!",
+            "’Cause I love your lies!",
+            "",
+            "Give me the fiction",
+            "It’s reality I despise"
+          ],
+          "duration": 12
+        },
+        {
+          "section": "Solo",
+          "chords": [
+            ["A", "-", "-", "-"],
+            ["D", "-", "A", "-"],
+            ["E", "D", "A", "E"]
+          ],
+          "lyrics": ["#1x SOLO - Mark"],
+          "duration": 12
+        },
+        {
+          "section": "Verse 3",
+          "chords": [
+            ["A", "-", "-", "-"],
+            ["D", "-", "A", "-"],
+            ["E", "D", "A", "E"]
+          ],
+          "lyrics": [
+            "What you doing honey",
+            "Coming here with all this proof?",
+            "",
+            "I never signed up for this kind of abuse",
+            "",
+            "I think the time has come",
+            "I gotta cut myself loose"
+          ],
+          "duration": 12
+        },
+        {
+          "section": "Verse 4",
+          "chords": [
+            ["A", "-", "-", "-"],
+            ["D", "-", "A", "-"],
+            ["E", "D", "A", "E"]
+          ],
+          "lyrics": [
+            "Lie to me, baby",
+            "’Cause I’ll sure as hell lie to you (x2)",
+            "",
+            "Tell me anything you want",
+            "But please don’t tell me we’re through"
+          ],
+          "duration": 12
+        },
+        {
+          "section": "Outro",
+          "chords": [
+            ["A", "-", "-", "-"],
+            ["D", "-", "A", "-"],
+            ["E", "D", "A", "A"],
+            [],
+            ["E", "D", "A", "A"],
+            ["E", "D", "A", "A"]
+          ],
+          "lyrics": ["#SOLO x 2", "#TURNAROUND x 2"]
+        }
+      ]
+    },
+    {
+      "id": "8c801c75-6007-4e7e-90f5-17dc760ff7e7",
+      "title": "Mama (Kindergarten Blues)",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "version": "Second bridge at end",
+      "writtenBy": ["Mark Keeble"],
+      "gemaWerknummer": "31889331-001",
+      "songDuration": 300,
+      "lineup": "Band",
+      "scale": "A",
+      "notes": "Close: Break on 10 in last verse + bass outro",
+      "tempo": 115,
+      "timeSignature": "4/4",
+      "configChordPaneSize": 2,
+      "pages": [
+        {
+          "section": "Intro + Verse 1 - 2",
+          "chords": [
+            ["A7", "-", "-", "-"],
+            ["D7", "-", "A7", "-"],
+            ["E7", "D7", "A7", "E7"]
+          ],
+          "lyrics": [
+            "Papa, when you gonna take me home?",
+            "I met a girl, and she stole my black cat bone",
+            "",
+            "",
+            "Oh Papa, how did I get here?",
+            "I went looking for love and you know it cost me dear."
+          ],
+          "duration": 36
+        },
+        {
+          "section": "Verse 3 + bridge",
+          "chords": [
+            ["A7", "-", "-", "-"],
+            ["D7", "-", "A7", "-"],
+            ["E7", "D7", "A7", "E7"]
+          ],
+          "lyrics": [
+            "Oh Papa, what can I do?",
+            "First she said she loved me and then she said we’re through",
+            "",
+            "Papa! Papa! Papa! Papa! Papa! Papa! ...",
+            "",
+            "#SOLO"
+          ]
+        },
+        {
+          "section": "Verse 4 ",
+          "chords": [
+            ["A7", "-", "-", "-"],
+            ["D7", "-", "A7", "-"],
+            ["E7", "D7", "A7", "E7"]
+          ],
+          "lyrics": [
+            "Alle meine Entchen schwimmen auf dem See",
+            "Schwimmen auf dem See now Papa",
+            "Schwimmen auf dem See",
+            "Köpfchen in das Wasser",
+            "Schwänzchen in die Höh’"
+          ],
+          "duration": 12
+        },
+        {
+          "section": "Verse 5",
+          "chords": [
+            ["A7", "-", "-", "-"],
+            ["D7", "-", "A7", "-"],
+            ["E7", "D7", "A7", "E7"]
+          ],
+          "lyrics": ["Oh Papa, when you gonna take me home?", "My luck is fading, I don’t want to be alone"],
+          "duration": 12
+        },
+        {
+          "section": "Bridge / Outro",
+          "chords": [
+            ["A7", "-", "-", "-"],
+            ["D7", "-", "A7", "-"],
+            ["E7", "D7", "A7", "E7"]
+          ],
+          "lyrics": [
+            "Papa! Papa! Papa! Papa!Papa! Papa! ...",
+            "",
+            "#MK signals end...",
+            "#BREAK on 1/10 \u21D2",
+            "Papa, please take me home",
+            "#BASS OUTRO 11-12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3ce3148b-a8fb-4989-b552-9dde0bcf9fbd",
+      "title": "Something Like Olivia",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["John Mayer"],
+      "gemaWerknummer": "12696097-001",
+      "songDuration": 180,
+      "lineup": "Band",
+      "scale": "G",
+      "tempo": 99,
+      "notes": "Close: 1 Solo",
+      "timeSignature": "4/4",
+      "configChordPaneSize": 2,
+      "pages": [
+        {
+          "section": "Intro + Verse 1",
+          "chords": [["G", "-", "-", "-"], [], ["G", "-", "-", "-"], ["C", "-", "G", "-"], ["D", "C", "G", "-"]],
+          "lyrics": [
+            "Well, Olivia is taken",
+            "But a look like hers can be found from time to time (x2)",
+            "",
+            "I’m thinking something like Olivia",
+            "Is what I need to find"
+          ],
+          "duration": 16
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["G", "-", "-", "-"],
+            ["C", "-", "G", "-"],
+            ["D", "C", "G", "-"]
+          ],
+          "lyrics": [
+            "There’s only one man in this world",
+            "Who gets to sleep with her by his side (x2)",
+
+            "",
+            "I’m thinking something like Olivia",
+            "Could keep me through the night"
+          ],
+          "duration": 12
+        },
+        {
+          "section": "Solo + Verse 3",
+          "chords": [
+            ["G", "-", "-", "-"],
+            ["C", "-", "G", "-"],
+            ["D", "C", "G", "-"]
+          ],
+          "lyrics": [
+            "#SOLO x 2",
+            "",
+            "Now I’m not trying to steal",
+            "No love away from no one man (x2)",
+
+            "",
+            "But if Olivia herself were at my door",
+            "I’d have to say, I’d let her in"
+          ],
+          "duration": 24
+        },
+        {
+          "section": "Bridge",
+          "chords": [
+            ["G", "-", "-", "-"],
+            ["C", "-", "G", "-"],
+            ["D", "C", "G", "-"]
+          ],
+          "lyrics": [
+            "Something like Olivia (x4)",
+            "",
+            "I keep thinking something like Olivia",
+            "Is what I need to find",
+            "",
+            "#1 SOLO",
+            "#STOP on 1/13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0a7a9d70-67ab-4153-8ce0-4164cb748031",
+      "title": "Talk To Me Baby",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Elmore James"],
+      "gemaWerknummer": "564260-001",
+      "songDuration": 255,
+      "lineup": "Band",
+      "scale": "C",
+      "notes": "Close: 1 solo,break and sing",
+      "tempo": 128,
+      "timeSignature": "4/4",
+      "configChordPaneSize": 2,
+      "pages": [
+        {
+          "section": "Intro + Verse 1",
+          "chords": [
+            ["C", "-", "-", "-"],
+            ["F", "-", "C", "-"],
+            ["G", "F", "C", "C"],
+            [],
+            ["C!", "C!", "C!", "C!"],
+            ["F", "-", "C", "-"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Talked to my baby on the telephone, she said",
+            "Stop what you’re doing and come on home",
+            "I can’t hold on ..."
+          ],
+          "duration": 24
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["C!", "C!", "C!", "C!"],
+            ["F", "-", "C", "-"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "She said, daddy you can run, walk or fly",
+            "You’re my baby and I love you until the day I die",
+            "I can’t hold on …"
+          ],
+          "duration": 24
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["C", "-", "-", "-"],
+            ["F", "-", "C", "-"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Talk to me baby (Talk to me ...)",
+            "Talk to me baby",
+            "Talk to me baby",
+            "Talk to me baby",
+            "",
+            "I get a real good feeling",
+            "Talking to you in the phone"
+          ],
+          "duration": 12
+        },
+        {
+          "section": "Solo + Verse 3",
+          "chords": [
+            ["C", "-", "-", "-"],
+            ["F", "-", "C", "-"],
+            ["G", "F", "C", "C"],
+            [],
+            ["C!", "C!", "C!", "C!"],
+            ["F", "-", "C", "-"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "#SOLO x 2",
+            "Oh Daddy, you’re mighty fine",
+            "You’re my baby you’re my lover, I hate to see you cry",
+            "I can’t hold on …"
+          ],
+          "duration": 48
+        },
+        {
+          "section": "Verse 4",
+          "chords": [
+            ["C!", "C!", "C!", "C!"],
+            ["F", "-", "C", "-"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "#(Last verse)",
+            "She said daddy, don’t you worry, don’t you cry",
+            "You know I love you baby, said you’re my heart’s desire",
+            "I can’t hold on …"
+          ],
+          "duration": 48
+        },
+        {
+          "section": "Interaction",
+          "chords": [
+            ["C", "-", "-", "-"],
+            ["F", "-", "C", "-"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Talk to me baby (Talk to me ...)",
+            "Talk to me baby",
+            "Talk to me baby",
+            "Talk to me baby",
+            "",
+            "I get a real good feeling",
+            "Talking to you in the phone",
+            "",
+            "#REPEAT"
+          ],
+          "duration": 24
+        },
+        {
+          "section": "Outro",
+          "chords": [
+            ["C", "-", "-", "-"],
+            ["F", "-", "C", "-"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": ["#1 SOLO", "#Stop on 11"]
+        }
+      ]
+    },
+    {
+      "id": "b8115650-05fc-4a82-8cab-e9a257c3044b",
+      "title": "Salvation Hymn",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Mark Keeble"],
+      "gemaWerknummer": "28368152-004",
+      "songDuration": 210,
+      "lineup": "Band",
+      "scale": "G",
+      "notes": "Close: Soli - Wolfgang signals end",
+      "tempo": 56,
+      "timeSignature": "12/8",
+      "configChordPaneSize": 2,
+      "pages": [
+        {
+          "section": "Intro + chorus",
+          "chords": [["G", "Am", "Am", "G"], [], ["G", "Am", "Am", "G"], ["G", "Am", "Am", "G"]],
+          "lyrics": [
+            "I was born on the wrong side of the line",
+            "Never thought that a girl like you would be mine",
+            "Life was hard, trouble was troubling me",
+            "Keep me warm in your love all the time"
+          ]
+        },
+        {
+          "section": "Verse 1",
+          "chords": [["G", "Am", "Am", "G"]],
+          "lyrics": [
+            "All that I knew",
+            "Was the lash of the storm",
+            "You showed me the summer showers",
+            "They were sweet and warm",
+            " ",
+            " ",
+            "#You showed me colours..."
+          ],
+          "duration": 4
+        },
+        {
+          "section": "Verse 2",
+          "chords": [["G", "Am", "Am", "G"]],
+          "lyrics": [
+            "You showed me colours",
+            "Where there was just blue and grey",
+            "Led me out of the darkness",
+            "Into bright blessed day",
+            " ",
+            " ",
+            "#You know I was drowning..."
+          ],
+          "duration": 4
+        },
+        {
+          "section": "Verse 3",
+          "chords": [["G", "Am", "Am", "G"]],
+          "lyrics": [
+            "You know I was drowning",
+            "’Til you pulled me back to the shore",
+            "I felt your love for the first time",
+            "And I needed more",
+            " ",
+            " ",
+            "#I was cold, so cold..."
+          ],
+          "duration": 4
+        },
+        {
+          "section": "Verse 4",
+          "chords": [["G", "Am", "Am", "G"]],
+          "lyrics": [
+            "I was cold, so cold",
+            "’Til you put the fire in my heart",
+            "My race was ended",
+            "Then you brought me back to the start",
+            " ",
+            " ",
+            "#I was born..."
+          ],
+          "duration": 4
+        },
+        {
+          "section": "Chorus",
+          "chords": [["G", "Am", "Am", "G"]],
+          "lyrics": [
+            "I was born on the wrong side of the line",
+            "Never thought that a girl like you would be mine",
+            "Life was hard, trouble was troubling me",
+            "Keep me warm in your love all the time"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Solo + Verse 5",
+          "chords": [["G", "Am", "Am", "G"]],
+          "lyrics": [
+            "#SOLO",
+            "My song was silenced",
+            "But you set it free",
+            "You took my blues ",
+            "And you made them harmony",
+            "",
+
+            "#I was hurting..."
+          ]
+        },
+        {
+          "section": "Verse 6",
+          "chords": [["G", "Am", "Am", "G"]],
+          "lyrics": [
+            "I was hurting, hurting ",
+            "Girl, you soothed my pain",
+            "I let myself fall",
+            "And you caught me",
+            "Again and again and again and again",
+            " ",
+            " ",
+            "#I was born..."
+          ],
+          "duration": 4
+        },
+        {
+          "section": "Chorus + outro",
+          "chords": [
+            ["G", "Am", "Am", "G"],
+            ["G", "Am", "Am", "G"]
+          ],
+          "lyrics": [
+            "I was born on the wrong side of the line",
+            "I never dreamed that you would be mine",
+            "Now my troubles, they ain’t botherin’ me",
+            "Girl you saved me",
+            "from my destiny"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e6041e89-49ae-423b-8836-32c5abd97997",
+      "title": "Kissing In The Dark",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Ernest Lawlers"],
+      "gemaWerknummer": "2676917-001",
+      "songDuration": 195,
+      "lineup": "Band",
+      "scale": "A",
+      "notes": "Close: Break and bass outro in last verse",
+      "tempo": 140,
+      "timeSignature": "4/4",
+      "configChordPaneSize": 2,
+      "pages": [
+        {
+          "section": "Intro + Verse 1",
+          "chords": [
+            ["C", "-", "-", "-"],
+            ["F", "-", "C", "-"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Call the doctor, call him quick",
+            "I done got something ’bout to make me sick",
+            "",
+            "I been kissin’ in the dark..."
+          ],
+          "duration": 24
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["C", "-", "-", "-"],
+            ["F", "-", "C", "-"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Well, I had a girlfriend from Alabam’",
+            "She done put her pennies all in a jam",
+            "",
+            "Kissin’ in the dark..."
+          ],
+          "duration": 12
+        },
+        {
+          "section": "Verse 3",
+          "chords": [
+            ["C", "-", "-", "-"],
+            ["F", "-", "C", "-"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "She had a date with a scrap, she met a hip cat",
+            "And nobody knows where she end up at",
+            "",
+            "She been kissin’ in the dark..."
+          ],
+          "duration": 12
+        },
+        {
+          "section": " Solo",
+          "chords": [
+            ["C", "-", "-", "-"],
+            ["F", "-", "C", "-"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": ["#SOLO x 2"],
+          "duration": 24
+        },
+        {
+          "section": "Verse 4",
+          "chords": [
+            ["C", "-", "-", "-"],
+            ["F", "-", "C", "-"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "She had a date with a scrap, she met a hip cat",
+            "And nobody knows where she end up at",
+            "",
+            "She been kissin’ in the dark..."
+          ],
+          "duration": 12
+        },
+        {
+          "section": "Verse 5",
+          "chords": [
+            ["C", "-", "-", "-"],
+            ["F", "-", "C", "-"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Be a good pal, just swappin’ up a dime",
+            "You thinkin’ about a man, throw it after mine",
+            "",
+            "Kissin’ in the dark..."
+          ],
+          "duration": 12
+        },
+        {
+          "section": "Verse 6 + outro",
+          "chords": [
+            ["C", "-", "-", "-"],
+            ["F", "-", "C", "-"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Well, you’d better wake up, and try to get wise",
+            "Get yourself hip to that old crazy jive",
+            "",
+            "Kissin’ in the dark...",
+            "",
+            "#Bass outro bars 11-12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f7fd745e-fd8b-4c10-83fe-5b3bef16a5a8",
+      "title": "Hey Joe",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Billy Roberts"],
+      "gemaWerknummer": "754810-001",
+      "songDuration": 210,
+      "lineup": "Band",
+      "scale": "A",
+      "tempo": 85,
+      "timeSignature": "4/4",
+      "pages": [
+        {
+          "section": "Intro + Verse 1",
+          "chords": [],
+          "lyrics": ["Hey Joe, where you going with that gun in your hand?", "(x2)"]
+        },
+        {
+          "section": " Verse 1",
+          "chords": [],
+          "lyrics": [
+            "I’m going down to shoot my old lady",
+            "You know, I caught her messing around with another man",
+            "(x2)",
+            "",
+            "And that ain’t too cool"
+          ]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [],
+          "lyrics": [
+            "Hey Joe, I heard you shot your mama down",
+            "You shot her down now",
+            "",
+            "Hey Joe, I heard you shot your lady down",
+            "Shot her down in the ground, yeah"
+          ]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [],
+          "lyrics": [
+            "Yeah. Yes, I did, I shot her",
+            "You know I caught her messin’ round, messin’ round town",
+            "(x2)",
+            "",
+            "And I gave her the gun. I shot her"
+          ]
+        },
+        {
+          "section": "Verse 3",
+          "chords": [],
+          "lyrics": ["Alright", "Shoot her one more time again, baby", "Yeah", "Oh, dig it", "Ah, alright"]
+        },
+        {
+          "section": "Verse 3",
+          "chords": [],
+          "lyrics": ["Hey, Joe", "Where you gonna run to now? Where you gonna run to?", "(x2)"]
+        },
+        {
+          "section": "Verse 4",
+          "chords": [],
+          "lyrics": [
+            "Well, dig",
+            "I’m goin’ way down south, way down to Mexico way",
+            "I’m goin’ way down south, where I can be free",
+            "Ain’t no one gonna find me",
+            "Ain’t no hangman gonna gonna put a rope around me",
+            "You better believe right now"
+          ]
+        },
+        { "section": "Outro", "chords": [], "lyrics": ["Hey, Joe", "You better run on down", "Hey, hey, Joe"] }
+      ]
+    },
+    {
+      "id": "f5805193-9a71-4688-ace9-2943f5dc6dcf",
+      "title": "Black Coffee",
+      "act”_id": "2dc87686-b54e-4a30-b7d0-dfbb4c6b51cb",
+      "writtenBy": ["Mark Keeble"],
+      "gemaWerknummer": "33774118-001",
+      "songDuration": 150,
+      "lineup": "Mark (acoustic)",
+      "scale": "G",
+      "notes": "Capo 3rd fret (play in E)",
+      "tempo": 130,
+      "timeSignature": "4/4",
+      "pages": [
+        {
+          "section": "Intro + Verse 1",
+          "chords": [
+            ["E", "-", "A", "-"],
+            ["B", "A", "E", "B"]
+          ],
+          "lyrics": [
+            "She’s like black coffee, black as my soul",
+            "Keeps heart racing, she burns like coal",
+            "Late at night when she’s next to me",
+            "She keeps me awake like pure caffeine",
+            "",
+            "Drink it hot so it won’t never grow cold..."
+          ],
+          "duration": 16
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["E", "-", "A", "-"],
+            ["B", "A", "E", "B"]
+          ],
+          "lyrics": [
+            "Drink it hot so it won’t never grow cold",
+            "I’m drinking black coffee before I grow old",
+            "In the warmth of the raging fire",
+            "She takes me higher and higher",
+            "",
+            "I don’t need whiskey and I don’t need tea..."
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Bridge",
+          "chords": [
+            ["A", "-", "E", "-"],
+            ["A", "-", "B!", "A!"]
+          ],
+          "lyrics": [
+            "I don’t need whiskey and I don’t need tea",
+            "Black coffee gives me everything I need",
+            "It tastes so bitter but feels so sweet",
+            "Let me drink black coffee, I don’t need to eat",
+            "",
+            "In the morning she’s as fresh as can be..."
+          ],
+          "duration": 8
+        },
+
+        {
+          "section": "Verse 4",
+          "chords": [
+            ["E", "-", "A", "-"],
+            ["B", "A", "E", "B"]
+          ],
+          "lyrics": [
+            "In the morning she’s as fresh as can be",
+            "She opens my eyes to all that I can see",
+            "Her love is so pure and kind",
+            "But black coffee’s all that’s on my mind",
+            "",
+            "Black coffee, can’t you smell the aroma..."
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Bridge",
+          "chords": [
+            ["A", "-", "E", "-"],
+            ["A", "A", "B!", "A!"]
+          ],
+          "lyrics": [
+            "Black coffee, can’t you smell the aroma",
+            "I could tell you but it’s better if I show ya",
+            "Let me give one simple tip",
+            "Don’t gulp it down,",
+            "Enjoy it sip by sip"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Solo + bridge",
+          "chords": [
+            ["E", "-", "A", "-"],
+            ["B", "A", "E", "B"],
+            ["A", "-", "E", "-"],
+            ["A", "-", "B!", "A!"]
+          ],
+          "lyrics": [
+            "#SOLO",
+            "",
+            "In the heat of the afterglow",
+            "We drink black coffee real slow",
+            "I asked her to make and she said she would",
+            "Her black coffee just tastes so good",
+            "",
+            "Black coffee..."
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Outro",
+          "chords": [
+            ["E", "-", "A", "-"],
+            ["B", "A", "E!", "/"]
+          ],
+          "lyrics": ["Black coffee", "Black coffee", "Hey, stay back with that milk!"]
+        }
+      ]
+    },
+    {
+      "id": "1a9d89dd-f96f-41c1-b0be-f5872d3a6852",
+      "title": "Freedom Train",
+      "act”_id": "2dc87686-b54e-4a30-b7d0-dfbb4c6b51cb",
+      "writtenBy": ["Mark Keeble"],
+      "gemaWerknummer": "35984804-001",
+      "songDuration": 300,
+      "lineup": "Mark (acoustic)",
+      "scale": "C",
+      "tempo": 65,
+      "timeSignature": "12/8",
+      "pages": [
+        {
+          "section": "Intro + Verse 1",
+          "chords": [
+            ["C", "G", "Am  F", "C"],
+            [],
+            ["C", "G", "Am", "F"],
+            ["C", "G", "Am", "F"],
+            ["C", "G", "Am", "F"],
+            ["C", "G", "Am  F", "C"]
+          ],
+          "lyrics": [
+            "Freedom Train, oh Freedom Train",
+            "Won’t you save this poor soul of mine?",
+            "I swear I heard you whistle",
+            "Please don’t you leave me behind",
+            "",
+            "Won’t you show me the Ohio",
+            "And the green hills beyond?",
+            "Freedom Train, oh Freedom Train",
+            "Please listen to my song"
+          ],
+          "duration": 20
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["C", "G", "Am", "F"],
+            ["C", "G", "Am", "F"],
+            ["C", "G", "Am", "F"],
+            ["C", "G", "Am  F", "C"]
+          ],
+          "lyrics": [
+            "Freedom Train, oh Freedom Train",
+            "Tell me it won’t be long",
+            "How long must I wait now",
+            "Before it’s time to move on?",
+            "",
+            "My wife was sold to a trader",
+            "My son left his arm in the wheel",
+            "Freedom Train, oh Freedom Train",
+            "Please tell me salvation is real"
+          ],
+          "duration": 16
+        },
+        {
+          "section": "Bridge 1",
+          "chords": [["Am", "Em", "F", "C"], ["..."]],
+          "lyrics": [
+            "I’m gonna ride that hidden railroad",
+            "Far from where I was born",
+            "",
+            "Won’t you take me there? ",
+            "Won’t you take me there? ",
+            "Into a brighter dawn"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Bridge 2",
+          "chords": [["Am", "Em", "F", "C"], ["..."]],
+          "lyrics": [
+            "Away from these burning fields",
+            "Away from pain and fear",
+            "",
+            "Won’t you take me there? ",
+            "Won’t you take me there? ",
+            "I can’t face another year"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Verse 3 + reprise",
+          "chords": [
+            ["C", "G", "Am", "F"],
+            ["C", "G", "Am", "F"],
+            ["C", "G", "Am", "F"],
+            ["C", "G", "Am", "F"],
+            [],
+            ["C", "G", "Am  F", "C"]
+          ],
+          "lyrics": [
+            "Freedom Train, oh Freedom Train",
+            "I’ve been praying to the Lord for so long",
+            "To smile down in his mercy",
+            "And forgive me for what I did wrong",
+            "",
+            "Well Moses parted the water",
+            "And set his people free",
+            "Now Freedom Train, oh Freedom Train",
+            "Won’t you please do the same for me?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aee9db74-d34d-4688-9b13-8cd71b32feea",
+      "title": "I Only Get The Blues With You",
+      "act”_id": "2dc87686-b54e-4a30-b7d0-dfbb4c6b51cb",
+      "writtenBy": ["Mark Keeble"],
+      "gemaWerknummer": "28368011-001",
+      "songDuration": 180,
+      "lineup": "Mark (acoustic)",
+      "scale": "Dm",
+      "tempo": 136,
+      "timeSignature": "4/4",
+      "setup": "Capo 3rd fret",
+      "pages": [
+        {
+          "section": "Intro + Verse 1",
+          "chords": [
+            ["Am  C", "Am  C", "Am  C", "Am  C"],
+            [""],
+            ["Am  C", "Am  C", "Am  C", "Am  C"],
+            ["F", "F  C(G)", "Am  C", "Am  C"],
+            ["G", "G  (F#)", "F!", "/"],
+            ["Am  C", "Am  C", "Am  C", "Am  C"]
+          ],
+          "lyrics": [
+            "\"Wash them dishes. Now mow the lawn\"",
+            "You’ve got me working since the break of dawn",
+            "",
+            "It’s hard you know",
+            "And there’s something I’ve got to say to you ",
+            "You know I love you woman ",
+            "But I only get the blues with you"
+          ],
+          "duration": 20
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["Am  C", "Am  C", "Am  C", "Am  C"],
+            ["F", "F  C(G)", "Am  C", "Am  C"],
+            ["G", "G  (F#)", "F!", "/"],
+            ["Am  C", "Am  C", "Am  C", "Am  C"]
+          ],
+          "lyrics": [
+            "\"Watch that truck!\"",
+            "\"There’s a kid on skates!\"",
+            "\"What gear are you in? \"",
+            "\"BREAK!!\"",
+            "",
+            "I’ve been driving thirty years",
+            "I don’t need your back-seat driver views",
+            "You know I love you woman ",
+            "But I only get the blues with you"
+          ],
+          "duration": 16
+        },
+        {
+          "section": "Verse 3",
+          "chords": [
+            ["Am  C", "Am  C", "Am  C", "Am  C"],
+            ["F", "F  C(G)", "Am  C", "Am  C"],
+            ["G", "G  (F#)", "F!", "/"],
+            ["Am  C", "Am  C"]
+          ],
+          "lyrics": [
+            "I married you in white,",
+            "raised our children too",
+            "Will you ever be proud of me ",
+            "Like I’m scared of you?",
+            "",
+            "It’s hard to think straight ",
+            "With all this passive agressive you use",
+            "You know I love you woman ",
+            "But I only get the blues with you"
+          ],
+          "duration": 14
+        },
+        {
+          "section": "Bridge",
+          "chords": [["C", "Em", "C", "Em"], ["C", "Em", "C", "E7"], ["-"], ["Am  C", "Am  C", "Am  C", "Am  C"]],
+          "lyrics": [
+            "You’re my yin and my yang",
+            "My pleasure, my pain",
+            "My temptress and my torturer",
+            "The girl I never tamed",
+            "",
+            "I wanna tiger in my tank",
+            "But instead you’re in my bed",
+            "Will you ever love",
+            "And stop messing with my head?"
+          ],
+          "duration": 13
+        },
+        {
+          "section": "Verse 3",
+          "chords": [
+            ["Am  C", "Am  C", "Am  C", "Am  C"],
+            ["F", "F  C(G)", "Am  C", "Am  C"],
+            ["G", "G  (F#)", "F!", "/"],
+            ["Am  C", "Am  C"]
+          ],
+          "lyrics": [
+            "You say you love me",
+            "But you don’t know why",
+            "You say we stand a chance",
+            "But you don’t want to try",
+            "",
+            "I don’t get you girl",
+            "What is it that you want me to do? ",
+            "You know I love you woman",
+            "But I only get the blues with you"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2cd27600-8a26-4384-a318-2da5b14a1b7c",
+      "title": "On Poverty Road",
+      "act”_id": "2dc87686-b54e-4a30-b7d0-dfbb4c6b51cb",
+      "writtenBy": ["Mark Keeble"],
+      "gemaWerknummer": "35984800-001",
+      "songDuration": 180,
+      "lineup": "Mark (acoustic)",
+      "scale": "A",
+      "tempo": 155,
+      "timeSignature": "3/4",
+      "pages": [
+        {
+          "section": "Intro + Verse 1",
+          "chords": [
+            ["A", "G", "F", "E"],
+            ["A", "G", "F", "E"],
+            ["F", "-", "-", "-"],
+            ["E", "-", "-", "-"],
+            ["F", "-", "-", "-"],
+            ["E", "-", "-", "-"]
+          ],
+          "lyrics": [
+            "I was born in a trailer",
+            "On Poverty Road ",
+            "Behind the levee",
+            "In the walnut grove",
+            "",
+            "Despair was my midwife, ",
+            "My constellation was pain",
+            "Every generation just the same",
+            "On Poverty Road"
+          ],
+          "duration": 46
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["A", "G", "F", "E"],
+            ["A", "G", "F", "E"],
+            ["F", "-", "-", "-"],
+            ["E", "-", "-", "-"],
+            ["F", "-", "-", "-"],
+            ["E", "-", "-", "-"]
+          ],
+          "lyrics": [
+            "The American dream",
+            "On Poverty Road",
+            "Is a used pickup truck",
+            "And a clean set of clothes",
+            "",
+            "My school was the street",
+            "The lesson was shame",
+            "Every generation just the same",
+            "On Poverty Road",
+            "",
+            "{ A } The sun beating warm..."
+          ],
+          "duration": 24
+        },
+        {
+          "section": "Bridge",
+          "chords": [
+            ["A", "-", "-", "-"],
+            ["Dm", "-", "-", "-"],
+            ["...", "-", "-", "-"],
+
+            ["F", "-", "E!", "/"]
+          ],
+          "lyrics": [
+            "The sun beating warm",
+            "And the birds flying high",
+            "I watched them from the levee",
+            "But I never asked why",
+            "Those birds were so free and I was so poor",
+            "It just seemed to be a natural law",
+            "On Poverty Road"
+          ],
+          "duration": 36
+        },
+        {
+          "section": "Inst. break + Verse 3",
+          "chords": [
+            ["A", "G", "F", "E"],
+            ["A", "G", "F", "E"],
+            ["F", "-", "-", "-"],
+            ["E", "-", "-", "-"],
+            ["F", "-", "-", "-"],
+            ["E", "-", "-", "-"]
+          ],
+          "lyrics": [
+            "Don’t expect to live long",
+            "On Poverty Road ",
+            "Reaping the drought",
+            "That my ancestors sowed",
+            "",
+            "I lost the dice",
+            "In a loaded game",
+            "Every generation just the same",
+            "On Poverty Road",
+            "",
+            "{ A } The sun beating warm..."
+          ],
+          "duration": 48
+        },
+        {
+          "section": "Bridge",
+          "chords": [
+            ["A", "-", "-", "-"],
+            ["Dm", "-", "-", "-"],
+            ["...", "-", "-", "-"],
+
+            ["F", "-", "E!", "/"]
+          ],
+          "lyrics": [
+            "The sun beating warm",
+            "And the birds flying high",
+            "I watched them from the levee",
+            "But I never asked why",
+            "Those birds were so free and I was so poor",
+            "It just seemed to be a natural law",
+            "On Poverty Road"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fbc445ca-0df0-4a0f-bbfb-824111065bb7",
+      "title": "Treat You Right",
+      "act”_id": "2dc87686-b54e-4a30-b7d0-dfbb4c6b51cb",
+      "writtenBy": ["Mark Keeble"],
+      "gemaWerknummer": "28368018-001",
+      "songDuration": 150,
+      "lineup": "Mark (acoustic)",
+      "scale": "E",
+      "tempo": 140,
+      "timeSignature": "4/4",
+      "pages": [
+        {
+          "section": "Intro + Verse 1",
+          "chords": [
+            ["E", "-", "-", "-"],
+            [],
+            ["E", "B7", "E", "-"],
+            ["E", "B7", "E", "-"],
+            ["E", "B7", "A", "E"],
+            ["E", "B7", "E", "-"]
+          ],
+          "lyrics": [
+            "I’m gonna take my own advice and treat you right (x2)",
+            "",
+            "Gone are the days when I treated you mean",
+            "From now on I’m gonna treat you like a queen",
+            "",
+            "I’m gonna take my own advice and treat you right"
+          ],
+          "duration": 20
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["E", "B7", "E", "-"],
+            ["E", "A", "E", "-"],
+            ["E", "B7", "A", "E"],
+            ["E", "B7", "E", "-"]
+          ],
+          "lyrics": [
+            "I’m gonna take my own advice and treat you good",
+            "I’m gonna treat you like a good man should",
+            "",
+            "Now that I see that I treated you cruel",
+            "I’m gonna stop acting like that same stupid fool",
+            "I’m gonna take my own advice and treat you right",
+            "",
+            "{ A } How could I risk..."
+          ],
+          "duration": 16
+        },
+        {
+          "section": "Bridge",
+          "chords": [
+            ["A", "-", "E", "-"],
+            ["B7", "A", "E", "-"],
+            ["A", "-", "E", "-"],
+            ["B7", "A", "E", "-"]
+          ],
+          "lyrics": [
+            "How could I risk to make you go away",
+            "Tell myself to do everything",
+            "To make you want to stay",
+            "",
+            "We’ve got to hold on to each other ",
+            "In the troubled times",
+            "So please tell me honey",
+            "Tell me you’re still mine."
+          ],
+          "duration": 16
+        },
+        {
+          "section": "Verse 3",
+          "chords": [
+            ["E", "-", "-", "-"],
+            [],
+            ["E", "B7", "E", "-"],
+            ["A", "B7", "E", "-"],
+            ["E", "B7", "A", "E"],
+            ["E", "B7", "E", "-"]
+          ],
+          "lyrics": [
+            "I’m gonna take my own advice and treat you fine",
+            "I’m gonna feed you caviar and the sweetest wine",
+            "",
+            "I’m gonna buy you things until I’ve got no money",
+            "From now on your life is purest milk and honey",
+            "",
+            "I’m gonna take my own advice and treat you right"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8a9eec64-f0d9-4cec-8d7c-82ef065cd4ce",
+      "title": "What Have I Done",
+      "act”_id": "2dc87686-b54e-4a30-b7d0-dfbb4c6b51cb",
+      "writtenBy": ["Mark Keeble"],
+      "gemaWerknummer": "28368009-001",
+      "songDuration": 180,
+      "lineup": "Mark (acoustic)",
+      "scale": "E",
+      "tempo": 128,
+      "timeSignature": "4/4",
+      "pages": [
+        {
+          "section": "Intro + Verse 1",
+          "chords": [
+            ["E", "A", "E", "-"],
+            [],
+            ["E", "A", "E", "-"],
+            ["A", "-", "E", "E"],
+            ["B7!", "A!", "B7!", "A7!"],
+            ["E", "B7", "E", "A"]
+          ],
+          "lyrics": [
+            "I came home last night",
+            "There was a new lock on my door",
+            "(x2)",
+
+            "",
+            "You know it was one hell of a shock",
+            "My key wouldn’t fit the goddam lock",
+            "A message from my baby said",
+            "Don’t want you here no more"
+          ],
+          "duration": 20
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["E", "A", "E", "-"],
+            ["A", "-", "E", "E"],
+            ["B7!", "A!", "B7!", "A7!"],
+            ["E", "B7", "E", "A"]
+          ],
+          "lyrics": [
+            "I asked myself",
+            "What have I done? ",
+            "Lord knows I know she knows she was the only one",
+            "",
+            "I loved her slow and I loved her good",
+            "Did everything that a grown man should",
+            "Now I asked myself",
+            "What have I done?"
+          ],
+          "duration": 16
+        },
+        {
+          "section": "Verse 3",
+          "chords": [
+            ["E", "A", "E", "-"],
+            ["A", "-", "E", "E"],
+            ["B7!", "A!", "B7!", "A7!"],
+            ["E", "B7", "E", "A"]
+          ],
+          "lyrics": [
+            "I worked hard",
+            "I did my 9 to 5 (x2)",
+            "",
+            "I worked my fingers to the bone",
+            "Just to pay for our happy home",
+            "But that weren’t enough",
+            "To keep our love alive"
+          ],
+          "duration": 16
+        },
+        {
+          "section": "Bridge",
+          "chords": [
+            ["A", "-", "E", "-"],
+            ["A", "-", "E", "-"],
+            ["A", "-", "E", "-"],
+            ["A", "-", "C#7!", "B7!"]
+          ],
+          "lyrics": [
+            "You know I tried to be that man",
+            "I tried to keep her hand ",
+            "I tried but that was not her plan",
+            "I tried",
+            "",
+            "I tried to be that man",
+            "I tried to understand ",
+            "I tried but she didn’t give a damn",
+            "I tried tried"
+          ],
+          "duration": 16
+        },
+        {
+          "section": "Verse 4",
+          "chords": [
+            ["A", "A", "E", "-"],
+            ["A", "A7", "E", "E"],
+            ["B7!", "A!", "B7!", "A7!"],
+            ["E", "B7", "E", "A"]
+          ],
+          "lyrics": [
+            "I saw her out",
+            "And she was with another man",
+            "I saw her out on the town",
+            "And she was with another man",
+            "",
+            "Back in the corner they were hugging and a-kissing",
+            "That’s the thing that I’ve been missing",
+            "And the wedding ring",
+            "Was missing from her hand"
+          ],
+          "duration": 16
+        },
+        {
+          "section": "Outro",
+          "chords": [
+            ["A", "-", "E", "-"],
+            ["A", "-", "E", "-"],
+            ["A", "-", "E", "-"],
+            ["B7!", "A!", "E!", "/"]
+          ],
+          "lyrics": ["What have I done? (x6)", "Lord knows I know she knows she was the only one"]
+        }
+      ]
+    },
+    {
+      "id": "e268be99-67e5-4766-b59d-02ef8a7034d2",
+      "title": "When Are We Gonna Learn",
+      "act”_id": "2dc87686-b54e-4a30-b7d0-dfbb4c6b51cb",
+      "writtenBy": ["Mark Keeble"],
+      "gemaWerknummer": "31889319-001",
+      "songDuration": 150,
+      "lineup": "Mark (acoustic)",
+      "scale": "Cm",
+      "tempo": 120,
+      "timeSignature": "4/4",
+      "setup": "Capo 3rd fret",
+      "pages": [
+        {
+          "section": "Verse 1",
+          "chords": [
+            ["Am", "E7", "Am", "E7"],
+            ["Am", "E7", "Am", "E7"],
+            [],
+            ["Am", "E7", "Am", "E7"],
+            ["Am", "E7", "Am", "E7"],
+            ["Am", "E7", "Am", "E7"],
+            ["Am", "E7"]
+          ],
+          "lyrics": [
+            "#INTRO",
+            "There’s only ash and flames where the forests used to stand",
+            "Where there were fields of grain there’s just dust and sand ",
+            "Bare rocks where the glacier used to flow",
+            "But we keep on driving down this blistered road.",
+            "Oh Lord! Oh Lord!",
+            "When are we gonna learn?"
+          ],
+          "duration": 22
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["Am", "E7", "Am", "E7"],
+            ["Am", "E7", "Am", "E7"],
+            ["Am", "E7", "Am", "E7"],
+            ["Am", "E7"]
+          ],
+          "lyrics": [
+            "The coral’s dying at a record pace",
+            "Islands are drowning and lakes are laid to waste",
+            "Oases drying in the desert sun",
+            "But it don’t seem to interest anyone",
+            "Oh Lord! ",
+            "Oh Lord!",
+            "When are we all gonna learn?"
+          ],
+          "duration": 14
+        },
+        {
+          "section": "Bridge",
+          "chords": [
+            ["Dm  Am", "Dm  Am", "Dm  Am", "E"],
+            ["Dm  Am", "Dm  Am", "Dm  Am", "E"],
+            ["E7"],
+            ["Am", "E7", "Am", "E7"]
+          ],
+          "lyrics": [
+            "You know it’s frightning and it feels so hard",
+            "We took Eden and made a junk yard",
+            "There’s hardly time to turn this thing around",
+            "We need to wise up before all hope is drowned"
+          ],
+          "duration": 13
+        },
+        {
+          "section": "Verse 3",
+          "chords": [
+            ["Am", "E7", "Am", "E7"],
+            ["Am", "E7", "Am", "E7"],
+            ["Am", "E7", "Am", "E7"],
+            ["Am", "E7", "..."]
+          ],
+          "lyrics": [
+            "Fish are starving ’cause all they can eat",
+            "Is the plastic we thow at our feet",
+            "The air is filled with chemical fumes",
+            "If the heat don’t beat us our poisons will soon.",
+            "Oh Lord!",
+            "Oh Lord!",
+            "When are we all gonna learn?",
+            "...",
+            "Are we ever gonna learn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0bd28a0a-739d-4b67-9f84-47af635d1380",
+      "title": "Look, Don’t Touch",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Mark Keeble"],
+      "gemaWerknummer": "31889323-001",
+      "songDuration": 165,
+      "lineup": "Band",
+      "scale": "D",
+      "tempo": 140,
+      "timeSignature": "4/4",
+      "pages": [
+        {
+          "section": "Verse 1",
+          "chords": [
+            ["D", "D", "G", "G"],
+            ["D", "D", "G", "G"],
+            ["A", "G", "D", "/"]
+          ],
+          "lyrics": [
+            "I met a girl, she was so fine",
+            "I decided to make her mine",
+            "I took her for a drink, she had a gin with a twist",
+            "And I leaned in just to give her a kiss",
+            "She said, ”Darling, don’t be in such a rush.",
+            "You can look, but don’t touch!”",
+            "",
+            "We went to the movies..."
+          ],
+          "duration": 16
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["D", "D", "G", "G"],
+            ["D", "D", "G", "G"],
+            ["A", "G", "D", "/"]
+          ],
+          "lyrics": [
+            "We went to the movies to see some romance",
+            "Then to a nightclub ’cause she wanted to dance",
+            "I sidled up to her all subtle and slow",
+            "But then she said that she wanted to go",
+            "That’s when she showed me the gun in her clutch",
+            "And she warned me",
+            "“You can look, but don’t touch!”",
+            "",
+            "I can’t see no reason..."
+          ],
+          "duration": 16
+        },
+        {
+          "section": "Bridge + solo",
+          "chords": [
+            ["G", "G", "G", "G"],
+            ["D", "D", "D", "D"],
+            ["G", "G", "G", "G"],
+            ["A", "A", "A", "A"]
+          ],
+          "lyrics": [
+            "I can’t see no reason for all this resistance",
+            "Why must I always keep my distance? ",
+            "I know this girl is stringing me along",
+            "I don’t think anything ever felt quite so wrong"
+          ],
+          "duration": 16
+        },
+        {
+          "section": "Solo",
+          "chords": [
+            ["D", "D", "G", "G"],
+            ["D", "D", "G", "G"],
+            ["A", "G", "D", "/"]
+          ],
+          "lyrics": ["#SOLO"],
+          "duration": 16
+        },
+        {
+          "section": "Verse 3",
+          "chords": [
+            ["D", "D", "G", "G"],
+            ["D", "D", "G", "G"],
+            ["A", "G", "D", "/"]
+          ],
+          "lyrics": [
+            "I went out and bought a ring",
+            "With a big diamond and plenty of bling",
+            "I got on my knee by candlelight",
+            "Yeah, I wanted to do everything just right",
+            "She saw that rock and said,",
+            "“It’s really too much!l",
+            "I said, ”I know, that’s why you can look,",
+            "But don’t touch!”          "
+          ]
+        }
+      ]
+    },
+    {
+      "id": "51c79f96-f7e2-4631-ba01-e4c806e577e7",
+      "title": "Baby What You Want Me To Do",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Jimmy Reed"],
+      "gemaWerknummer": "912087-001",
+      "songDuration": 165,
+      "lineup": "Band + guest",
+      "scale": "E",
+      "tempo": 133,
+      "timeSignature": "4/4",
+      "notes": "Close: Break and bass outro in last verse",
+      "pages": [
+        {
+          "section": "",
+          "chords": [],
+          "lyrics": [
+            "I’m going up, going down",
+            "You got me running, you got me hiding",
+            "#SOLO x 2",
+            "",
+            "I’m going up, going down",
+            "You got me peepin’, you got me hiding",
+            "#BREAK on 1/10 \u21D2",
+            "#BASS OUTRO 11-12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faabb700-c5ca-4122-b7cc-c5a6117f499c",
+      "title": "Blue Jeans Blues",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Billy Gibbons", "Dusty Hill", "Frank Beard"],
+      "gemaWerknummer": "1060733-001",
+      "songDuration": 145,
+      "lineup": "Band",
+      "scale": "Bm",
+      "tempo": 131,
+      "timeSignature": "3/4",
+      "pages": [
+        {
+          "section": "Verse 1",
+          "chords": [],
+          "lyrics": [
+            "I done ran into my baby",
+            "And finally found my old blue jean",
+            "I done ran into my baby",
+            "And finally found my old blue jean",
+            "Well, I could tell that they was mine",
+            "From the oil and the gasoline"
+          ]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [],
+          "lyrics": [
+            "If I ever get back my blue jeans",
+            "Lord, how happy could one man be",
+            "If I ever get back my blue jeans",
+            "Lord, how happy could one man be",
+            "’Cause if I get back those blue jeans",
+            "You know, my baby be bringin’ ’em home to me"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c59fa3df-e058-40aa-9c21-ce9bad3ed636",
+      "title": "Sly Dog Blues",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Mark Keeble"],
+      "gemaWerknummer": "",
+      "songDuration": 145,
+      "lineup": "Band",
+      "scale": "A",
+      "notes": "Close: 2 soli, stop on 11",
+      "tempo": 95,
+      "timeSignature": "4/4",
+      "configChordPaneSize": 2,
+      "pages": [
+        {
+          "section": "Verse 1",
+          "chords": [
+            ["A!", "A!", "A!", "A!"],
+            ["A!", "A!", "A!", "A!"]
+          ],
+          "lyrics": [
+            "I got a sly dog",
+            "Sniffin’ round my door",
+            "Eying up my woman",
+            "Beggin’ on the floor",
+            "He ain’t got no leash",
+            "He completely wild",
+            "Drive my woman crazy like some feral child"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["D7", "-", "A", "-"],
+            ["E", "D", "A", "E"]
+          ],
+          "lyrics": ["I got a sly dog", "But I don’t know what for", "I got a sly dog", "Sniffin’ at my door"]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["A!", "A!", "A!", "A!"],
+            ["A!", "A!", "A!", "A!"]
+          ],
+          "lyrics": [
+            "I got a cool cat",
+            "Strutting round my space",
+            "Acting like he owns",
+            "The whole damn place",
+            "Rubs up against my leg",
+            "Prowls throughout the house",
+            "But that mangy creature, he can’t even catch a mouse"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["D", "-", "A", "-"],
+            ["E", "D", "A", "E"],
+            [],
+            ["A", "A", "A", "A"],
+            ["D", "-", "A", "-"],
+            ["E", "D", "A", "E"]
+          ],
+          "lyrics": [
+            "I got a cool cat baby",
+            "But I don’t know what for",
+            "I got a sly dog",
+            "Sniffin’ at my door",
+            "",
+            "#SOLO x2"
+          ]
+        },
+        {
+          "section": "Verse 3",
+          "chords": [
+            ["A!", "A!", "A!", "A!"],
+            ["A!", "A!", "A!", "A!"]
+          ],
+          "lyrics": [
+            "I got a talking bird repeats",
+            "Everything I say",
+            "Squawks the F-word at me",
+            "Until I go away",
+            "My girl’s folks came to visit",
+            "They didn’t like what they heard",
+            "I lost my girl because of that F-word bird"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["D", "-", "A", "-"],
+            ["E", "D", "A", "E"]
+          ],
+          "lyrics": [
+            "I got a talking chicken",
+            "I don’t know what for",
+            "Gonna feed it to that egg suckin’ dog",
+            "That’s sniffin’ at my door"
+          ]
+        },
+        {
+          "section": "Verse 4",
+          "chords": [
+            ["A!", "A!", "A!", "A!"],
+            ["A!", "A!", "A!", "A!"]
+          ],
+          "lyrics": [
+            "I got a wild woman",
+            "I found her in a sack",
+            "I let her out and she just",
+            "Followed me back",
+            "She says she can’t clean the dishes",
+            "And she won’t sweep the floor",
+            "She just eats all my food and then she cries out for more"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["D", "-", "A", "-"],
+            ["E", "D", "A", "E"]
+          ],
+          "lyrics": [
+            "Yeah I got a wild woman",
+            "I don’t know what for",
+            "And I’ve got a sly dog",
+            "And that sly dog is sniffin’ at my door"
+          ]
+        },
+        {
+          "section": "Outro",
+          "chords": [
+            ["A", "A", "A", "A"],
+            ["D", "-", "A", "-"],
+            ["E", "D", "A", "E"]
+          ],
+          "lyrics": ["#2 SOLI, stop on 11"]
+        }
+      ]
+    },
+    {
+      "id": "c0a812d7-b113-4c05-9830-fb6e135dc287",
+      "title": "Mama (Kindergarten Blues)",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "version": "No bridge at end",
+      "writtenBy": ["Mark Keeble"],
+      "gemaWerknummer": "31889331-001",
+      "songDuration": 300,
+      "lineup": "Band",
+      "scale": "A",
+      "notes": "Close: Break on 10 in last verse + bass outro",
+      "tempo": 115,
+      "timeSignature": "4/4",
+      "configChordPaneSize": 2,
+      "pages": [
+        {
+          "section": "Intro + Verse 1 - 2",
+          "chords": [
+            ["A7", "-", "-", "-"],
+            ["D7", "-", "A7", "-"],
+            ["E7", "D7", "A7", "E7"]
+          ],
+          "lyrics": [
+            "Mama, when you gonna take me home?",
+            "Mama, when you gonna take me home?",
+            "I met a girl, and she stole my black cat bone"
+          ],
+          "duration": 24
+        },
+        {
+          "section": "Intro + Verse 1 - 2",
+          "chords": [
+            ["A7", "-", "-", "-"],
+            ["D7", "-", "A7", "-"],
+            ["E7", "D7", "A7", "E7"]
+          ],
+          "lyrics": [
+            "Oh Mama, how did I get here?",
+            "Oh Mama, how did I get here?",
+            "I went looking for love and you know it cost me dear."
+          ],
+          "duration": 12
+        },
+        {
+          "section": "Verse 3 + bridge",
+          "chords": [
+            ["A7", "-", "-", "-"],
+            ["D7", "-", "A7", "-"],
+            ["E7", "D7", "A7", "E7"]
+          ],
+          "lyrics": [
+            "Oh Mama, what can I do?",
+            "Oh Mama, what can I do?",
+            "First she said she loved me and then she said we’re through",
+            "",
+            "Mama! Mama! Mama! Mama! Mama! Mama! ...",
+            "",
+            "#SOLO"
+          ]
+        },
+        {
+          "section": "Verse 4 ",
+          "chords": [
+            ["A7", "-", "-", "-"],
+            ["D7", "-", "A7", "-"],
+            ["E7", "D7", "A7", "E7"]
+          ],
+          "lyrics": [
+            "Alle meine Entchen schwimmen auf dem See",
+            "Schwimmen auf dem See now Mama",
+            "Schwimmen auf dem See",
+            "Köpfchen in das Wasser",
+            "Schwänzchen in die Höh’"
+          ],
+          "duration": 12
+        },
+        {
+          "section": "Verse 5",
+          "chords": [
+            ["A7", "-", "-", "-"],
+            ["D7", "-", "A7", "-"],
+            ["E7", "D7", "A7", "E7"]
+          ],
+          "lyrics": [
+            "Oh Mama, when you gonna take me home?",
+            "My luck is fading, Mama",
+            "#BREAK on 10 \u21D2",
+            "please take me home",
+            "#BASS OUTRO 11-12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8cd97923-8863-42e1-bbc0-b834cfea66bc",
+      "title": "Loan Me A Dime",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Fenton Robinson"],
+      "gemaWerknummer": "770987-001",
+      "lineup": "Band",
+      "pages": [
+        {
+          "section": "Verse 1",
+          "chords": [
+            ["Am", "Dm", "Am", "Am"],
+            ["Dm", "Dm", "Am", "Am"],
+            ["Fmaj7", "Dm", "Am Dm", "Am E7"]
+          ],
+          "lyrics": [
+            "Somebody loan me a dime",
+            "I need to call my old time used to be",
+            "Somebody loan me a dime",
+            "I need to call my old time that used to be",
+            "Little girl’s been gone so long",
+            "You know it’s worrying me",
+            "Hey, it’s worrying, worrying me"
+          ]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["Am", "Dm", "Am", "Am"],
+            ["Dm", "Dm", "Am", "Am"],
+            ["Fmaj7", "Dm", "Am Dm", "Am E7"]
+          ],
+          "lyrics": [
+            "I know she’s a good girl",
+            "But at that time I just didn’t understand",
+            "I know she’s a good girl",
+            "But at that time I just didn’t understand, oh no, I didn’t",
+            "Somebody loan me a dime",
+            "You know I need, I need a helping hand"
+          ]
+        },
+        {
+          "section": "Verse 3",
+          "chords": [
+            ["Am", "Dm", "Am", "Am"],
+            ["Dm", "Dm", "Am", "Am"],
+            ["Fmaj7", "Dm", "Am Dm", "Am E7"]
+          ],
+          "lyrics": [
+            "Oh, she’s a good girl",
+            "But at that time I just didn’t understand",
+            "Ooh, I know she’s a good girl",
+            "But at that time I just could not understand (oh no)",
+            "Somebody better loan me that dime",
+            "To ease my worried mind"
+          ]
+        },
+        {
+          "section": "Verse 4",
+          "chords": [
+            ["Am", "Dm", "Am", "Am"],
+            ["Dm", "Dm", "Am", "Am"],
+            ["Fmaj7", "Dm", "Am Dm", "Am E7"]
+          ],
+          "lyrics": [
+            "Now I cry, I just cry",
+            "Just like a baby all night long",
+            "You know I cry, I just cry",
+            "Just like a baby all night long",
+            "Somebody better loan me that dime",
+            "I need my baby, I need my baby here at home (ooh yeah)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0c0bf929-27cd-4a50-9428-9ca69c76bdd8",
+      "title": "Can’t You See",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Toy Caldwell"],
+      "gemaWerknummer": "",
+      "lineup": "Band",
+      "scale": "D",
+      "notes": "Close: chorus vamp, break on signal",
+      "configChordPaneSize": 2,
+      "pages": [
+        {
+          "section": "Verse 1",
+          "chords": [["D", "C", "G", "D"]],
+          "lyrics": [
+            "Gonna take a freight train",
+            "Down at the station",
+            "I don’t care where it goes",
+            "Gonna climb a mountain",
+            "The highest mountain",
+            "Gonna jump right off",
+            "No one’s gonna know"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [["D", "C", "G", "D"]],
+          "lyrics": [
+            "Can’t you see, can’t you see",
+            "What that woman been doin’ to me",
+            "",
+            "Can’t you see, can’t you see",
+            "What that woman been doin’ to me"
+          ]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [["D", "C", "G", "D"]],
+          "lyrics": [
+            "I’m gonna find me",
+            "A hole in the wall",
+            "Gonna crawl inside and I'm gonna die",
+            "’Cause my lady",
+            "Now a mean old woman",
+            "Never told me goodbye"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [["D", "C", "G", "D"]],
+          "lyrics": [
+            "Can’t you see, can’t you see",
+            "What that woman been doin’ to me",
+            "",
+            "Can’t you see, can’t you see",
+            "What that woman been doin’ to me"
+          ]
+        },
+        { "section": "Solo", "chords": [["D", "C", "G", "D"]], "lyrics": ["#The neverending solo!", "#:-)"] },
+        {
+          "section": "Verse 3",
+          "chords": [["D", "C", "G", "D"]],
+          "lyrics": [
+            "Gonna buy a ticket, as far as I can go",
+            "And I ain’t ever coming back",
+            "Gonna take the southbound, all the way to Georgia",
+            "’Til the train runs out of track"
+          ]
+        },
+        {
+          "section": "Chorus + Outro",
+          "chords": [["D", "C", "G", "D"]],
+          "lyrics": [
+            "Can’t you see, can’t you see",
+            "What that woman been doin’ to me",
+            "",
+            "Can’t you see, can’t you see",
+            "What that woman...",
+            "#BREAK",
+            "been doin’ to me"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6ca5a4d6-29dd-4ac2-8626-e454e956543d",
+      "title": "Tennessee Whiskey",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Dean Dillon", "Linda Hargrove"],
+      "gemaWerknummer": "1259926-001",
+      "scale": "A",
+      "lineup": "Band",
+      "notes": "Close: end of chorus",
+      "configChordPaneSize": 2,
+      "pages": [
+        {
+          "section": "Intro + Verse 1",
+          "chords": [["A", "Bm", "Bm", "A"]],
+          "lyrics": [
+            "Used to spend my nights out in a barroom",
+            "Liquor was the only love I’ve known",
+            "But you rescued me from reachin’ for the bottom",
+            "And brought me back from being too far gone"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [["A", "Bm", "Bm", "A"]],
+          "lyrics": [
+            "You’re as smooth as Tennessee whiskey",
+            "You’re as sweet as strawberry wine",
+            "You’re as warm as a glass of brandy",
+            "And honey, I stay stoned on your love all the time"
+          ]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [["A", "Bm", "Bm", "A"]],
+          "lyrics": [
+            "I’ve looked for love in all the same old places",
+            "Found the bottom of a bottle always dry",
+            "But when you poured out your heart I didn’t waste it",
+            "Cause there’s nothing like your love to get me high"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [["A", "Bm", "Bm", "A"]],
+          "lyrics": [
+            "You’re as smooth as Tennessee whiskey",
+            "You’re as sweet as strawberry wine",
+            "You’re as warm as a glass of brandy",
+            "And honey, I stay stoned on your love all the time"
+          ]
+        },
+        { "section": "SOLO", "chords": [["A", "Bm", "Bm", "A"]], "lyrics": ["#SOLO x2"] },
+        {
+          "section": "Chorus",
+          "chords": [["A", "Bm", "Bm", "A"]],
+          "lyrics": [
+            "You’re as expensive as Tennessee whiskey",
+            "You’re as sickly as strawberry wine",
+            "You vgive me heartburn like a glass of brandy",
+            "But it's okay, it's okay.",
+            "No, it's fine!"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [["A", "Bm", "Bm", "A"]],
+          "lyrics": [
+            "You’re as smooth as Tennessee whiskey",
+            "You’re as sweet as strawberry wine",
+            "You’re as warm as a glass of brandy",
+            "And honey, I stay stoned on your love all the time",
+            "",
+            "#repeat, close on 2nd chorus"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5f32f95d-3ba0-41e1-bb83-9662bb4e4fd1",
+      "title": "Midnight Special",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "version": "4 verses",
+      "writtenBy": ["Lead Belly"],
+      "gemaWerknummer": "",
+      "lineup": "Band",
+      "tempo": 110,
+      "scale": "A",
+      "notes": "Close: Break and vocals in chorus",
+      "configChordPaneSize": 2,
+      "timeSignature": "4/4",
+      "pages": [
+        {
+          "section": "Intro + Chorus",
+          "chords": [
+            ["G", "F", "C", "C"],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"],
+            [],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Let the midnight special",
+            "Shine a light on me",
+            "Let the midnight special",
+            "Shine its ever-loving light on me"
+          ]
+        },
+        {
+          "section": "Verse 1",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C!"]
+          ],
+          "lyrics": [
+            "Well, you wake up in the morning, hear the working bell ring",
+            "And they march you to the table, you see the same old thing",
+            "Ain’t no food upon the table, and no pork in the pan",
+            "But you better not complain, boy",
+            "You get in trouble with the man"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Let the midnight special",
+            "Shine a light on me (x3)...",
+            "",
+            "Let the midnight special",
+            "Shine its ever-loving light on me"
+          ]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C!"]
+          ],
+          "lyrics": [
+            "If you’re ever in Houston, well, you better do right",
+            "You better not gamble, and you better not fight",
+            "Or the sheriff will grab you, and the boys will bring you down",
+            "The next thing you know, boy",
+            "You’ll be prison bound"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Let the midnight special",
+            "Shine a light on me (x3)...",
+            "",
+            "Let the midnight special",
+            "Shine its ever-loving light on me"
+          ]
+        },
+        {
+          "section": "Solo",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": ["#SOLO"]
+        },
+        {
+          "section": "Verse 3",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C!"]
+          ],
+          "lyrics": [
+            "Yonder come Miss Rosie, how in the world do you know?",
+            "Well, I know her by her apron and the dress she wore",
+            "Umbrella on her shoulder, piece of paper in her hand",
+            "She come to see the gov’nor",
+            "Ask him to free her man"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Let the midnight special",
+            "Shine a light on me (x3)...",
+            "",
+            "Let the midnight special",
+            "Shine its ever-loving light on me"
+          ]
+        },
+        {
+          "section": "Verse 4",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C!"]
+          ],
+          "lyrics": [
+            "If you go down to Mar-A-Lago, check out the boxes in the John",
+            "They’re full of secrets and launch codes",
+            "World War Three, bring it on!",
+            "Oh, I met Miss Rosie down there, things didn’t go as she had planned",
+            "She felt something lifting up her skirt",
+            "Lord, it was the President’s hand"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Let the midnight special",
+            "Shine a light on me (x3)...",
+            "",
+            "Let the midnight special",
+            "Shine its ever-loving light on me"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Let the midnight special shine a light on me",
+            "Let the midnight special...",
+            "#BREAK",
+            "...shine a light",
+            "on me"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6f5367a0-d164-4d2a-9a76-b3279ff88472",
+      "title": "Midnight Special",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "version": "3 verses",
+      "writtenBy": ["Lead Belly"],
+      "gemaWerknummer": "",
+      "lineup": "Band",
+      "tempo": 110,
+      "scale": "C",
+      "notes": "Close: Break and vocals in chorus",
+      "configChordPaneSize": 2,
+      "timeSignature": "4/4",
+      "pages": [
+        {
+          "section": "Intro + Chorus",
+          "chords": [
+            ["G", "F", "C", "C"],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"],
+            [],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Let the midnight special",
+            "Shine a light on me",
+            "Let the midnight special",
+            "Shine its ever-loving light on me"
+          ]
+        },
+        {
+          "section": "Verse 1",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C!"]
+          ],
+          "lyrics": [
+            "Well, you wake up in the morning, hear the working bell ring",
+            "And they march you to the table, you see the same old thing",
+            "Ain’t no food upon the table, and no pork in the pan",
+            "But you better not complain, boy",
+            "You get in trouble with the man"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Let the midnight special",
+            "Shine a light on me (x3)",
+            "...",
+            "Let the midnight special",
+            "Shine its ever-loving light on me"
+          ]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C!"]
+          ],
+          "lyrics": [
+            "Yonder come Miss Rosie, how in the world do you know?",
+            "Well, I know her by her apron and the dress she wore",
+            "Umbrella on her shoulder, piece of paper in her hand",
+            "She come to see the gov’nor",
+            "Ask him to free her man"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Let the midnight special",
+            "Shine a light on me (x3)",
+            "...",
+            "Let the midnight special",
+            "Shine its ever-loving light on me"
+          ]
+        },
+        {
+          "section": "Solo",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": ["#SOLO"]
+        },
+
+        {
+          "section": "Verse 3",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"],
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C!"]
+          ],
+          "lyrics": [
+            "If you go down to Mar-A-Lago, check out the boxes in the John",
+            "They’re full of secrets and launch codes",
+            "World War Three, bring it on!",
+            "Oh, I met Miss Rosie down there, things didn’t go as she had planned",
+            "She felt something lifting up her skirt",
+            "Lord, it was the President’s hand"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Let the midnight special",
+            "Shine a light on me (x3)",
+            "...",
+            "Let the midnight special",
+            "Shine its ever-loving light on me"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["F", "F", "C", "C"],
+            ["G", "F", "C", "C"]
+          ],
+          "lyrics": [
+            "Let the midnight special shine a light on me",
+            "Let the midnight special...",
+            "#BREAK",
+            "...shine a light on ... me"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "67ddc4b2-95b8-4dd5-b218-00edb9f36ef8",
+      "title": "It’s Not My Cross to Bear",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Gregg Allman"],
+      "gemaWerknummer": "",
+      "lineup": "Band",
+      "key": "B",
+      "tempo": 42,
+      "timeSignature": "6/8",
+      "pages": [
+        {
+          "section": "Intro + Verse 1",
+          "chords": [],
+          "lyrics": [
+            "I have not come",
+            "To testify",
+            "About our bad, bad misfortune",
+            "And I ain’t here a-wonderin’ why",
+            "But I’ll live on and I’ll be strong",
+            "’Cause it’s not my cross to bear"
+          ]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [],
+          "lyrics": [
+            "I sat down and wrote you a long letter",
+            "It was just the other day",
+            "Said, 'Sure as the sunrise, baby'",
+            "Tomorrow I’ll be up and on my way",
+            "But I’ll live on and I’ll be strong",
+            "’Cause it’s not my cross to bear"
+          ]
+        },
+        { "section": "Solo", "chords": [], "lyrics": ["#SOLO"] },
+        {
+          "section": "Bridge",
+          "chords": [],
+          "lyrics": ["But I’ll live on and I’ll be strong", "’Cause it’s not my cross to bear"]
+        },
+        {
+          "section": "Verse 3",
+          "chords": [],
+          "lyrics": [
+            "But in the end, baby",
+            "Long towards the end of your road",
+            "Don’t reach out for me, baby",
+            "’Cause I’m not gonna carry your load",
+            "But I’ll live on and I’ll be strong",
+            "’Cause it’s not my cross to bear"
+          ]
+        },
+        {
+          "section": "Outro",
+          "chords": [],
+          "lyrics": [
+            "I found someone else, baby",
+            "Yeah, yeah ...",
+            "Yeah, go on by",
+            "My baby, uh-huh",
+            "Yeah, yeah, yeah",
+            "Yeah, babe",
+            "Yeah, yeah"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "51fe53b0-edb0-4c29-bfc4-e51a5464fe77",
+      "title": "Still A Man",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Frank Neubauer"],
+      "gemaWerknummer": "",
+      "lineup": "Band",
+      "pages": [
+        {
+          "section": "Intro + Verse 1",
+          "chords": [
+            ["A", "A", "A", "A"],
+            [],
+            ["A", "A", "A", "A"],
+            ["E", "D!", "A", "A"],
+            ["A", "A", "A", "A"],
+            ["E", "D!", "A", "A"]
+          ],
+          "lyrics": [
+            "Tell me girl, what have we done?",
+            "Where have all the good times gone?",
+            "Great days of passion, fulfilling our needs",
+            "And horny nights in sweaty sheets"
+          ]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["A", "A", "A", "A"],
+            ["E", "D!", "A", "A"],
+            ["A", "A", "A", "A"],
+            ["E", "D!", "A", "A"]
+          ],
+          "lyrics": [
+            "It had to be once for eternity",
+            "But everything’s changed into monotony",
+            "Is this really what I’m meant to be?",
+            "I refuse to believe in this destiny"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["A", "A", "A", "A"],
+            ["A", "A", "A", "A"],
+            ["E", "D!", "A  D", "A"]
+          ],
+          "lyrics": [
+            "I’m still a man, I do what I can",
+            "To keep the wheels turning and keep my soul burning",
+            "I’m still a man, just kickin’ the can",
+            "Sometimes I rock, never give up",
+            "I do what I can, like you give a damn!",
+            "I’m still a man"
+          ]
+        },
+        {
+          "section": "Verse 3",
+          "chords": [],
+          "lyrics": [
+            "This boring job kills me every day",
+            "A circus of fools just stands in my way",
+            "They lost their convictions a long time ago",
+            "Corporate messiahs and their embarrassing shows"
+          ]
+        },
+        {
+          "section": "Verse 4",
+          "chords": [],
+          "lyrics": [
+            "Now look at them losers fanning the flames",
+            "I don’t wanna play those hustlers’ games",
+            "I still wanna look myself straight in the eye",
+            "Feel some pride in my heart and hold my head high"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [],
+          "lyrics": [
+            "’Cause I’m still a man, I do what I can",
+            "To keep the wheels turning and keep my soul burning",
+            "I’m still a man, just kickin’ the can",
+            "sometimes I rock, never give up",
+            "I do what I can, like you give a damn!",
+            "I’m still a man"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5c047e00-80cd-4bf5-b761-49b82126ced7",
+      "title": "Hey Bartender",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Frank Neubauer"],
+      "gemaWerknummer": "",
+      "lineup": "Band",
+      "pages": [
+        {
+          "section": "Verse 1",
+          "chords": [],
+          "lyrics": [
+            "Hey bartender, give me a beer",
+            "Outside it’s a dark dark night, so let me stay here",
+            "My bed is cold and empty",
+            "Cause my baby’s gone",
+            "I’m gonna keep warm here, before the night is done"
+          ]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [],
+          "lyrics": [
+            "Hey bartender, give me one more drink",
+            "I'm as drunk as I look and I'm as sober as I think",
+            "Was it the mail man",
+            "That she took on the run",
+            "No matter at all, when the night is done"
+          ]
+        },
+        {
+          "section": "Solo",
+          "chords": [],
+          "lyrics": ["#SOLO"]
+        },
+        {
+          "section": "Verse 3",
+          "chords": [],
+          "lyrics": [
+            "Hey bartender, give me another glass",
+            "By the end of the night, I hope the blues will pass",
+            "Do you know",
+            "Where my old friends have been gone",
+            "Wanna meet Billy and John, before the night is done"
+          ]
+        },
+        {
+          "section": "Verse 4",
+          "chords": [],
+          "lyrics": [
+            "Hey bartender, leave that bottle here",
+            "With my friends by my side, I got nothing fear",
+            "They always take care of me",
+            "Like I'm the only one",
+            "They never judge me, never trick me",
+            "When the night is done"
+          ]
+        },
+        {
+          "section": "Verse 5",
+          "chords": [],
+          "lyrics": [
+            "Hey bartender, I'll see you again",
+            "I’m done with that chick, I’m done with the shame",
+            "Now I’m a free man,",
+            "Free as a man on the run",
+            "So Lord, don’t bring her back to me",
+            "When the night is done"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b0d42276-e463-43cf-b076-7a12efe7fd7f",
+      "title": "Falling Down Like Rain",
+      "act”_id": "2dc87686-b54e-4a30-b7d0-dfbb4c6b51cb",
+      "writtenBy": ["Mark Keeble"],
+      "gemaWerknummer": "",
+      "lineup": "Mark - acoustic",
+      "key": "E",
+      "timeSignature": "4/4",
+      "pages": [
+        {
+          "section": "Verse 1",
+          "chords": [["E", "G#"], ["A", "E  G#"], ["A", "E  G#"], ["A", "E  G#"], ["A..."]],
+          "lyrics": [
+            "I tried to show you that I love you",
+            "But I never got it right",
+            "Now the door is closed behind you",
+            "And my chest is feeling tight ",
+            "",
+            "You chose to never ask the questions",
+            "So I didn't have to say",
+            "The truth that hid inside the silence",
+            "Couldn't save us anyway"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["...A", "G#", "C#m", "A"],
+            ["E", "G#", "C#m", "A"],
+            ["E", "G#", "C#m", "A"],
+            ["E", "G#", "C#m", "A"]
+          ],
+          "lyrics": [
+            "Gone is the pleasure",
+            "All that's left is the pain",
+            "Everything lost and nothing to gain",
+            "I stare out through the window pane",
+            "My tears are falling down like rain",
+            "Falling down like rain"
+          ]
+        },
+        {
+          "section": "Verse 2",
+
+          "chords": [["E", "G#"], ["A", "E  G#"], ["A", "E  G#"], ["A", "E  G#"], ["A..."]],
+          "lyrics": [
+            "On the first day that I saw you",
+            "I could hardly breathe",
+            "I was blinded by the wonder",
+            "Of who I thought you'd be",
+            "",
+            "As we walked along the sunset",
+            "We didn't see the signs",
+            "That as we traced the growing shadows",
+            "We also drew the lines"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["...A", "G#", "C#m", "A"],
+            ["E", "G#", "C#m", "A"],
+            ["E", "G#", "C#m", "A"],
+            ["E", "G#", "C#m", "A"]
+          ],
+          "lyrics": [
+            "Gone is the pleasure",
+            "All that's left is the pain",
+            "Everything lost and nothing to gain",
+            "I stare out through the window pane",
+            "My tears are falling down like rain",
+            "Falling down like rain"
+          ]
+        },
+        {
+          "section": "Bridge",
+          "chords": [
+            ["A", "C#m", "G#", "A"],
+            ["A", "C#m", "G#", "A"],
+            ["A", "C#m", "G#", "A"],
+            ["A", "C#m", "G#", "A"]
+          ],
+          "lyrics": [
+            "I felt the blessing, let it",
+            "Turn right into a curse",
+            "I found the treasure without",
+            "Seeing it's worth",
+            "I took the sunlight and I",
+            "Drowned it out in the rain",
+            "And given the chance I know I'll",
+            "Do it over again"
+          ]
+        },
+        {
+          "section": "Verse 3",
+          "chords": [["E", "G#"], ["A", "E  G#"], ["A", "E  G#"], ["A", "E  G#"], ["A..."]],
+          "lyrics": [
+            "I don't recall a moment ",
+            "When our love began to pale",
+            "The days were cold, the nights stretched on ",
+            "Before we drove the final nail",
+            "",
+            "I light a flame to chase the silence",
+            "Then I watch it burning down",
+            "And hope that somewhere in the darkness",
+            "I will find something profound"
+          ]
+        },
+        {
+          "section": "Chorus + Outro",
+          "chords": [
+            ["...A", "G#", "C#m", "A"],
+            ["E", "G#", "C#m", "A"],
+            ["E", "G#", "C#m", "A"],
+            ["E", "G#", "C#m", "A"],
+            ["..."]
+          ],
+          "lyrics": [
+            "Gone is the pleasure",
+            "All that's left is the pain",
+            "Everything lost and nothing to gain",
+            "I stare out through the window pane",
+            "My tears are falling down like rain",
+            "Falling down like rain",
+            "Falling down like rain"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e1b63512-0faf-4c65-8eae-25a9115fd860",
+      "title": "Tell The Truth",
+      "act”_id": "12a8acdf-d1b8-487c-9d24-1baa0ce349df",
+      "notes": "Intro 3 bars from start of guitars",
+      "writtenBy": [],
+      "gemaWerknummer": "",
+      "pages": [
+        {
+          "section": "Intro + Chorus",
+          "chords": [
+            ["A", "A", "A", "A"],
+            ["E7", "E7", "E7", "E7"],
+            ["A", "A", "A", "A"],
+            ["B7", "B7", "B7", "B7!"]
+          ],
+          "lyrics": ["Tell me who's been fooling you?", "Tell the truth", "Who's been fooling you?"]
+        },
+        {
+          "section": "Verse 1",
+          "chords": [
+            ["A7", "E7", "A7", "E7"],
+            ["A7", "E7", "G", "D"],
+            ["E (B)", "E B E B", "G", "D"],
+            ["B7!", "B7!"]
+          ],
+          "lyrics": [
+            "There you sit there looking so cool",
+            "While the whole show is passing you by",
+            "Better come to terms with your fellow men soon cause",
+            "Whole world is shaking now, can't you feel it?",
+            "A New dawn is breaking now, can't you see it?"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["A", "A", "A", "A"],
+            ["E7", "E7", "E7", "E7"],
+            ["A", "A", "A", "A"],
+            ["B7", "B7", "B7", "B7!"]
+          ],
+          "lyrics": ["Tell the Truth", "Tell me who's been fooling you?", "Tell the truth", "Who's been fooling you?"]
+        },
+        {
+          "section": "Verse 2",
+          "chords": [
+            ["A7", "E7", "A7", "E7"],
+            ["A7", "E7", "G", "D"],
+            ["E (B)", "E B E B", "G", "D"]
+          ],
+          "lyrics": [
+            "It doesn't matter just who you are",
+            "Or where you're going or been",
+            "Open your eyes and look into your heart",
+            "Whole world is shaking now, I can feel it",
+            "New dawn is breaking now, I can see it"
+          ]
+        },
+        {
+          "section": "Refrain + Solo",
+          "chords": [
+            ["B7", "B7", "B7", "B7"],
+            ["B7", "B7"],
+            [],
+            ["C#", "C#", "C#", "C#"],
+            ["G#", "G#", "G#", "G# (A Bb)"],
+            ["B7", "B7", "B7", "B7!"]
+          ],
+          "lyrics": [
+            "I can see it, yeah. I can see it",
+            "I can see it, yeah. I can see it",
+            "I can see it, yeah.",
+            "Whoo!",
+            "#=> SOLO"
+          ]
+        },
+        {
+          "section": "Chorus",
+          "chords": [
+            ["A", "A", "A", "A"],
+            ["E7", "E7", "E7", "E7"],
+            ["A", "A", "A", "A"],
+            ["B7", "B7", "B7", "B7!"]
+          ],
+          "lyrics": ["Tell the truth", "Tell me who's been fooling you?", "Tell the truth, who's been fooling you?"]
+        },
+        {
+          "section": "Verse 3",
+          "chords": [
+            ["A7", "E7", "A7", "E7"],
+            ["A7", "E7", "G", "D"],
+            ["E (B)", "E B E B", "G", "D"]
+          ],
+          "lyrics": [
+            "Hear what I say cause every word is true",
+            "You know I wouldn't tell you no lies",
+            "Your time's coming, gonna be soon, boy,",
+            "Whole world is shaking now, I can feel it",
+            "A new dawn is breaking now, I can see it"
+          ]
+        },
+        {
+          "section": "Refrain + SOLO",
+          "chords": [["B7", "B7", "B7", "B7"], ["..."]],
+          "lyrics": [
+            "I can see it, yeah. I can see it",
+            "I can see it, yeah. I can see it",
+            "I can see it, yeah. I can see it",
+            "I can see it, yeah.",
+            "#=> SOLO"
+          ]
+        },
+        {
+          "section": "Refrain",
+          "chords": [
+            ["G", "D", "E (B)", "E B E B"],
+            ["G", "D", "B7", "..."],
+            [],
+            ["G", "D", "E (B)", "E B E B"],
+            ["G", "D", "E7"]
+          ],
+          "lyrics": [
+            "Whole world is shaking now, can't you feel it?",
+            "New dawn is breaking now, can't you see it?",
+            "I said, \"See it, yeah\", I said, \"See it\"",
+            "I said, \"See it, yeah\", I said, \"See it\"",
+            "I said, \"See it, yeah\"",
+            "#=> Wilfried"
+          ]
+        }
+      ]
+    }
+  ]
+}
