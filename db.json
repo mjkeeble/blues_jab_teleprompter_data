@@ -345,6 +345,7 @@
       "notes": "Close: turnarounds",
       "tempo": 131,
       "timeSignature": "4/4",
+      "configChordPaneSize": 2,
       "pages": [
         {
           "section": "Verse 1",
@@ -450,15 +451,11 @@
             ["Dm7", "A7", "Dm7", "/"]
           ],
           "lyrics": [
-            "My name is Junior",
-            "From Memphis, Tennessee",
-            "My daddy was a hustler",
-            "And a stranger to me",
+            "My name is Junior / From Memphis, Tennessee",
+            "My daddy was a hustler / And a stranger to me",
             "",
-            "I don’t always know",
-            "What’s the right thing to say",
-            "But do I look familiar",
-            "In any kind of way?"
+            "I don’t always know / What’s the right thing to say",
+            "But do I look familiar / In any kind of way?"
           ],
           "duration": 20
         },
@@ -471,15 +468,11 @@
             ["Dm7", "A7", "Dm7", "/"]
           ],
           "lyrics": [
-            "Well I remember you",
-            "Dancin’ on the floor",
-            "I remember you",
-            "Walkin’ out the door",
+            "Well I remember you / Dancin’ on the floor",
+            "I remember you / Walkin’ out the door",
             "",
-            "You had a red dress on",
-            "And some high heel shoes",
-            "You don’t remember me",
-            "But I remember you"
+            "You had a red dress on / And some high heel shoes",
+            "You don’t remember me / But I remember you"
           ],
           "duration": 12
         },
@@ -709,6 +702,11 @@
           ]
         },
         {
+          "section": "Solo",
+          "chords": [],
+          "lyrics": ["#SOLO"]
+        },
+        {
           "section": "Verse 3",
           "chords": [],
           "lyrics": [
@@ -740,6 +738,145 @@
     {
       "id": "c0f2ba0f-8f32-4d8a-aefd-bc74fc8ffdf9",
       "title": "Help The Poor",
+      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "writtenBy": ["Charles Singleton"],
+      "gemaWerknummer": "814675-001",
+      "songDuration": 315,
+      "lineup": "Band",
+      "scale": "Dm",
+      "notes": "Close: 1 solo, stop on 1/17",
+      "tempo": 110,
+      "timeSignature": "4/4",
+      "pages": [
+        {
+          "section": "Intro + Verse 1",
+          "chords": [],
+          "lyrics": [
+            "Help the poor",
+            "Won’t you help poor me?",
+            "I need help from you, baby",
+            "Need it desperately",
+            "",
+            "I need you so much..."
+          ],
+          "duration": 24
+        },
+        {
+          "section": "Verse 1 (part 2)",
+          "chords": [],
+          "lyrics": [
+            "I need you so much, I need your care",
+            "Need all the loving, baby, you can spare",
+            "Help the poor",
+            "Oh baby, won’t you help poor me?"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Verse 2",
+          "chords": [],
+          "lyrics": [
+            "Say you will",
+            "Say you’ll help me on",
+            "I can’t make it no longer",
+            "In this world alone",
+            "",
+            "#I’m begging baby..."
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Verse 2 (part 2)",
+          "chords": [],
+          "lyrics": [
+            "I’m begging baby, with tears in my eyes",
+            "For your love, don’t you realise",
+            "I need help",
+            "Oh baby, help poor me"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Bridge",
+          "chords": [],
+          "lyrics": [
+            "You are my inspiration",
+            "Baby, that make me be a king",
+            "But if you don’t come to my rescue",
+            "I couldn’t ever be anything"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Verse 3",
+          "chords": [],
+          "lyrics": [
+            "Hey, help the poor",
+            "Won’t you help poor me?",
+            "Have a heart, won’t you baby?",
+            "Listen to my plea",
+            "",
+            "#Oh, I lost my courage..."
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Verse 3 (part 2)",
+          "chords": [],
+          "lyrics": [
+            "Oh, I lost my courage till I found you",
+            "You’ve got what it takes, baby, to pull me through",
+            "Help the poor",
+            "Oh baby, won’t you help poor me?"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Solo + Bridge",
+          "chords": [],
+          "lyrics": [
+            "You are my inspiration",
+            "Baby, that make me be a king",
+            "But if you don’t come to my rescue",
+            "I couldn’t ever be anything"
+          ],
+          "duration": 40
+        },
+        {
+          "section": "Verse 4",
+          "chords": [],
+          "lyrics": [
+            "Hey, help the poor",
+            "Won’t you help poor me?",
+            "Have a heart, won’t you baby?",
+            "Listen to my plea",
+            "",
+            "#Oh, I lost my courage..."
+          ],
+          "duration": 16
+        },
+        {
+          "section": "Verse 4 (part 2)",
+          "chords": [],
+          "lyrics": [
+            "Oh, I lost my courage till I found you",
+            "You’ve got what it takes, baby, to pull me through",
+            "Help the poor",
+            "Oh baby, won’t you help poor me?"
+          ],
+          "duration": 8
+        },
+        {
+          "section": "Solo / outro",
+          "chords": [],
+          "lyrics": ["#SOLO x1 \u21D2 STOP on 1/17"]
+        }
+      ]
+    },
+    {
+      "id": "31b2eeb0-601e-4856-a534-c87847fd8aff",
+      "title": "Help The Poor",
+      "version": "With chords",
       "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
       "writtenBy": ["Charles Singleton"],
       "gemaWerknummer": "814675-001",
@@ -5343,7 +5480,7 @@
             ["C#", "C#", "C#", "C#"],
             ["G#", "G#", "G#", "G# (A Bb)"],
             ["B7", "B7", "B7", "B7!"]
-        ],
+          ],
           "lyrics": [
             "I can see it, yeah. I can see it",
             "I can see it, yeah. I can see it",
@@ -5390,7 +5527,10 @@
         },
         {
           "section": "Refrain",
-          "chords": [["G", "D", "E (B)", "E B E B"], ["G", "D", "B7", "..."],[], 
+          "chords": [
+            ["G", "D", "E (B)", "E B E B"],
+            ["G", "D", "B7", "..."],
+            [],
             ["G", "D", "E (B)", "E B E B"],
             ["G", "D", "E7"]
           ],
