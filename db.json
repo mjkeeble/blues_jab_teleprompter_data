@@ -582,6 +582,7 @@
       "notes": "Close: 2 soli",
       "tempo": 129,
       "timeSignature": "4/4",
+      "configChordPaneSize": 2,
       "pages": [
         {
           "section": "Intro + Chorus",
@@ -1414,20 +1415,17 @@
       "notes": "Close: signal from Mark",
       "tempo": 55,
       "timeSignature": "12/8",
+      "configChordPaneSize": 2,
       "pages": [
         {
           "section": "Intro + Verse 1 - 2",
           "chords": [["Ab", "C", "Db", "Bbm"], [], ["Ab", "C", "Db", "Bbm"], ["Ab", "C", "Db", "Bbm"]],
           "lyrics": [
-            "When I’m cold and shaking",
-            "Like a cat in the rain",
-            "Will you give me shelter? ",
-            "Will you soothe my pain?",
+            "When I’m cold and shaking, like a cat in the rain",
+            "Will you give me shelter? Will you soothe my pain?",
             "",
-            "When I’m down in the flood",
-            "And I can sink or I can swim",
-            "Will you pull me into the shore,",
-            "Will you throw me a ring?"
+            "When I’m down in the flood and I can sink or I can swim",
+            "Will you pull me into the shore? Will you throw me a ring?"
           ],
           "duration": 12
         },
@@ -1455,15 +1453,11 @@
             ["Ab", "C", "Db", "Bbm"]
           ],
           "lyrics": [
-            "When the debt collector",
-            "Comes knocking at my door",
-            "When I ain’t got nothing",
-            "And he want it all",
+            "When the debt collector comes knocking at my door",
+            "When I ain’t got nothing and he want it all",
             " ",
-            "When my only child",
-            "Says I should not call her name",
-            "And everything I do",
-            "Just fills her with shame"
+            "When my only child says I should not call her name",
+            "And everything I do just fills her with shame"
           ],
           "duration": 8
         },
@@ -1491,15 +1485,11 @@
             ["Ab", "C", "Db", "Bbm"]
           ],
           "lyrics": [
-            "When the boss says",
-            "She don’t need me no more",
-            "And sits at her gold-plated desk",
-            "And she shows me the door",
+            "When the boss says she don’t need me no more",
+            "And sits at her gold-plated desk and she shows me the door",
             " ",
-            "When my landlord",
-            "Throws me out of my place",
-            "Not one soul wants to know me",
-            "Noone in the whole human race"
+            "When my landlord throws me out of my place",
+            "Not one soul wants to know me, noone in the whole human race"
           ],
           "duration": 8
         },
