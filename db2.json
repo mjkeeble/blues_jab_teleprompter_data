@@ -296,11 +296,7 @@
       "pages": [
         {
           "section": "Verse 1",
-          "chords": [
-            ["G", "G", "G", "G"],
-            ["C", "C", "G", "G"],
-            ["D", "C", "G", "C"]
-          ],
+          "chords": [],
           "lyrics": [
             "You’ve got me where you want me",
             "You’ve got me on the floor",
@@ -316,11 +312,7 @@
         },
         {
           "section": "Verse 2",
-          "chords": [
-            ["G", "G", "G", "G"],
-            ["C", "C", "G", "G"],
-            ["D", "C", "G", "C"]
-          ],
+          "chords": [],
           "lyrics": [
             "You’ve been spending all my money",
             "Now I haven’t got a dime",
@@ -336,10 +328,7 @@
         },
         {
           "section": "Bridge + solo",
-          "chords": [
-            ["C", "C", "G", "G"],
-            ["D", "C", "G", "C"]
-          ],
+          "chords": [],
           "lyrics": [
             "Why’d you go throwing those sticks and stones",
             "Giving me the third degree?",
@@ -352,14 +341,7 @@
         },
         {
           "section": "Verse 3",
-          "chords": [
-            ["G!", "G!", "G!-!-", "G!!!!"],
-            ["C", "C", "G", "G"],
-            ["D", "C", "G", "C"],
-            [""],
-            ["D", "C", "G", "C"],
-            ["D", "C", "G", "C"]
-          ],
+          "chords": [],
           "lyrics": [
             "I lent you my car / You didn’t bring it back",
             "Now I’m mourning for my 1956 Cadillac",
@@ -389,12 +371,7 @@
       "pages": [
         {
           "section": "Intro + Verse 1",
-          "chords": [
-            ["Dm7", "-", "-", "-"],
-            ["G7", "-", "Dm7", "-"],
-            ["Dm7", "-", "G7", "-"],
-            ["Dm7", "A7", "Dm7", "/"]
-          ],
+          "chords": [],
           "lyrics": [
             "My name is Junior / From Memphis, Tennessee",
             "My daddy was a hustler / And a stranger to me",
@@ -406,12 +383,7 @@
         },
         {
           "section": "Chorus",
-          "chords": [
-            ["Dm7", "-", "-", "-"],
-            ["G7", "-", "Dm7", "-"],
-            ["Dm7", "-", "G7", "-"],
-            ["Dm7", "A7", "Dm7", "/"]
-          ],
+          "chords": [],
           "lyrics": [
             "I remember you / Dancin’ on the floor",
             "I remember you / Walkin’ out the door",
@@ -423,34 +395,20 @@
         },
         {
           "section": "Verse 2",
-          "chords": [
-            ["Dm7", "-", "-", "-"],
-            ["G7", "-", "Dm7", "-"],
-            ["Dm7", "-", "G7", "-"],
-            ["Dm7", "A7", "Dm7", "/"]
-          ],
+          "chords": [],
           "lyrics": [
-            "You had a margarita",
-            "I had a beer",
-            "I wondered what a woman like you",
-            "Was doing way down here",
+            "You had a margarita, I had a beer",
+            "I wondered what a woman like you / Was doing way downhere",
             "",
-            "You tore my heart apart",
-            "The moment you left",
-            "And Junior had a night",
-            "He would never forget"
+            "You tore my heart apart / The moment you left",
+            "And Junior had a night / He would never forget"
           ],
 
           "duration": 16
         },
         {
           "section": "Chorus",
-          "chords": [
-            ["Dm7", "-", "-", "-"],
-            ["G7", "-", "Dm7", "-"],
-            ["Dm7", "-", "G7", "-"],
-            ["Dm7", "A7", "Dm7", "/"]
-          ],
+          "chords": [],
           "lyrics": [
             "I remember you / Dancin’ on the floor",
             "I remember you / Walkin’ out the door",
@@ -462,12 +420,7 @@
         },
         {
           "section": "Bridge",
-          "chords": [
-            ["A7sus4", "A7"],
-            ["A7sus4", "A7"],
-            ["A7sus4", "A7"],
-            ["A7sus4", "A7"]
-          ],
+          "chords": [],
           "lyrics": [
             "Well maybe I was just a number",
             "A face without a name",
@@ -478,13 +431,7 @@
         },
         {
           "section": "Chorus",
-          "chords": [
-            ["Dm7", "-", "-", "-"],
-            ["G7", "-", "Dm7", "-"],
-            ["Dm7", "-", "G7", "-"],
-            ["Dm7", "A7", "Dm7", "Dm7"],
-            ["Dm7", "A7", "Dm7", "Dm7"]
-          ],
+          "chords": [],
           "lyrics": [
             "I remember you / Dancin’ on the floor",
             "I remember you / Walkin’ out the door",
@@ -550,25 +497,32 @@
           "duration": 12
         },
         {
-          "section": "Solo + Verse 2",
+          "section": "Solo",
+          "chords": [
+            ["A7", "-", "-", "-"],
+            ["D7", "-", "A7", "-"],
+            ["E7", "D7", "A7", "/"]
+          ],
+          "lyrics": ["#SOLO x2"],
+          "duration": 24
+        },
+        {
+          "section": "Verse 2",
           "chords": [
             ["A7", "-", "-", "-"],
             ["D7", "-", "A7", "-"],
             ["E7", "D7", "A7", "/"]
           ],
           "lyrics": [
-            "#SOLO x2",
-            "I’ve got a double-bladed axe",
-            "That really cuts good",
-            "I’m a cross cut saw",
-            "Baby bury me in your wood",
+            "I’ve got a double-bladed axe / That really cuts good",
+            "I’m a cross cut saw / Baby bury me in your wood",
             "",
             "I’m a cross cut saw",
             "Just drag me ’cross your log",
             "I cut your wood so easy for you",
             "You can’t help but say ’Hot dog!’"
           ],
-          "duration": 36
+          "duration": 12
         },
         {
           "section": "Chorus",
@@ -593,7 +547,7 @@
             ["D7", "-", "A7", "-"],
             ["E7", "D7", "A7", "/"]
           ],
-          "lyrics": ["#SOLO x2 \u21D2 STOP on 1/13"]
+          "lyrics": ["#SOLO x2", "\u21D2 STOP on 1/13"]
         }
       ]
     },
@@ -755,6 +709,7 @@
           "section": "Solo + Bridge",
           "chords": [],
           "lyrics": [
+            "#SOLO x 2",
             "You are my inspiration",
             "Baby, that make me be a king",
             "But if you don’t come to my rescue",
@@ -1180,9 +1135,6 @@
         {
           "section": "Intro + Verse 1",
           "chords": [
-            ["E7", "A7", "E7", "-"],
-            ["A7", "-", "E7", "-"],
-            ["B7", "A7", "E7", "B7"]
           ],
           "lyrics": [
             "I’ve thinking ’bout you, baby",
@@ -1196,9 +1148,6 @@
         {
           "section": "Verse 2",
           "chords": [
-            ["E7", "A7", "E7", "-"],
-            ["A7", "-", "E7", "-"],
-            ["B7", "A7", "E7", "B7"]
           ],
           "lyrics": [
             "I’ve been dreaming about you, baby",
@@ -1212,9 +1161,6 @@
         {
           "section": "Solo + Verse 3",
           "chords": [
-            ["E7", "A7", "E7", "-"],
-            ["A7", "-", "E7", "-"],
-            ["B7", "A7", "E7", "B7"]
           ],
           "lyrics": [
             "#SOLO x 2",
@@ -1229,9 +1175,6 @@
         {
           "section": "Verse 4",
           "chords": [
-            ["E7", "A7", "E7", "-"],
-            ["A7", "-", "E7", "-"],
-            ["B7", "A7", "E7", "B7"]
           ],
           "lyrics": [
             "Goodbye pretty baby",
@@ -1247,9 +1190,6 @@
         {
           "section": "Outro",
           "chords": [
-            ["E7", "A7", "E7", "-"],
-            ["A7", "-", "E7", "-"],
-            ["B7", "A7", "E7", "B7"]
           ],
           "lyrics": ["#SOLO x2", "#BASS OUTRO on 2nd SOLO (no stop)"]
         }
@@ -1271,12 +1211,8 @@
         {
           "section": "Theme + Verse 1",
           "chords": [
-            ["A7", "-", "-", "-"],
-            ["D7", "-", "A7", "-"],
-            ["E7", "D7", "A7", "/"]
           ],
           "lyrics": [
-            "#THEME",
             "Oh baby, don’t you want a man like me?",
             "I said baby, don’t you want a man like me?",
             "I could give you so much loving",
@@ -1287,9 +1223,6 @@
         {
           "section": "Verse 2",
           "chords": [
-            ["A7", "-", "-", "-"],
-            ["D7", "-", "A7", "-"],
-            ["E7", "D7", "A7", "/"]
           ],
           "lyrics": [
             "Now come on baby, let’s make some love tonight",
@@ -1303,18 +1236,12 @@
         {
           "section": "Solo",
           "chords": [
-            ["A7", "-", "-", "-"],
-            ["D7", "-", "A7", "-"],
-            ["E7", "D7", "A7", "/"]
           ],
           "lyrics": ["#THEME", "#SOLO - MARK"]
         },
         {
           "section": "Verse 3",
           "chords": [
-            ["A7", "-", "-", "-"],
-            ["D7", "-", "A7", "-"],
-            ["E7", "D7", "A7", "/"]
           ],
           "lyrics": [
             "I’m your rollin’ man",
@@ -1476,11 +1403,11 @@
           "section": "Intro + Verse 1 - 2",
           "chords": [["Ab", "C", "Db", "Bbm"], [], ["Ab", "C", "Db", "Bbm"], ["Ab", "C", "Db", "Bbm"]],
           "lyrics": [
-            "When I’m cold and shaking, like a cat in the rain",
-            "Will you give me shelter? Will you soothe my pain?",
+            "When I’m cold and shaking",
+            "Like a cat in the rain...",
             "",
-            "When I’m down in the flood and I can sink or I can swim",
-            "Will you pull me into the shore? Will you throw me a ring?"
+            "When I’m down in the flood and I",
+            "can sink or I can swim ..."
           ],
           "duration": 12
         },
@@ -1508,11 +1435,11 @@
             ["Ab", "C", "Db", "Bbm"]
           ],
           "lyrics": [
-            "When the debt collector comes knocking at my door",
-            "When I ain’t got nothing and he want it all",
+            "When the debt collector",
+            "Comes knocking at my door...",
             " ",
-            "When my only child says I should not call her name",
-            "And everything I do just fills her with shame"
+            "When my only child says I",
+            "Should not call her name..."
           ],
           "duration": 8
         },
@@ -1540,11 +1467,10 @@
             ["Ab", "C", "Db", "Bbm"]
           ],
           "lyrics": [
-            "When the boss says she don’t need me no more",
-            "And sits at her gold-plated desk and she shows me the door",
+            "When the boss says",
+            "She don’t need me no more",
             " ",
-            "When my landlord throws me out of my place",
-            "Not one soul wants to know me, noone in the whole human race"
+            "When my landlord throws me out of my place"
           ],
           "duration": 8
         },
@@ -1585,9 +1511,6 @@
         {
           "section": "Intro + Verse 1",
           "chords": [
-            ["A", "-", "-", "-"],
-            ["D", "-", "A", "-"],
-            ["E", "D", "A", "E"]
           ],
           "lyrics": [
             "You can lie to me, baby",
@@ -1602,16 +1525,11 @@
         {
           "section": "Verse 2",
           "chords": [
-            ["A", "-", "-", "-"],
-            ["D", "-", "A", "-"],
-            ["E", "D", "A", "E"]
           ],
           "lyrics": [
-            "I don’t need to know who",
-            "You were out with the other night",
+            "I don’t need to know who you were out with the other night",
             "",
-            "But if I was with another woman",
-            "That would somehow kinda make it alright",
+            "But if I was with another woman that would somehow kinda make it alright",
             "",
             "That ain’t no reason not hold each other tight"
           ],
@@ -1620,9 +1538,6 @@
         {
           "section": "Bridge",
           "chords": [
-            ["A!", "A!!--", "/", "A!!--"],
-            ["/", "D!!--", "/", "A!!--"],
-            ["E", "D", "A", "E"]
           ],
           "lyrics": [
             "Don’t tell me the truth!",
@@ -1639,9 +1554,6 @@
         {
           "section": "Solo",
           "chords": [
-            ["A", "-", "-", "-"],
-            ["D", "-", "A", "-"],
-            ["E", "D", "A", "E"]
           ],
           "lyrics": ["#1x SOLO - Mark"],
           "duration": 12
@@ -1649,9 +1561,6 @@
         {
           "section": "Verse 3",
           "chords": [
-            ["A", "-", "-", "-"],
-            ["D", "-", "A", "-"],
-            ["E", "D", "A", "E"]
           ],
           "lyrics": [
             "What you doing honey",
@@ -1667,9 +1576,6 @@
         {
           "section": "Verse 4",
           "chords": [
-            ["A", "-", "-", "-"],
-            ["D", "-", "A", "-"],
-            ["E", "D", "A", "E"]
           ],
           "lyrics": [
             "Lie to me, baby",
@@ -1883,15 +1789,7 @@
       "pages": [
         {
           "section": "Intro + Verse 1",
-          "chords": [
-            ["C", "-", "-", "-"],
-            ["F", "-", "C", "-"],
-            ["G", "F", "C", "C"],
-            [],
-            ["C!", "C!", "C!", "C!"],
-            ["F", "-", "C", "-"],
-            ["G", "F", "C", "C"]
-          ],
+          "chords": [],
           "lyrics": [
             "Talked to my baby on the telephone, she said",
             "Stop what you’re doing and come on home",
@@ -1901,11 +1799,7 @@
         },
         {
           "section": "Verse 2",
-          "chords": [
-            ["C!", "C!", "C!", "C!"],
-            ["F", "-", "C", "-"],
-            ["G", "F", "C", "C"]
-          ],
+          "chords": [],
           "lyrics": [
             "She said, daddy you can run, walk or fly",
             "You’re my baby and I love you until the day I die",
@@ -1915,11 +1809,7 @@
         },
         {
           "section": "Chorus",
-          "chords": [
-            ["C", "-", "-", "-"],
-            ["F", "-", "C", "-"],
-            ["G", "F", "C", "C"]
-          ],
+          "chords": [],
           "lyrics": [
             "Talk to me baby (Talk to me ...)",
             "Talk to me baby",
@@ -1933,15 +1823,7 @@
         },
         {
           "section": "Solo + Verse 3",
-          "chords": [
-            ["C", "-", "-", "-"],
-            ["F", "-", "C", "-"],
-            ["G", "F", "C", "C"],
-            [],
-            ["C!", "C!", "C!", "C!"],
-            ["F", "-", "C", "-"],
-            ["G", "F", "C", "C"]
-          ],
+          "chords": [],
           "lyrics": [
             "#SOLO x 2",
             "Oh Daddy, you’re mighty fine",
@@ -1952,11 +1834,7 @@
         },
         {
           "section": "Verse 4",
-          "chords": [
-            ["C!", "C!", "C!", "C!"],
-            ["F", "-", "C", "-"],
-            ["G", "F", "C", "C"]
-          ],
+          "chords": [],
           "lyrics": [
             "#(Last verse)",
             "She said daddy, don’t you worry, don’t you cry",
@@ -1967,11 +1845,7 @@
         },
         {
           "section": "Interaction",
-          "chords": [
-            ["C", "-", "-", "-"],
-            ["F", "-", "C", "-"],
-            ["G", "F", "C", "C"]
-          ],
+          "chords": [],
           "lyrics": [
             "Talk to me baby (Talk to me ...)",
             "Talk to me baby",
@@ -1987,11 +1861,7 @@
         },
         {
           "section": "Outro",
-          "chords": [
-            ["C", "-", "-", "-"],
-            ["F", "-", "C", "-"],
-            ["G", "F", "C", "C"]
-          ],
+          "chords": [],
           "lyrics": ["#1 SOLO", "#Stop on 11"]
         }
       ]
@@ -2149,9 +2019,6 @@
         {
           "section": "Intro + Verse 1",
           "chords": [
-            ["C", "-", "-", "-"],
-            ["F", "-", "C", "-"],
-            ["G", "F", "C", "C"]
           ],
           "lyrics": [
             "Call the doctor, call him quick",
@@ -2164,9 +2031,6 @@
         {
           "section": "Verse 2",
           "chords": [
-            ["C", "-", "-", "-"],
-            ["F", "-", "C", "-"],
-            ["G", "F", "C", "C"]
           ],
           "lyrics": [
             "Well, I had a girlfriend from Alabam’",
@@ -2179,9 +2043,6 @@
         {
           "section": "Verse 3",
           "chords": [
-            ["C", "-", "-", "-"],
-            ["F", "-", "C", "-"],
-            ["G", "F", "C", "C"]
           ],
           "lyrics": [
             "She had a date with a scrap, she met a hip cat",
@@ -2194,9 +2055,6 @@
         {
           "section": " Solo",
           "chords": [
-            ["C", "-", "-", "-"],
-            ["F", "-", "C", "-"],
-            ["G", "F", "C", "C"]
           ],
           "lyrics": ["#SOLO x 2"],
           "duration": 24
@@ -2204,9 +2062,6 @@
         {
           "section": "Verse 4",
           "chords": [
-            ["C", "-", "-", "-"],
-            ["F", "-", "C", "-"],
-            ["G", "F", "C", "C"]
           ],
           "lyrics": [
             "She had a date with a scrap, she met a hip cat",
@@ -2219,9 +2074,6 @@
         {
           "section": "Verse 5",
           "chords": [
-            ["C", "-", "-", "-"],
-            ["F", "-", "C", "-"],
-            ["G", "F", "C", "C"]
           ],
           "lyrics": [
             "Be a good pal, just swappin’ up a dime",
@@ -2234,9 +2086,6 @@
         {
           "section": "Verse 6 + outro",
           "chords": [
-            ["C", "-", "-", "-"],
-            ["F", "-", "C", "-"],
-            ["G", "F", "C", "C"]
           ],
           "lyrics": [
             "Well, you’d better wake up, and try to get wise",
@@ -3287,54 +3136,32 @@
       "pages": [
         {
           "section": "Verse 1",
-          "chords": [
-            ["A!", "A!", "A!", "A!"],
-            ["A!", "A!", "A!", "A!"]
-          ],
+          "chords": [],
           "lyrics": [
-            "I got a sly dog",
-            "Sniffin’ round my door",
-            "Eying up my woman",
-            "Beggin’ on the floor",
-            "He ain’t got no leash",
-            "He completely wild",
+            "I got a sly dog / Sniffin’ at my door",
+            "Eying up my woman / Beggin’ on the floor",
+            "He ain’t got no leash / He completely wild",
             "Drive my woman crazy like some feral child"
           ]
         },
         {
           "section": "Chorus",
-          "chords": [
-            ["D7", "-", "A", "-"],
-            ["E", "D", "A", "E"]
-          ],
+          "chords": [],
           "lyrics": ["I got a sly dog", "But I don’t know what for", "I got a sly dog", "Sniffin’ at my door"]
         },
         {
           "section": "Verse 2",
-          "chords": [
-            ["A!", "A!", "A!", "A!"],
-            ["A!", "A!", "A!", "A!"]
-          ],
+          "chords": [],
           "lyrics": [
-            "I got a cool cat",
-            "Strutting round my space",
-            "Acting like he owns",
-            "The whole damn place",
-            "Rubs up against my leg",
-            "Prowls throughout the house",
+            "I got a cool cat / Strutting round my space",
+            "Acting like he owns / The whole damn place",
+            "Rubs up against my leg / Prowls throughout the house",
             "But that mangy creature, he can’t even catch a mouse"
           ]
         },
         {
           "section": "Chorus",
-          "chords": [
-            ["D", "-", "A", "-"],
-            ["E", "D", "A", "E"],
-            [],
-            ["A", "A", "A", "A"],
-            ["D", "-", "A", "-"],
-            ["E", "D", "A", "E"]
-          ],
+          "chords": [],
           "lyrics": [
             "I got a cool cat baby",
             "But I don’t know what for",
@@ -3346,15 +3173,10 @@
         },
         {
           "section": "Verse 3",
-          "chords": [
-            ["A!", "A!", "A!", "A!"],
-            ["A!", "A!", "A!", "A!"]
-          ],
+          "chords": [],
           "lyrics": [
-            "I got a talking bird repeats",
-            "Everything I say",
-            "Squawks the F-word at me",
-            "Until I go away",
+            "I got a talking bird repeats everything I say",
+            "Squawks the F-word at me until I go away",
             "My girl’s folks came to visit",
             "They didn’t like what they heard",
             "I lost my girl because of that F-word bird"
@@ -3362,10 +3184,7 @@
         },
         {
           "section": "Chorus",
-          "chords": [
-            ["D", "-", "A", "-"],
-            ["E", "D", "A", "E"]
-          ],
+          "chords": [],
           "lyrics": [
             "I got a talking chicken",
             "I don’t know what for",
@@ -3375,15 +3194,10 @@
         },
         {
           "section": "Verse 4",
-          "chords": [
-            ["A!", "A!", "A!", "A!"],
-            ["A!", "A!", "A!", "A!"]
-          ],
+          "chords": [],
           "lyrics": [
-            "I got a wild woman",
-            "I found her in a sack",
-            "I let her out and she just",
-            "Followed me back",
+            "I got a wild woman / I found her in a sack",
+            "I let her out and she just followed me back",
             "She says she can’t clean the dishes",
             "And she won’t sweep the floor",
             "She just eats all my food and then she cries out for more"
@@ -3391,10 +3205,7 @@
         },
         {
           "section": "Chorus",
-          "chords": [
-            ["D", "-", "A", "-"],
-            ["E", "D", "A", "E"]
-          ],
+          "chords": [],
           "lyrics": [
             "Yeah I got a wild woman",
             "I don’t know what for",
@@ -3404,11 +3215,7 @@
         },
         {
           "section": "Outro",
-          "chords": [
-            ["A", "A", "A", "A"],
-            ["D", "-", "A", "-"],
-            ["E", "D", "A", "E"]
-          ],
+          "chords": [],
           "lyrics": ["#2 SOLI, stop on 11"]
         }
       ]
@@ -3430,11 +3237,7 @@
       "pages": [
         {
           "section": "Intro + Verse 1 - 2",
-          "chords": [
-            ["A7", "-", "-", "-"],
-            ["D7", "-", "A7", "-"],
-            ["E7", "D7", "A7", "E7"]
-          ],
+          "chords": [],
           "lyrics": [
             "Mama, when you gonna take me home?",
             "Mama, when you gonna take me home?",
@@ -3444,11 +3247,7 @@
         },
         {
           "section": "Intro + Verse 1 - 2",
-          "chords": [
-            ["A7", "-", "-", "-"],
-            ["D7", "-", "A7", "-"],
-            ["E7", "D7", "A7", "E7"]
-          ],
+          "chords": [],
           "lyrics": [
             "Oh Mama, how did I get here?",
             "Oh Mama, how did I get here?",
@@ -3458,11 +3257,7 @@
         },
         {
           "section": "Verse 3 + bridge",
-          "chords": [
-            ["A7", "-", "-", "-"],
-            ["D7", "-", "A7", "-"],
-            ["E7", "D7", "A7", "E7"]
-          ],
+          "chords": [],
           "lyrics": [
             "Oh Mama, what can I do?",
             "Oh Mama, what can I do?",
@@ -3475,11 +3270,7 @@
         },
         {
           "section": "Verse 4 ",
-          "chords": [
-            ["A7", "-", "-", "-"],
-            ["D7", "-", "A7", "-"],
-            ["E7", "D7", "A7", "E7"]
-          ],
+          "chords": [],
           "lyrics": [
             "Alle meine Entchen schwimmen auf dem See",
             "Schwimmen auf dem See now Mama",
@@ -3491,11 +3282,7 @@
         },
         {
           "section": "Verse 5",
-          "chords": [
-            ["A7", "-", "-", "-"],
-            ["D7", "-", "A7", "-"],
-            ["E7", "D7", "A7", "E7"]
-          ],
+          "chords": [],
           "lyrics": [
             "Oh Mama, when you gonna take me home?",
             "My luck is fading, Mama",
@@ -3594,7 +3381,7 @@
       "pages": [
         {
           "section": "Verse 1",
-          "chords": [["D", "C", "G", "D"]],
+          "chords": [],
           "lyrics": [
             "Gonna take a freight train",
             "Down at the station",
@@ -3607,7 +3394,7 @@
         },
         {
           "section": "Chorus",
-          "chords": [["D", "C", "G", "D"]],
+          "chords": [],
           "lyrics": [
             "Can’t you see, can’t you see",
             "What that woman been doin’ to me",
@@ -3618,7 +3405,7 @@
         },
         {
           "section": "Verse 2",
-          "chords": [["D", "C", "G", "D"]],
+          "chords": [],
           "lyrics": [
             "I’m gonna find me",
             "A hole in the wall",
@@ -3630,7 +3417,7 @@
         },
         {
           "section": "Chorus",
-          "chords": [["D", "C", "G", "D"]],
+          "chords": [],
           "lyrics": [
             "Can’t you see, can’t you see",
             "What that woman been doin’ to me",
@@ -3639,10 +3426,10 @@
             "What that woman been doin’ to me"
           ]
         },
-        { "section": "Solo", "chords": [["D", "C", "G", "D"]], "lyrics": ["#The neverending solo!", "#:-)"] },
+        { "section": "Solo", "chords": [], "lyrics": ["#The neverending solo!", "#:-)"] },
         {
           "section": "Verse 3",
-          "chords": [["D", "C", "G", "D"]],
+          "chords": [],
           "lyrics": [
             "Gonna buy a ticket, as far as I can go",
             "And I ain’t ever coming back",
@@ -3652,7 +3439,7 @@
         },
         {
           "section": "Chorus + Outro",
-          "chords": [["D", "C", "G", "D"]],
+          "chords": [],
           "lyrics": [
             "Can’t you see, can’t you see",
             "What that woman been doin’ to me",
@@ -3775,12 +3562,7 @@
         },
         {
           "section": "Verse 1",
-          "chords": [
-            ["F", "F", "C", "C"],
-            ["G", "F", "C", "C"],
-            ["F", "F", "C", "C"],
-            ["G", "F", "C", "C!"]
-          ],
+          "chords": [],
           "lyrics": [
             "Well, you wake up in the morning, hear the working bell ring",
             "And they march you to the table, you see the same old thing",
@@ -3791,10 +3573,7 @@
         },
         {
           "section": "Chorus",
-          "chords": [
-            ["F", "F", "C", "C"],
-            ["G", "F", "C", "C"]
-          ],
+          "chords": [],
           "lyrics": [
             "Let the midnight special",
             "Shine a light on me (x3)...",
@@ -3805,12 +3584,7 @@
         },
         {
           "section": "Verse 2",
-          "chords": [
-            ["F", "F", "C", "C"],
-            ["G", "F", "C", "C"],
-            ["F", "F", "C", "C"],
-            ["G", "F", "C", "C!"]
-          ],
+          "chords": [],
           "lyrics": [
             "If you’re ever in Houston, well, you better do right",
             "You better not gamble, and you better not fight",
@@ -3821,10 +3595,7 @@
         },
         {
           "section": "Chorus",
-          "chords": [
-            ["F", "F", "C", "C"],
-            ["G", "F", "C", "C"]
-          ],
+          "chords": [],
           "lyrics": [
             "Let the midnight special",
             "Shine a light on me (x3)...",
@@ -3835,22 +3606,12 @@
         },
         {
           "section": "Solo",
-          "chords": [
-            ["F", "F", "C", "C"],
-            ["G", "F", "C", "C"],
-            ["F", "F", "C", "C"],
-            ["G", "F", "C", "C"]
-          ],
+          "chords": [],
           "lyrics": ["#SOLO"]
         },
         {
           "section": "Verse 3",
-          "chords": [
-            ["F", "F", "C", "C"],
-            ["G", "F", "C", "C"],
-            ["F", "F", "C", "C"],
-            ["G", "F", "C", "C!"]
-          ],
+          "chords": [],
           "lyrics": [
             "Yonder come Miss Rosie, how in the world do you know?",
             "Well, I know her by her apron and the dress she wore",
@@ -3861,10 +3622,7 @@
         },
         {
           "section": "Chorus",
-          "chords": [
-            ["F", "F", "C", "C"],
-            ["G", "F", "C", "C"]
-          ],
+          "chords": [],
           "lyrics": [
             "Let the midnight special",
             "Shine a light on me (x3)...",
@@ -3875,12 +3633,7 @@
         },
         {
           "section": "Verse 4",
-          "chords": [
-            ["F", "F", "C", "C"],
-            ["G", "F", "C", "C"],
-            ["F", "F", "C", "C"],
-            ["G", "F", "C", "C!"]
-          ],
+          "chords": [],
           "lyrics": [
             "If you go down to Mar-A-Lago, check out the boxes in the John",
             "They’re full of secrets and launch codes",
@@ -3892,10 +3645,7 @@
         },
         {
           "section": "Chorus",
-          "chords": [
-            ["F", "F", "C", "C"],
-            ["G", "F", "C", "C"]
-          ],
+          "chords": [],
           "lyrics": [
             "Let the midnight special",
             "Shine a light on me (x3)...",
@@ -3906,10 +3656,7 @@
         },
         {
           "section": "Chorus",
-          "chords": [
-            ["F", "F", "C", "C"],
-            ["G", "F", "C", "C"]
-          ],
+          "chords": [],
           "lyrics": [
             "Let the midnight special shine a light on me",
             "Let the midnight special...",
@@ -4239,7 +3986,7 @@
           "chords": [],
           "lyrics": [
             "Hey bartender, give me a beer",
-            "Outside it’s a dark dark night, so let me stay here",
+            "Outside it’s a dark night, so let me stay here",
             "My bed is cold and empty",
             "Cause my baby’s gone",
             "I’m gonna keep warm here, before the night is done"
@@ -4250,7 +3997,7 @@
           "chords": [],
           "lyrics": [
             "Hey bartender, give me one more drink",
-            "I'm as drunk as I look and I'm as sober as I think",
+            "I'm as drunk as I look, but I'm as sober as I think",
             "Was it the mail man",
             "That she took on the run",
             "No matter at all, when the night is done"
@@ -4269,7 +4016,7 @@
             "By the end of the night, I hope the blues will pass",
             "Do you know",
             "Where my old friends have been gone",
-            "Wanna meet Billy and John, before the night is done"
+            "Wanna meet Johnny and The Captain, before the night is done"
           ]
         },
         {
