@@ -301,14 +301,20 @@
             "You’ve got me where you want me",
             "You’ve got me on the floor",
             "I’ve had my share of troubles",
-            "But I ain’t been down here before",
-            "",
+            "But I ain’t been down here before"
+          ],
+          "duration": 6
+        },
+        {
+          "section": "Verse 1 (part 2)",
+          "chords": [],
+          "lyrics": [
             "You used to say you loved me",
             "But now I don’t believe that that was true",
             "You’ve got me where you want me",
             "And all that I can do is sing the blues"
           ],
-          "duration": 14
+          "duration": 8
         },
         {
           "section": "Verse 2",
@@ -317,14 +323,20 @@
             "You’ve been spending all my money",
             "Now I haven’t got a dime",
             "I didn’t care one penny",
-            "’Cos I thought that you were mine",
-            "",
+            "’Cos I thought that you were mine"
+          ],
+          "duration": 4
+        },
+        {
+          "section": "Verse 2 (part 2)",
+          "chords": [],
+          "lyrics": [
             "Now I see through you",
             "And I don’t believe that that was ever true",
             "Now I’m sad and broke and lonely",
             "And all that I can do is sing the blues"
           ],
-          "duration": 12
+          "duration": 8
         },
         {
           "section": "Bridge + solo",
@@ -342,10 +354,13 @@
         {
           "section": "Verse 3",
           "chords": [],
+          "lyrics": ["I lent you my car / You didn’t bring it back", "Now I’m mourning for my 1956 Cadillac"],
+          "duration": 4
+        },
+        {
+          "section": "Verse 3 (part 2)",
+          "chords": [],
           "lyrics": [
-            "I lent you my car / You didn’t bring it back",
-            "Now I’m mourning for my 1956 Cadillac",
-            "",
             "I’ve been walking so long",
             "I’ve got holes in both soles of my shoes",
             "(It’s true)",
@@ -547,7 +562,7 @@
             ["D7", "-", "A7", "-"],
             ["E7", "D7", "A7", "/"]
           ],
-          "lyrics": ["#SOLO x2", "\u21D2 STOP on 1/13"]
+          "lyrics": ["#SOLO x2", "#\u21D2 STOP on 1/13"]
         }
       ]
     },
@@ -1134,8 +1149,7 @@
       "pages": [
         {
           "section": "Intro + Verse 1",
-          "chords": [
-          ],
+          "chords": [],
           "lyrics": [
             "I’ve thinking ’bout you, baby",
             "Thinking ’bout you since you’ve been gone (x2)",
@@ -1147,8 +1161,7 @@
         },
         {
           "section": "Verse 2",
-          "chords": [
-          ],
+          "chords": [],
           "lyrics": [
             "I’ve been dreaming about you, baby",
             "Dreaming you were by my side (x2)",
@@ -1160,8 +1173,7 @@
         },
         {
           "section": "Solo + Verse 3",
-          "chords": [
-          ],
+          "chords": [],
           "lyrics": [
             "#SOLO x 2",
             "You been talking ’bout me, baby",
@@ -1174,8 +1186,7 @@
         },
         {
           "section": "Verse 4",
-          "chords": [
-          ],
+          "chords": [],
           "lyrics": [
             "Goodbye pretty baby",
             "I know that you’ve been here and gone",
@@ -1189,8 +1200,7 @@
         },
         {
           "section": "Outro",
-          "chords": [
-          ],
+          "chords": [],
           "lyrics": ["#SOLO x2", "#BASS OUTRO on 2nd SOLO (no stop)"]
         }
       ]
@@ -1210,8 +1220,7 @@
       "pages": [
         {
           "section": "Theme + Verse 1",
-          "chords": [
-          ],
+          "chords": [],
           "lyrics": [
             "Oh baby, don’t you want a man like me?",
             "I said baby, don’t you want a man like me?",
@@ -1222,8 +1231,7 @@
         },
         {
           "section": "Verse 2",
-          "chords": [
-          ],
+          "chords": [],
           "lyrics": [
             "Now come on baby, let’s make some love tonight",
             "I said baby, let’s make some love tonight",
@@ -1235,14 +1243,12 @@
         },
         {
           "section": "Solo",
-          "chords": [
-          ],
+          "chords": [],
           "lyrics": ["#THEME", "#SOLO - MARK"]
         },
         {
           "section": "Verse 3",
-          "chords": [
-          ],
+          "chords": [],
           "lyrics": [
             "I’m your rollin’ man",
             "Gonna give you all the love you need (x2)",
@@ -1468,9 +1474,9 @@
           ],
           "lyrics": [
             "When the boss says",
-            "She don’t need me no more",
+            "She don’t need me no more...",
             " ",
-            "When my landlord throws me out of my place"
+            "When my landlord throws me out of my place..."
           ],
           "duration": 8
         },
@@ -1510,8 +1516,7 @@
       "pages": [
         {
           "section": "Intro + Verse 1",
-          "chords": [
-          ],
+          "chords": [],
           "lyrics": [
             "You can lie to me, baby",
             "’Cause I’ll sure as hell lie to you (x2)",
@@ -1524,8 +1529,7 @@
         },
         {
           "section": "Verse 2",
-          "chords": [
-          ],
+          "chords": [],
           "lyrics": [
             "I don’t need to know who you were out with the other night",
             "",
@@ -1537,8 +1541,7 @@
         },
         {
           "section": "Bridge",
-          "chords": [
-          ],
+          "chords": [],
           "lyrics": [
             "Don’t tell me the truth!",
             "When I look in your eyes!",
@@ -1553,15 +1556,13 @@
         },
         {
           "section": "Solo",
-          "chords": [
-          ],
+          "chords": [],
           "lyrics": ["#1x SOLO - Mark"],
           "duration": 12
         },
         {
           "section": "Verse 3",
-          "chords": [
-          ],
+          "chords": [],
           "lyrics": [
             "What you doing honey",
             "Coming here with all this proof?",
@@ -1575,8 +1576,7 @@
         },
         {
           "section": "Verse 4",
-          "chords": [
-          ],
+          "chords": [],
           "lyrics": [
             "Lie to me, baby",
             "’Cause I’ll sure as hell lie to you (x2)",
@@ -2018,8 +2018,7 @@
       "pages": [
         {
           "section": "Intro + Verse 1",
-          "chords": [
-          ],
+          "chords": [],
           "lyrics": [
             "Call the doctor, call him quick",
             "I done got something ’bout to make me sick",
@@ -2030,8 +2029,7 @@
         },
         {
           "section": "Verse 2",
-          "chords": [
-          ],
+          "chords": [],
           "lyrics": [
             "Well, I had a girlfriend from Alabam’",
             "She done put her pennies all in a jam",
@@ -2042,8 +2040,7 @@
         },
         {
           "section": "Verse 3",
-          "chords": [
-          ],
+          "chords": [],
           "lyrics": [
             "She had a date with a scrap, she met a hip cat",
             "And nobody knows where she end up at",
@@ -2054,15 +2051,13 @@
         },
         {
           "section": " Solo",
-          "chords": [
-          ],
+          "chords": [],
           "lyrics": ["#SOLO x 2"],
           "duration": 24
         },
         {
           "section": "Verse 4",
-          "chords": [
-          ],
+          "chords": [],
           "lyrics": [
             "She had a date with a scrap, she met a hip cat",
             "And nobody knows where she end up at",
@@ -2073,8 +2068,7 @@
         },
         {
           "section": "Verse 5",
-          "chords": [
-          ],
+          "chords": [],
           "lyrics": [
             "Be a good pal, just swappin’ up a dime",
             "You thinkin’ about a man, throw it after mine",
@@ -2085,8 +2079,7 @@
         },
         {
           "section": "Verse 6 + outro",
-          "chords": [
-          ],
+          "chords": [],
           "lyrics": [
             "Well, you’d better wake up, and try to get wise",
             "Get yourself hip to that old crazy jive",
@@ -3383,11 +3376,9 @@
           "section": "Verse 1",
           "chords": [],
           "lyrics": [
-            "Gonna take a freight train",
-            "Down at the station",
+            "Gonna take a freight train down at the station",
             "I don’t care where it goes",
-            "Gonna climb a mountain",
-            "The highest mountain",
+            "Gonna climb a mountain ,the highest mountain",
             "Gonna jump right off",
             "No one’s gonna know"
           ]
@@ -3407,8 +3398,7 @@
           "section": "Verse 2",
           "chords": [],
           "lyrics": [
-            "I’m gonna find me",
-            "A hole in the wall",
+            "I’m gonna find me a hole in the wall",
             "Gonna crawl inside and I'm gonna die",
             "’Cause my lady",
             "Now a mean old woman",
