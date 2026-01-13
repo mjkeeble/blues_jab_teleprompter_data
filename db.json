@@ -18,7 +18,7 @@
       "logo": { "src": "/mjk_logo4 black.svg.svg", "alt": "Mark J. Keeble", "text": "Mark J. Keeble" }
     },
     {
-      "id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "name": "Blues Jab",
       "logo": { "src": "/blues_jab_logo.svg", "alt": "Blues Jab - Boy Band of the Blues", "text": "" }
     },
@@ -27,7 +27,7 @@
   "gigs": [
     {
       "id": "5245ff4c-d291-43b1-80c5-9ba8d6c59462",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "venue": "<<Practice set>>",
       "town": "Babelsberg",
       "dateTime": "2028-04-06T19:00:00+02:00",
@@ -71,7 +71,7 @@
     },
     {
       "id": "39709f62-ffed-4d83-aa90-59de968a29ac",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "venue": "Die Alte Garage",
       "town": "Babelsberg",
 
@@ -126,7 +126,7 @@
     },
     {
       "id": "e89e5549-c88e-4120-b54e-1cc08a13d43c",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "venue": "Regenbogen Camp",
       "town": "Göhren",
       "dateTime": "2024-06-15T19:00:00+02:00",
@@ -156,7 +156,7 @@
     },
     {
       "id": "983fd675-68b1-4870-a5cf-afff56fd5726",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "venue": "Kulturscheune",
       "town": "Rangsdorf",
       "dateTime": "2024-09-28T19:30:00+02:00",
@@ -176,7 +176,7 @@
     },
     {
       "id": "645ed511-b22f-4cd2-aa2c-3d73464a2b71",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "venue": "strahlwerk",
       "town": "Stralsund",
       "dateTime": "2024-09-21T14:00:00+02:00",
@@ -212,7 +212,7 @@
     },
     {
       "id": "306a96f3-de7d-4fd6-bb61-983140a76d47",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "venue": "Die Alte Garage",
       "town": "Babelsberg",
       "dateTime": "2025-04-05T19:00:00+02:00",
@@ -248,7 +248,7 @@
     },
     {
       "id": "53fb4e55-6cbe-4bb8-9b31-e1c372503db0",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "venue": "Regenbogen Camp",
       "town": "Göhren",
       "dateTime": "2025-06-18T21:10:00+02:00",
@@ -336,7 +336,7 @@
     {
       "id": "41c348f2-239b-47d4-99a4-2042023a6a1f",
       "title": "All That I Can Do Is Sing The Blues",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "31889321-001",
       "songDuration": 120,
@@ -430,7 +430,7 @@
     {
       "id": "3cc0fe78-9f53-40b2-9a19-52cddefb512b",
       "title": "I Remember You",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Keb’ Mo’"],
       "gemaWerknummer": "22718367-001",
       "songDuration": 285,
@@ -545,7 +545,6 @@
             "You had a red dress on / And some high heel shoes",
             "You don’t remember me / But I remember you",
             "You don’t remember me / But I remember you"
-
           ],
           "duration": 16
         },
@@ -555,9 +554,9 @@
     {
       "id": "780cf08c-66e0-42a8-9555-08c8fd34f976",
       "title": "Crosscut Saw",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
-      "writtenBy": ["Trad."],
-      "gemaWerknummer": "",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
+      "writtenBy": ["R.G.Ford"],
+      "gemaWerknummer": "1586943-003",
       "songDuration": 180,
       "lineup": "Band",
       "scale": "A",
@@ -654,7 +653,7 @@
     {
       "id": "bac7024e-381c-4483-b44c-01bc1d23c748",
       "title": "One Step Forward",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Dave Bronze"],
       "gemaWerknummer": "3248336-001",
       "songDuration": 315,
@@ -666,7 +665,7 @@
       "pages": [
         {
           "section": "Verse 1",
-          "chords": [],
+          "chords": [["Am7", "-"], [], ["Am7", "-", "-", "-"], ["Dm7", "-", "Am7", "-"], ["Bm7", "C  D", "Am7", "-"]],
           "lyrics": [
             "Well, they call her Lady Luck ...",
             "She gave me only famine ...",
@@ -679,7 +678,7 @@
         },
         {
           "section": "Verse 2",
-          "chords": [],
+          "chords": [["Am7", "-"], [], ["Am7", "-", "-", "-"], ["Dm7", "-", "Am7", "-"], ["Bm7", "C  D", "Am7", "-"]],
           "lyrics": [
             "I can’t pay the landlord ...",
             "I wanna be a winner ...",
@@ -692,12 +691,19 @@
         },
         {
           "section": "Solo",
-          "chords": [],
+          "chords": [
+            ["Am7", "-", "-", "-"],
+            ["Dm7", "-", "Am7", "-"],
+            ["Bm7", "C  D", "Am7", "-"]
+          ],
           "lyrics": ["#SOLO"]
         },
         {
           "section": "Verse 3",
-          "chords": [],
+          "chords": [
+            ["Am7", "-", "-", "-"],
+            ["Dm7", "-", "Am7", "-"]
+          ],
           "lyrics": [
             "I’ve got to check the dealer...",
             "If I try to climb the ladder ...",
@@ -708,7 +714,7 @@
         },
         {
           "section": "Verse 3 (part 2)",
-          "chords": [],
+          "chords": [["Bm7", "C  D", "Am7!", "/"]],
           "lyrics": [
             "Got to take my lousy luck",
             "And drown it in a sack",
@@ -719,7 +725,14 @@
         },
         {
           "section": "Bridge + outro",
-          "chords": [],
+          "chords": [
+            ["Am7", "-", "-", "-"],
+            ["Am7", "-", "-", "-"],
+            ["Dm7", "-", "Am7", "-"],
+            ["Bm7", "C  D", "Am7!", "/"],
+            ["Am7", "-", "-", "-"],
+            ["Am7", "-", "-", "-"]
+          ],
           "lyrics": ["One step forward, two steps back (x4)", "", "#SOLO", "", "One step forward, two steps back (x4)"]
         }
       ]
@@ -728,7 +741,7 @@
       "id": "c0f2ba0f-8f32-4d8a-aefd-bc74fc8ffdf9",
       "title": "Help The Poor",
       "version": "Lyrics only",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Charles Singleton"],
       "gemaWerknummer": "814675-001",
       "songDuration": 315,
@@ -741,12 +754,7 @@
         {
           "section": "Intro + Verse 1",
           "chords": [],
-          "lyrics": [
-            "Help the poor",
-            "Won’t you help poor me?",
-            "I need help from you, baby",
-            "Need it desperately"
-          ],
+          "lyrics": ["Help the poor", "Won’t you help poor me?", "I need help from you, baby", "Need it desperately"],
           "duration": 24
         },
         {
@@ -763,12 +771,7 @@
         {
           "section": "Verse 2",
           "chords": [],
-          "lyrics": [
-            "Say you will",
-            "Say you’ll help me on",
-            "I can’t make it no longer",
-            "In this world alone"
-          ],
+          "lyrics": ["Say you will", "Say you’ll help me on", "I can’t make it no longer", "In this world alone"],
           "duration": 8
         },
         {
@@ -859,7 +862,7 @@
       "id": "31b2eeb0-601e-4856-a534-c87847fd8aff",
       "title": "Help The Poor",
       "version": "With chords",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Charles Singleton"],
       "gemaWerknummer": "814675-001",
       "songDuration": 315,
@@ -1053,7 +1056,7 @@
     {
       "id": "5957ecda-d3c6-4948-9fec-6b57466a0f9f",
       "title": "Sho’ Nuff I Do",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Elmore James"],
       "gemaWerknummer": "2129357-001",
       "songDuration": 160,
@@ -1139,7 +1142,7 @@
     {
       "id": "f20d67ec-6504-48fe-b914-179144e72219",
       "title": "The Thrill Is Gone",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Rick Darnell", "Roy Hawkins"],
       "gemaWerknummer": "532048-001",
       "songDuration": 230,
@@ -1230,7 +1233,7 @@
     {
       "id": "9dc70b21-b7b7-44a8-a011-51f375fc7ba3",
       "title": "Thinkin’ ’Bout You",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "31889317-001",
       "songDuration": 210,
@@ -1322,7 +1325,7 @@
     {
       "id": "e88c2eef-a19c-4839-b1e2-543d2141d5c5",
       "title": "Rollin’ Man",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Patrick Adams", "Peter Green"],
       "gemaWerknummer": "510859-001",
       "songDuration": 210,
@@ -1402,7 +1405,7 @@
     {
       "id": "ca239b51-8d29-47bd-a66e-f7dafd3a5a22",
       "title": "Mustang Sally",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Mack Rice"],
       "gemaWerknummer": "749289-001",
       "songDuration": 360,
@@ -1525,7 +1528,7 @@
     {
       "id": "b9443cb7-f820-4cc8-b03c-6346a697b744",
       "title": "Can I Lean On You?",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "32939344-001",
       "songDuration": 310,
@@ -1635,7 +1638,7 @@
     {
       "id": "337b0158-77d3-413d-9c20-829e49794e34",
       "title": "Lie To Me",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "33774111-001",
       "songDuration": 210,
@@ -1761,7 +1764,7 @@
     {
       "id": "8c801c75-6007-4e7e-90f5-17dc760ff7e7",
       "title": "Mama (Kindergarten Blues)",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "version": "Second bridge at end",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "31889331-001",
@@ -1853,7 +1856,7 @@
     {
       "id": "3ce3148b-a8fb-4989-b552-9dde0bcf9fbd",
       "title": "Something Like Olivia",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["John Mayer"],
       "gemaWerknummer": "12696097-001",
       "songDuration": 180,
@@ -1934,7 +1937,7 @@
     {
       "id": "0a7a9d70-67ab-4153-8ce0-4164cb748031",
       "title": "Talk To Me Baby",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Elmore James"],
       "gemaWerknummer": "564260-001",
       "songDuration": 255,
@@ -2063,7 +2066,7 @@
     {
       "id": "b8115650-05fc-4a82-8cab-e9a257c3044b",
       "title": "Salvation Hymn",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "28368152-004",
       "songDuration": 210,
@@ -2199,7 +2202,7 @@
     {
       "id": "e6041e89-49ae-423b-8836-32c5abd97997",
       "title": "Kissing In The Dark",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Ernest Lawlers"],
       "gemaWerknummer": "2676917-001",
       "songDuration": 195,
@@ -2316,7 +2319,7 @@
     {
       "id": "f7fd745e-fd8b-4c10-83fe-5b3bef16a5a8",
       "title": "Hey Joe",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Billy Roberts"],
       "gemaWerknummer": "754810-001",
       "songDuration": 210,
@@ -3273,7 +3276,7 @@
     {
       "id": "0bd28a0a-739d-4b67-9f84-47af635d1380",
       "title": "Look, Don’t Touch",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "31889323-001",
       "songDuration": 165,
@@ -3370,7 +3373,7 @@
     {
       "id": "51c79f96-f7e2-4631-ba01-e4c806e577e7",
       "title": "Baby What You Want Me To Do",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Jimmy Reed"],
       "gemaWerknummer": "912087-001",
       "songDuration": 165,
@@ -3399,7 +3402,7 @@
     {
       "id": "faabb700-c5ca-4122-b7cc-c5a6117f499c",
       "title": "Blue Jeans Blues",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Billy Gibbons", "Dusty Hill", "Frank Beard"],
       "gemaWerknummer": "1060733-001",
       "songDuration": 145,
@@ -3437,7 +3440,7 @@
     {
       "id": "c59fa3df-e058-40aa-9c21-ce9bad3ed636",
       "title": "Sly Dog Blues",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "",
       "songDuration": 145,
@@ -3579,7 +3582,7 @@
     {
       "id": "c0a812d7-b113-4c05-9830-fb6e135dc287",
       "title": "Mama (Kindergarten Blues)",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "version": "No bridge at end",
       "writtenBy": ["Mark Keeble"],
       "gemaWerknummer": "31889331-001",
@@ -4091,7 +4094,7 @@
     {
       "id": "8cd97923-8863-42e1-bbc0-b834cfea66bc",
       "title": "Loan Me A Dime",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Fenton Robinson"],
       "gemaWerknummer": "770987-001",
       "lineup": "Band",
@@ -4166,7 +4169,7 @@
     {
       "id": "6b94048e-20a8-4073-a824-2d00563693db",
       "title": "Full Moon, Half Crazy",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Jeffrey Schroedl"],
       "lineup": "Band",
       "scale": "A",
@@ -4265,7 +4268,7 @@
     {
       "id": "9ded6232-afae-49d7-aaea-ae74685798bf",
       "title": "Get It While You Can",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Dan Auerbach", "John Prine", "Pat McLaughlin"],
       "gemaWerknummer": "",
       "lineup": "Band",
@@ -4350,9 +4353,9 @@
     {
       "id": "0c0bf929-27cd-4a50-9428-9ca69c76bdd8",
       "title": "Can’t You See",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Toy Caldwell"],
-      "gemaWerknummer": "",
+      "gemaWerknummer": "393111-001",
       "lineup": "Band",
       "scale": "D",
       "notes": "Close: chorus vamp, break on signal",
@@ -4434,7 +4437,7 @@
     {
       "id": "9e912f58-3802-441c-a5ec-796b96aaf824",
       "title": "Personal Jesus (unfinished)",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Martin L. Gore"],
       "gemaWerknummer": "GEMA",
       "setup": "Capo 2rd fret",
@@ -4572,7 +4575,7 @@
     {
       "id": "6ca5a4d6-29dd-4ac2-8626-e454e956543d",
       "title": "Tennessee Whiskey",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Dean Dillon", "Linda Hargrove"],
       "gemaWerknummer": "1259926-001",
       "scale": "A",
@@ -4649,10 +4652,10 @@
     {
       "id": "5f32f95d-3ba0-41e1-bb83-9662bb4e4fd1",
       "title": "Midnight Special",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "version": "4 verses",
-      "writtenBy": ["Lead Belly"],
-      "gemaWerknummer": "",
+      "writtenBy": ["Huddie Ledbetter"],
+      "gemaWerknummer": "1113735-001",
       "lineup": "Band",
       "tempo": 110,
       "scale": "A",
@@ -4827,7 +4830,7 @@
     {
       "id": "6f5367a0-d164-4d2a-9a76-b3279ff88472",
       "title": "Midnight Special",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "version": "3 verses",
       "writtenBy": ["Lead Belly"],
       "gemaWerknummer": "",
@@ -4975,7 +4978,7 @@
     {
       "id": "67ddc4b2-95b8-4dd5-b218-00edb9f36ef8",
       "title": "It’s Not My Cross to Bear",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Gregg Allman"],
       "gemaWerknummer": "",
       "lineup": "Band",
@@ -5043,7 +5046,7 @@
     {
       "id": "51fe53b0-edb0-4c29-bfc4-e51a5464fe77",
       "title": "Still A Man",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Frank Neubauer"],
       "gemaWerknummer": "",
       "lineup": "Band",
@@ -5133,7 +5136,7 @@
     {
       "id": "5c047e00-80cd-4bf5-b761-49b82126ced7",
       "title": "Hey Bartender",
-      "act_id": "25929bc6-7a53-440e-9683-b45a09d597ed",
+      "act_id": "e47aa59e-7862-492d-ab91-7d7a3141d99e",
       "writtenBy": ["Frank Neubauer"],
       "gemaWerknummer": "",
       "lineup": "Band",
